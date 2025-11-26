@@ -25,14 +25,17 @@
         }
       ]
     },
-    "uploadImage": {
-      "heading": "Upload Your Image",
-      "prompt": {
-        "heading": "Image Upload",
-        "placeholder": "E.g., Upload an image to extract colors."
-      },
-      "processButton": "Generate Color Palette Now"
-    }
+    "removePhoto": {
+            "heading": "Upload Your Image",
+            "prompt": {
+                "heading": " Prompt",
+                "placeholder": "E.g., Upload an image to extract colors."
+            },
+            "upload": {
+                "heading": " Upload Your Image"
+            },
+            "processButton": "Generate Color Palette Now"
+        }
   },
   "trustIndicators": {
     "items": [
