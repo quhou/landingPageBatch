@@ -1,9 +1,9 @@
 {
   "language": "pt",
-  "title": "WaveSpeed AI - Restauração Facial com IA",
+  "title": "WaveSpeed AI - Restauração de Rosto com IA",
   "meta": {
-    "description": "Melhore e restaure imagens faciais com tecnologia de IA. Utilizando algoritmos avançados, o WaveSpeed AI transforma imagens de baixa qualidade em retratos impressionantes que refletem a verdadeira beleza. Ideal para fotografia, redes sociais e uso profissional. Descubra a mágica hoje!",
-    "keywords": "restauração facial com IA, melhoria de imagem, restauração de retrato, melhoria de imagem facial, aprimoramento da beleza, editor de fotos com IA, retratos de alta qualidade, melhoria de imagem para redes sociais, restauração profissional de fotos, restaurar imagens com IA"
+    "description": "Melhore e restaure imagens faciais com tecnologia de IA. Utilizando algoritmos avançados, o WaveSpeed AI transforma imagens de baixa qualidade em retratos deslumbrantes que refletem a verdadeira beleza. Ideal para fotografia, redes sociais e uso profissional. Descubra a mágica hoje!",
+    "keywords": "restauração de rosto com IA, melhoria de imagem, restauração de retrato, melhoria de imagem facial, aprimoramento de beleza, editor de fotos com IA, retratos de alta qualidade, melhoria de imagem para redes sociais, restauração de fotos profissionais, restaurar imagens com IA"
   },
   "header": {
     "nav": [
@@ -26,10 +26,10 @@
         ]
       },
       {
-        "label": "Demonstração",
+        "label": "Mostruário",
         "items": [
           [
-            "Demonstração",
+            "Mostruário",
             "https://wavespeed.ai/studio/ecommerce/showcase"
           ]
         ]
@@ -38,34 +38,34 @@
     "tryText": "Experimente agora"
   },
   "hero": {
-    "heading": "Restauração Facial Simplificada",
-    "subHeading": "Revitalize suas Imagens com Precisão de IA",
-    "description": "Transforme imagens faciais borradas ou danificadas em retratos vibrantes e detalhados em segundos. Perfeito para aprimorar fotos para redes sociais, portfólios profissionais e mais. Experimente o poder da restauração impulsionada por IA.",
+    "heading": "Restauração de Rosto Facilmente",
+    "subHeading": "Revitalize Suas Imagens com Precisão da IA",
+    "description": "Transforme imagens faciais borradas ou danificadas em retratos vibrantes e detalhados em segundos. Perfeito para melhorar fotos para redes sociais, portfólios profissionais e mais. Experimente o poder da restauração impulsionada pela IA.",
     "tryText": "Experimente Agora",
     "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
   },
   "compare": {
-    "heading": "Solução de Restauração Facial com IA do WaveSpeed AI",
+    "heading": "Solução de Restauração de Rosto com IA WaveSpeed AI",
     "left": {
       "heading": "Desafios da Restauração de Imagens Tradicional",
       "items": [
-        "A restauração manual é demorada e cara",
+        "Restauração manual é demorada e cara",
         "Requer habilidades e software de edição extensivos",
         "Resultados inconsistentes de diferentes técnicas",
-        "Eficácia limitada em imagens de baixa resolução",
+        "Efetividade limitada em imagens de baixa resolução",
         "Não escalável para processamento em massa de imagens"
       ]
     },
     "right": {
-      "heading": "Solução WaveSpeed AI",
+      "heading": "Solução WaveSpeedAI",
       "items": [
-        "Aprimore e restaure rostos instantaneamente em segundos",
-        "Nenhuma experiência de edição necessária - Basta enviar imagens",
-        "Resultados consistentes e de alta qualidade impulsionados por IA",
+        "Melhore e restaure rostos em segundos",
+        "Nenhuma experiência em edição necessária - Basta enviar imagens",
+        "Resultados consistentes e de alta qualidade impulsionados pela IA",
         "Funciona em várias qualidades e formatos de fotos",
-        "Preços acessíveis sob demanda adequados para todos"
+        "Preço acessível sob demanda, adequado para todos"
       ],
-      "tryText": "Tente"
+      "tryText": "Experimente"
     }
   },
   "howItWorks": {
@@ -82,21 +82,21 @@
       {
         "number": "2",
         "title": "Escolher Nível de Restauração",
-        "text": "Selecione o grau de aprimoramento que você precisa (leve a extremo)",
+        "text": "Selecione o grau de aprimoramento que você precisa (suave a extremo)",
         "color": "#a855f7",
         "icon": "PurpleCircle"
       },
       {
         "number": "3",
-        "title": "Rever e Ajustar",
-        "text": "Visualize a restauração e faça ajustes se necessário",
+        "title": "Revisar e Ajustar",
+        "text": "Visualize a restauração e faça ajustes, se necessário",
         "color": "#14b8a6",
         "icon": "GreenSquares"
       },
       {
         "number": "4",
         "title": "Baixar Imagem Aprimorada",
-        "text": "Receba seu retrato restaurado com direitos comerciais em instantes",
+        "text": "Receba seu retrato restaurado com direitos comerciais em momentos",
         "color": "#fb923c",
         "icon": "OrangeHex"
       }
@@ -104,15 +104,15 @@
     "generateText": "Restaure Sua Primeira Imagem →"
   },
   "endlessPossibilities": {
-    "heading": "Possibilidades Infinitas de Restauração",
+    "heading": "Possibilidades de Restauração Infinita",
     "description": "Ideal para várias aplicações e usuários",
     "items": [
       "Aprimoramento de fotos pessoais para redes sociais",
       "Atualizações de portfólios de fotografia profissional",
-      "Restauração de fotos históricas ou de família valorizadas",
+      "Restauração de fotos históricas ou de família",
       "Melhoria de imagem para materiais de marketing",
       "Aprimoramento de imagens para perfis de namoro online",
-      "Revitalização de fotos antigas para aniversários e eventos",
+      "Revitalizando fotos antigas para aniversários e eventos",
       "Obras de arte personalizadas que precisam de retoques faciais",
       "Transformações antes/depois para depoimentos"
     ]
@@ -134,11 +134,11 @@
         },
         "value": "95%",
         "key": "Melhoria de Qualidade",
-        "description": "Restauramos 100 imagens de casamento em poucas horas, aumentando drasticamente a satisfação dos clientes."
+        "description": "Restauramos 100 imagens de casamentos em poucas horas, aumentando drasticamente a satisfação dos clientes."
       },
       {
         "tag": "Influenciadores de Redes Sociais",
-        "heading": "Renovações de Perfis no Instagram",
+        "heading": "Reformas em Perfis do Instagram",
         "before": {
           "label": "Antes",
           "text": "Baixo Engajamento"
@@ -148,8 +148,8 @@
           "text": "Aumento de Seguidores"
         },
         "value": "80%",
-        "key": "Impulso de Engajamento",
-        "description": "Imagens de perfil transformadas levaram a um aumento significativo de novos seguidores e engajamento."
+        "key": "Aumento de Engajamento",
+        "description": "Perfis transformados levaram a um aumento significativo de novos seguidores e engajamento."
       }
     ]
   },
@@ -161,25 +161,25 @@
       "Restauração Avançada: Refinamento de alta qualidade para retratos detalhados",
       "Restauração Extrema: Restauração profunda para imagens severamente danificadas",
       "Filtros Personalizados para looks personalizados",
-      "Recursos de ajuste amigáveis para precisão",
+      "Recursos de ajuste amigáveis ao usuário para precisão",
       "Direitos comerciais incluídos em todos os modelos"
     ]
   },
   "relatedAITools": {
     "heading": "Ferramentas de IA Relacionadas",
-    "description": "Explore ferramentas adicionais de IA poderosas para aprimoramento de imagens"
+    "description": "Explore ferramentas de IA poderosas adicionais para aprimoramento de imagem"
   },
   "faq": {
     "heading": "Perguntas Frequentes",
-    "description": "Tudo o que você precisa saber",
+    "description": "Tudo que você precisa saber",
     "items": [
       {
         "question": "Que tipo de imagens posso restaurar?",
-        "answer": "Você pode restaurar quaisquer imagens faciais, incluindo fotos pessoais, retratos profissionais e imagens digitalizadas. A IA funciona melhor em imagens claras e bem iluminadas, mas também pode melhorar fotos de baixa qualidade."
+        "answer": "Você pode restaurar qualquer imagem facial, incluindo fotos pessoais, retratos profissionais e imagens digitalizadas. A IA funciona melhor em imagens claras e bem iluminadas, mas também pode melhorar fotos de menor qualidade."
       },
       {
         "question": "Como as imagens restauradas são diferentes da edição tradicional?",
-        "answer": "Nossa IA oferece resultados rápidos e consistentes que mantêm as características faciais naturais, ao contrário dos métodos tradicionais que podem levar à superedição ou aparências irreais."
+        "answer": "Nossa IA oferece resultados rápidos e consistentes que preservam características faciais naturais, ao contrário dos métodos tradicionais que podem levar a edições excessivas ou aparência não realista."
       },
       {
         "question": "Posso ajustar a intensidade da restauração?",
@@ -187,11 +187,11 @@
       },
       {
         "question": "Há um limite para quantas imagens posso processar?",
-        "answer": "Não, você pode restaurar várias imagens ao mesmo tempo. Nossa plataforma permite processamento em lote para uso eficiente, economizando seu tempo."
+        "answer": "Não, você pode restaurar várias imagens de uma vez. Nossa plataforma permite o processamento em lote para uso eficiente, economizando seu tempo."
       },
       {
         "question": "Quais tipos de arquivo vocês suportam para uploads?",
-        "answer": "Suportamos vários formatos incluindo JPG, PNG e TIFF. Certifique-se de que suas imagens estejam claras para resultados otimizados."
+        "answer": "Nós suportamos vários formatos, incluindo JPG, PNG e TIFF. Certifique-se de que suas imagens são claras para resultados otimizados."
       },
       {
         "question": "Quanto tempo leva o processo de restauração?",
@@ -199,11 +199,11 @@
       },
       {
         "question": "Eu obtenho direitos comerciais para as imagens restauradas?",
-        "answer": "Absolutamente! Todas as imagens restauradas vêm com direitos de uso comercial completos sem taxas adicionais."
+        "answer": "Absolutamente! Todas as imagens restauradas vêm com direitos de uso comercial completos, sem taxas adicionais."
       },
       {
-        "question": "Quais opções de suporte estão disponíveis para resolução de problemas?",
-        "answer": "Oferecemos suporte abrangente através de documentação, tutoriais e chat ao vivo. Nossa equipe dedicada está pronta para ajudar dentro de 24 horas para quaisquer problemas."
+        "question": "Quais opções de suporte estão disponíveis para solucionar problemas?",
+        "answer": "Nós fornecemos suporte abrangente por meio de documentação, tutoriais e chat ao vivo. Nossa equipe dedicada está pronta para ajudar dentro de 24 horas para qualquer problema."
       }
     ]
   },
@@ -214,8 +214,8 @@
     "tryText": "Experimente Agora →"
   },
   "footer": {
-    "heading": "Transforme suas Fotos Agora!",
-    "description": "Utilize o WaveSpeed AI para aprimorar suas imagens. Sem necessidade de inscrição.",
+    "heading": "Transforme Suas Fotos Agora!",
+    "description": "Use o WaveSpeed AI para aprimorar suas imagens. Nenhum cadastro requerido.",
     "ctaText": "Restaure Rostos Agora",
     "text": "© 2025 WaveSpeed AI. Todos os direitos reservados."
   }

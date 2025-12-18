@@ -1,9 +1,9 @@
 {
   "language": "pt",
-  "title": "WaveSpeed AI - Alterador de Fundo de IA para Vídeo",
+  "title": "WaveSpeed AI - Mudador de Fundo de IA para Vídeo",
   "meta": {
-    "description": "Substitua os fundos dos seus vídeos sem esforço com tecnologia de IA de ponta. Transforme cenas facilmente enquanto melhora sua narrativa visual. Ideal para criadores de conteúdo e profissionais de marketing. Experimente o futuro da produção de vídeo!",
-    "keywords": "alterador de fundo de IA, ferramenta de edição de vídeo, remoção de fundo de vídeo com IA, produção de vídeo, criação de conteúdo, marketing de vídeo, substituição de fundo, WaveSpeed AI"
+    "description": "Substitua fundos em seus vídeos de forma contínua com tecnologia de IA de ponta. Transforme cenas sem esforço enquanto aprimora sua narrativa visual. Ideal para criadores de conteúdo e profissionais de marketing. Experimente o futuro da produção de vídeo!",
+    "keywords": "mudador de fundo de IA, ferramenta de edição de vídeo, remoção de fundo de vídeo com IA, produção de vídeo, criação de conteúdo, marketing de vídeo, substituição de fundo, WaveSpeed AI"
   },
   "header": {
     "nav": [
@@ -26,10 +26,10 @@
         ]
       },
       {
-        "label": "Demonstração",
+        "label": "Vitrine",
         "items": [
           [
-            "Demonstração",
+            "Vitrine",
             "https://wavespeed.ai/studio/ecommerce/showcase"
           ]
         ]
@@ -38,32 +38,32 @@
     "tryText": "Experimente agora"
   },
   "hero": {
-    "heading": "Alterador de Fundo para Vídeo",
-    "subHeading": "Transforme Suas Cenas Instantly",
-    "description": "Substitua facilmente os fundos de vídeo com visuais impressionantes alimentados por tecnologia de IA avançada. Crie conteúdo cativante sem a complicação das ferramentas de edição tradicionais. Junte-se à revolução na produção de vídeo hoje!",
+    "heading": "Mudador de Fundo para Vídeo",
+    "subHeading": "Transforme Suas Cenas Instantaneamente",
+    "description": "Substitua facilmente fundos de vídeo com visuais impressionantes impulsionados por tecnologia de IA avançada. Crie conteúdo cativante sem a dificuldade das ferramentas de edição tradicionais. Junte-se à revolução na produção de vídeo hoje!",
     "tryText": "Experimente Agora",
     "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
   },
   "compare": {
-    "heading": "Solução de Alterador de Fundo de IA WaveSpeed AI para Vídeo",
+    "heading": "Solução Mudador de Fundo de IA da WaveSpeed AI para Vídeo",
     "left": {
       "heading": "Armadilhas da Edição Tradicional",
       "items": [
         "Processo de remoção de fundo demorado",
         "Requer software caro e habilidades avançadas",
         "Flexibilidade limitada para edições rápidas",
-        "Ajustes manuais muitas vezes levam a resultados inconsistentes",
-        "Custos altos para pequenas produções"
+        "Ajustes manuais frequentemente levam a resultados inconsistentes",
+        "Altos custos para pequenas produções"
       ]
     },
     "right": {
       "heading": "Solução WaveSpeed AI",
       "items": [
         "Transforme fundos em apenas segundos",
-        "Nenhuma habilidade especial necessária - Basta carregar seu vídeo",
+        "Nenhuma habilidade especial necessária - Basta enviar seu vídeo",
         "Gere instantaneamente resultados de alta qualidade com IA",
-        "Criatividade ilimitada com opções de fundo infinitas",
-        "Modelo de pagamento por uso que se adapta a todos os orçamentos"
+        "Criatividade ilimitada com infinitas opções de fundo",
+        "Modelo de pagamento por uso que se ajusta a todos os orçamentos"
       ],
       "tryText": "Experimente"
     }
@@ -74,15 +74,15 @@
     "steps": [
       {
         "number": "1",
-        "title": "Carregue Seu Vídeo",
-        "text": "Comece carregando o vídeo que deseja editar",
+        "title": "Envie Seu Vídeo",
+        "text": "Comece enviando o vídeo que você deseja editar",
         "color": "#3b82f6",
         "icon": "BlueStar"
       },
       {
         "number": "2",
         "title": "Escolha um Novo Fundo",
-        "text": "Escolha em nossa extensa biblioteca de fundos ou carregue o seu",
+        "text": "Selecione em nossa vasta biblioteca de fundos ou envie o seu",
         "color": "#a855f7",
         "icon": "PurpleCircle"
       },
@@ -104,15 +104,15 @@
     "generateText": "Crie Seu Primeiro Vídeo →"
   },
   "endlessPossibilities": {
-    "heading": "Possibilidades Criativas Sem Fim",
+    "heading": "Possibilidades Criativas Infinitas",
     "description": "Perfeito para qualquer projeto de vídeo",
     "items": [
       "Vídeos de marketing com visuais impressionantes",
       "Vlogs aprimorados com fundos memoráveis",
-      "Conteúdo de aprendizagem online tornando-se mais envolvente",
-      "Clipes de mídias sociais com cenas dinâmicas",
+      "Conteúdo de e-learning tornado mais envolvente",
+      "Clipes de mídia social com cenas dinâmicas",
       "Reels de destaques de eventos com configurações personalizadas",
-      "Histórias de marca com ambientes únicos",
+      "Contação de histórias de marca em ambientes únicos",
       "Tutoriais que cativam e informam",
       "Demonstrações de imóveis com locais impactantes"
     ]
@@ -123,10 +123,10 @@
     "items": [
       {
         "tag": "Criador de Conteúdo Digital",
-        "heading": "Transformação de Vlog do YouTube",
+        "heading": "Transformação de Vlog no YouTube",
         "before": {
           "label": "Antes",
-          "text": "Demorado e monótono"
+          "text": "Demorado e sem graça"
         },
         "after": {
           "label": "Depois",
@@ -145,11 +145,11 @@
         },
         "after": {
           "label": "Depois",
-          "text": "Experiências de aprendizagem dinâmicas"
+          "text": "Experiências de aprendizado dinâmicas"
         },
         "value": "85%",
         "key": "Engajamento Aumentado",
-        "description": "Os alunos estão mais concentrados com fundos visualmente atraentes, melhorando significativamente as taxas de retenção."
+        "description": "Os alunos estão mais focados com fundos visualmente atraentes, melhorando significativamente as taxas de retenção."
       }
     ]
   },
@@ -158,10 +158,10 @@
     "description": "Selecione a integração de fundo certa para seu projeto",
     "items": [
       "Modelo Padrão: Substituição básica de fundo, processamento rápido",
-      "Modelo Premium: Fundos de alta definição com detalhes intrincados",
-      "Integração de Fundo Personalizada para necessidades específicas",
+      "Modelo Premium: Fundos em alta definição com detalhes intrincados",
+      "Integração de Fundo Personalizada para necessidades sob medida",
       "Tempo de renderização rápido para fluxos de trabalho eficientes",
-      "Suporte a saída de vídeo em 4K para qualidade de ponta"
+      "Suporta saída de vídeo em 4K para qualidade de ponta"
     ]
   },
   "relatedAITools": {
@@ -170,26 +170,26 @@
   },
   "faq": {
     "heading": "Perguntas Frequentes",
-    "description": "Tudo o que você precisa saber",
+    "description": "Tudo que você precisa saber",
     "items": [
       {
-        "question": "Quais formatos de vídeo são suportados para mudança de fundo?",
-        "answer": "Nós suportamos vários formatos de vídeo incluindo MP4, MOV e AVI. Certifique-se de que os vídeos sejam de boa qualidade para obter os melhores resultados ao mudar os fundos."
+        "question": "Quais formatos de vídeo são suportados para a mudança de fundo?",
+        "answer": "Suportamos vários formatos de vídeo, incluindo MP4, MOV e AVI. Certifique-se de que os vídeos sejam de boa qualidade para melhores resultados ao mudar os fundos."
       },
       {
         "question": "Posso usar fundos personalizados?",
-        "answer": "Absolutamente! Os usuários podem carregar suas próprias imagens ou vídeos como fundos para total liberdade criativa."
+        "answer": "Absolutamente! Os usuários podem enviar suas próprias imagens ou vídeos como fundos para total liberdade criativa."
       },
       {
         "question": "Quão rápido posso esperar que meus vídeos sejam processados?",
-        "answer": "A mudança de fundo é notavelmente rápida, geralmente concluída em poucos minutos, dependendo da duração e complexidade do vídeo."
+        "answer": "A mudança de fundo é notavelmente rápida, geralmente feita em poucos minutos, dependendo da duração e da complexidade do vídeo."
       },
       {
         "question": "Há um limite para o número de vídeos que posso processar?",
-        "answer": "Sem limites! Você pode processar quantos vídeos precisar, todos sob nossa estrutura de preços flexível."
+        "answer": "Sem limites! Você pode processar quantos vídeos precisar, todos dentro de nossa estrutura de preços flexível."
       },
       {
-        "question": "Existem requisitos de sistema específicos?",
+        "question": "Há requisitos específicos do sistema?",
         "answer": "Nossa plataforma é baseada na web e funciona na maioria dos navegadores modernos. No entanto, uma conexão de internet estável proporcionará a melhor experiência."
       },
       {
@@ -202,20 +202,20 @@
       },
       {
         "question": "Posso compartilhar meus vídeos finalizados diretamente nas redes sociais?",
-        "answer": "Sim! Depois que seu vídeo é processado, você pode facilmente baixá-lo e compartilhá-lo diretamente nas plataformas de mídias sociais de sua preferência."
+        "answer": "Sim! Assim que seu vídeo for processado, você pode facilmente baixá-lo e compartilhá-lo diretamente em suas plataformas de redes sociais preferidas."
       }
     ]
   },
   "cta": {
     "heading": "Pronto para Transformar Seus Vídeos?",
-    "description": "Comece com créditos gratuitos - Experimente a mágica da IA hoje!",
-    "contactUsText": "Entre em Contato",
+    "description": "Comece com créditos grátis - Experimente a magia da IA hoje!",
+    "contactUsText": "Entre em Contato Conosco",
     "tryText": "Experimente Agora →"
   },
   "footer": {
     "heading": "Pronto para Mudar os Fundos dos Seus Vídeos?",
-    "description": "Experimente o WaveSpeed AI agora e veja o impacto por si mesmo. Nenhum cadastro necessário.",
-    "ctaText": "Comece a Mudar Fundos Agora",
+    "description": "Experimente o WaveSpeed AI agora e veja o impacto por si mesmo. Sem necessidade de cadastro.",
+    "ctaText": "Comece a Mudar os Fundos Agora",
     "text": "© 2025 WaveSpeed AI. Todos os direitos reservados."
   }
 }

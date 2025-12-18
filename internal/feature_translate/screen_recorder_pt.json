@@ -1,9 +1,9 @@
 {
   "language": "pt",
-  "title": "WaveSpeed AI - Gravador de Tela AI",
+  "title": "WaveSpeed AI - Gravador de Tela com IA",
   "meta": {
-    "description": "Capture sua tela com facilidade usando o poderoso recurso de gravação de tela do WaveSpeed AI. Ideal para tutoriais, apresentações e streaming, tudo respaldado por tecnologia de IA avançada. Experimente gravações sem interrupções sem a complicação de softwares complexos.",
-    "keywords": "gravador de tela, captura de tela AI, ferramenta de gravação de vídeo, gravação de tutoriais, gravação de apresentações, captura de tela sem interrupções, streaming, vídeo educacional, demonstrações de software, tutoriais online, vídeos de marketing"
+    "description": "Capture sua tela com facilidade usando o poderoso recurso de gravação de tela do WaveSpeed AI. Ideal para tutoriais, apresentações e transmissões, tudo respaldado pela tecnologia avançada de IA. Experimente gravações sem interrupções sem o incômodo de softwares complexos.",
+    "keywords": "gravador de tela, captura de tela com IA, ferramenta de gravação de vídeo, gravação de tutoriais, gravação de apresentações, captura de tela perfeita, streaming, vídeo educativo, demonstrações de software, tutoriais online, vídeos de marketing"
   },
   "header": {
     "nav": [
@@ -17,19 +17,19 @@
         ]
       },
       {
-        "label": "Ferramentas AI",
+        "label": "Ferramentas de IA",
         "items": [
           [
-            "Ferramentas AI",
+            "Ferramentas de IA",
             "#ai_tools"
           ]
         ]
       },
       {
-        "label": "Vitrine",
+        "label": "Demonstração",
         "items": [
           [
-            "Vitrine",
+            "Demonstração",
             "https://wavespeed.ai/studio/ecommerce/showcase"
           ]
         ]
@@ -38,10 +38,10 @@
     "tryText": "Experimente agora"
   },
   "hero": {
-    "heading": "Gravação de Tela Facilmente",
+    "heading": "Gravação de Tela Facilitada",
     "subHeading": "Capture, Compartilhe e Inspire",
-    "description": "Grave sua tela sem esforço para tutoriais, demonstrações de produtos ou apresentações. Utilize os recursos inteligentes do WaveSpeed AI para aprimorar suas gravações e compartilhar seu conhecimento de forma eficaz. Comece a gravar agora!",
-    "tryText": "Iniciar Gravação",
+    "description": "Grave sua tela sem esforço para tutoriais, demonstrações de produtos ou apresentações. Utilize os recursos inteligentes do WaveSpeed AI para melhorar suas gravações e compartilhar seu conhecimento de forma eficaz. Comece a gravar agora!",
+    "tryText": "Começar Gravação",
     "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
   },
   "compare": {
@@ -53,42 +53,42 @@
         "Equipamento de gravação caro",
         "Edição demorada",
         "Desempenho lento e baixa qualidade",
-        "Opções limitadas de compartilhamento"
+        "Opções de compartilhamento limitadas"
       ]
     },
     "right": {
       "heading": "Solução WaveSpeed AI",
       "items": [
         "Grave vídeos de alta qualidade instantaneamente com um único clique",
-        "Nenhum software adicional necessário—basta começar a gravar",
-        "Funcionalidade sem interrupções com desempenho aprimorado por IA",
-        "Fáceis opções de compartilhamento para múltiplas plataformas",
-        "Modelo de pagamento por uso acessível para todos"
+        "Sem necessidade de software adicional—basta começar a gravar",
+        "Operação sem interrupções com desempenho aprimorado por IA",
+        "Opções de compartilhamento fáceis para várias plataformas",
+        "Modelo acessível de pagamento por uso para todos"
       ],
       "tryText": "Experimente"
     }
   },
   "howItWorks": {
     "heading": "Como Funciona",
-    "description": "Grave sua tela em 4 passos simples",
+    "description": "Grave sua tela em 4 etapas simples",
     "steps": [
       {
         "number": "1",
-        "title": "Selecionar Área para Gravar",
-        "text": "Escolha tela cheia ou uma janela específica para gravação",
+        "title": "Selecione a Área para Gravar",
+        "text": "Escolha tela cheia ou uma janela específica para gravar",
         "color": "#3b82f6",
         "icon": "BlueStar"
       },
       {
         "number": "2",
-        "title": "Ajustar Configurações",
+        "title": "Ajuste as Configurações",
         "text": "Defina preferências de áudio, qualidade e opções de formato",
         "color": "#a855f7",
         "icon": "PurpleCircle"
       },
       {
         "number": "3",
-        "title": "Iniciar Gravação",
+        "title": "Inicie a Gravação",
         "text": "Iniciação com um clique para captura instantânea da tela",
         "color": "#14b8a6",
         "icon": "GreenSquares"
@@ -96,7 +96,7 @@
       {
         "number": "4",
         "title": "Salvar e Compartilhar",
-        "text": "Baixe seu vídeo ou compartilhe diretamente nas mídias sociais",
+        "text": "Baixe seu vídeo ou compartilhe diretamente nas redes sociais",
         "color": "#fb923c",
         "icon": "OrangeHex"
       }
@@ -107,14 +107,14 @@
     "heading": "Aplicações Versáteis de Gravação",
     "description": "Perfeito para uma variedade de casos de uso",
     "items": [
-      "Crie tutoriais educacionais e cursos",
+      "Crie tutoriais e cursos educativos",
       "Grave demonstrações de software e apresentações",
       "Transmita sessões de jogos sem esforço",
       "Forneça suporte ao cliente por meio de guias visuais",
       "Capture webinars para visualização posterior",
       "Gere vídeos de marketing e anúncios",
-      "Crie vídeos instrucionais para produtos",
-      "Documente configurações técnicas ou dicas de resolução de problemas"
+      "Crie vídeos instrutivos para produtos",
+      "Documente configurações de tecnologia ou dicas de solução de problemas"
     ]
   },
   "successStories": {
@@ -123,10 +123,10 @@
     "items": [
       {
         "tag": "Educação",
-        "heading": "Aprimoramento do Aprendizado a Distância",
+        "heading": "Aprimoramento do Ensino a Distância",
         "before": {
           "label": "Antes",
-          "text": "Difícil engajar os alunos"
+          "text": "Difícil envolver alunos"
         },
         "after": {
           "label": "Depois",
@@ -134,7 +134,7 @@
         },
         "value": "75%",
         "key": "Aumento no Engajamento",
-        "description": "Os instrutores gravaram aulas em vídeo envolventes que melhoraram a participação e compreensão dos alunos."
+        "description": "Instrutores gravaram aulas em vídeo envolventes que melhoraram a participação e a compreensão dos alunos."
       },
       {
         "tag": "Treinamento Corporativo",
@@ -149,7 +149,7 @@
         },
         "value": "80%",
         "key": "Tempo Economizado",
-        "description": "O treinamento agilizado com sessões gravadas permitiu que os novos contratados aprendessem em seu próprio ritmo, reduzindo drasticamente o tempo de integração."
+        "description": "O treinamento simplificado com sessões gravadas permitiu que novos contratados aprendessem em seu próprio ritmo, reduzindo drasticamente o tempo de integração."
       }
     ]
   },
@@ -158,16 +158,16 @@
     "description": "Escolha as configurações de gravação certas para suas necessidades",
     "items": [
       "Gravação Padrão: qualidade 1080p, captura de áudio e configurações flexíveis",
-      "Modo de Alta Performance: otimize para sessões de jogos de alta taxa de quadros",
-      "Modo Leve: rápido e fácil, adequado para clipes curtos e tutoriais",
-      "Entradas de Áudio Personalizadas: grave áudio do sistema ou microfone separadamente",
-      "Sem lag: assegure gravações suaves e ininterruptas",
+      "Modo de Alta Performance: Otimize para sessões de jogos de alta taxa de quadros",
+      "Modo Leve: Rápido e fácil, adequado para clipes e tutoriais curtos",
+      "Entradas de Áudio Personalizadas: Grave áudio do sistema ou microfone separadamente",
+      "Sem lentidão: Garanta gravações suaves e ininterruptas",
       "Recursos de edição fáceis incluídos"
     ]
   },
   "relatedAITools": {
-    "heading": "Ferramentas AI Relacionadas",
-    "description": "Explore ferramentas adicionais para criação de vídeo aprimorada"
+    "heading": "Ferramentas de IA Relacionadas",
+    "description": "Explore ferramentas adicionais para uma criação de vídeo aprimorada"
   },
   "faq": {
     "heading": "Perguntas Frequentes",
@@ -178,20 +178,20 @@
         "answer": "Você pode gravar em até 1080p de qualidade com a opção de ajustar as configurações com base em suas necessidades. Isso garante visuais claros e áudio de alta qualidade para qualquer tipo de gravação."
       },
       {
-        "question": "Posso incluir minha voz ou outro áudio na gravação?",
-        "answer": "Sim! Você tem a capacidade de escolher fontes de áudio, incluindo entrada de microfone ao lado do áudio do sistema, permitindo apresentações completas e envolventes."
+        "question": "Posso incluir minha voz ou outros áudios na gravação?",
+        "answer": "Sim! Você tem a capacidade de escolher fontes de áudio, incluindo entrada de microfone junto com o áudio do sistema, permitindo apresentações completas e envolventes."
       },
       {
         "question": "É fácil compartilhar as gravações?",
-        "answer": "Absolutamente! Após gravar, você pode facilmente baixar seus vídeos ou compartilhar diretamente nas mídias sociais e outras plataformas sem complicações."
+        "answer": "Com certeza! Após a gravação, você pode facilmente baixar seus vídeos ou compartilhar diretamente nas redes sociais e outras plataformas sem complicações."
       },
       {
         "question": "Posso gravar várias vezes sem perder qualidade?",
         "answer": "Sim! Você pode fazer quantas gravações precisar, mantendo a mais alta qualidade de saída sem degradação."
       },
       {
-        "question": "Qual é o modelo de precificação para usar o gravador de tela?",
-        "answer": "Nós operamos em um modelo de precificação pay-as-you-go, garantindo que você só pague pelas gravações que cria, sem taxas ocultas ou assinaturas."
+        "question": "Qual é o modelo de preços para usar o gravador de tela?",
+        "answer": "Operamos com um modelo de preços por uso, garantindo que você pague apenas pelas gravações que cria, sem taxas ocultas ou assinaturas."
       },
       {
         "question": "Quanto tempo leva para começar a gravar?",
@@ -202,25 +202,25 @@
         "answer": "A gravação de tela é perfeita para fins educacionais, demonstrações de produtos, suporte em tempo real, vídeos de marketing e muito mais!"
       },
       {
-        "question": "Eu possuo os direitos sobre os vídeos que gravo?",
-        "answer": "Sim! Todos os vídeos criados são seus com plenos direitos comerciais, permitindo uso em várias plataformas sem taxas adicionais."
+        "question": "Eu tenho direitos sobre os vídeos que gravo?",
+        "answer": "Sim! Todos os vídeos criados são seus com plenos direitos comerciais, permitindo uso em várias plataformas sem custos adicionais."
       },
       {
         "question": "Que suporte está disponível se eu tiver problemas?",
-        "answer": "Nós fornecemos suporte extensivo incluindo documentação detalhada, tutoriais em vídeo e uma equipe de suporte responsiva pronta para ajudar com qualquer pergunta técnica."
+        "answer": "Oferecemos suporte extensivo, incluindo documentação detalhada, tutoriais em vídeo e uma equipe de suporte responsiva pronta para ajudar com qualquer dúvida técnica."
       }
     ]
   },
   "cta": {
-    "heading": "Pronto para Começar a Capturar Sua Tela?",
+    "heading": "Pronto para Começar a Capturar sua Tela?",
     "description": "Experimente a facilidade do Gravador de Tela do WaveSpeed AI hoje!",
-    "contactUsText": "Entre em Contato Conosco",
-    "tryText": "Iniciar Gravação Agora →"
+    "contactUsText": "Entre em Contato",
+    "tryText": "Começar Gravação Agora →"
   },
   "footer": {
-    "heading": "Pronto para Transformar Suas Capturas de Tela?",
-    "description": "Experimente o WaveSpeed AI agora e veja a diferença por si mesmo. Não é necessário se inscrever.",
-    "ctaText": "Iniciar Gravação Agora",
+    "heading": "Pronto para Transformar suas Capturas de Tela?",
+    "description": "Experimente o WaveSpeed AI agora e veja a diferença por si mesmo. Sem necessidade de inscrição.",
+    "ctaText": "Começar Gravação Agora",
     "text": "© 2025 WaveSpeed AI. Todos os direitos reservados."
   }
 }

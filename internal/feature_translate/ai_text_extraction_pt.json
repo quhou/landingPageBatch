@@ -26,10 +26,10 @@
         ]
       },
       {
-        "label": "Mostra",
+        "label": "Demonstração",
         "items": [
           [
-            "Mostra",
+            "Demonstração",
             "https://wavespeed.ai/studio/ecommerce/showcase"
           ]
         ]
@@ -40,18 +40,18 @@
   "hero": {
     "heading": "Imagem para Texto",
     "subHeading": "Transforme Imagens em Texto Editável de Forma Eficiente",
-    "description": "Converta documentos digitalizados, imagens de produtos ou capturas de tela em texto editável instantaneamente. Experimente uma extração de texto sem interrupções, alimentada por tecnologia avançada de IA.",
+    "description": "Converta documentos escaneados, imagens de produtos ou capturas de tela em texto editável instantaneamente. Experimente a extração de texto sem costura impulsionada por tecnologia de IA avançada.",
     "tryText": "Experimente Agora",
     "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
   },
   "compare": {
-    "heading": "Solução de Extração de Texto com IA da WaveSpeed AI",
+    "heading": "Solução de Extração de Texto com IA WaveSpeed AI",
     "left": {
       "heading": "Desafios Tradicionais",
       "items": [
-        "A entrada de dados manual é lenta e propensa a erros",
+        "Entrada de dados manual é lenta e propensa a erros",
         "Requer um número significativo de horas de trabalho",
-        "Altos custos devido à terceirização de transcrições",
+        "Altos custos com a terceirização da transcrição",
         "Acessibilidade limitada para grandes conjuntos de dados",
         "Qualidade inconsistente em diferentes formatos"
       ]
@@ -60,10 +60,10 @@
       "heading": "Solução WaveSpeedAI",
       "items": [
         "Extraia texto em segundos de qualquer imagem",
-        "Não é necessária entrada manual - Basta enviar imagens",
+        "Nenhuma entrada manual necessária - Basta enviar imagens",
         "Resultados rápidos com alta precisão",
         "Suporta múltiplas línguas e formatos",
-        "Modelo de pagamento por uso perfeito para necessidades variadas"
+        "Precificação sob demanda perfeita para necessidades variadas"
       ],
       "tryText": "Experimente"
     }
@@ -74,15 +74,15 @@
     "steps": [
       {
         "number": "1",
-        "title": "Carregar Imagem",
-        "text": "Envie sua foto ou imagem de documento",
+        "title": "Enviar Imagem",
+        "text": "Envie sua foto ou imagem do documento",
         "color": "#3b82f6",
         "icon": "BlueStar"
       },
       {
         "number": "2",
         "title": "Selecionar Formato de Saída",
-        "text": "Escolha seu formato de texto preferido (ex.: TXT, DOCX)",
+        "text": "Escolha seu formato de texto preferido (por exemplo, TXT, DOCX)",
         "color": "#a855f7",
         "icon": "PurpleCircle"
       },
@@ -113,12 +113,12 @@
       "Pesquisa acadêmica e extração",
       "Processamento de documentos legais",
       "Tradução e localização",
-      "Arquivamento de fotos e notas antigas",
-      "Reaproveitamento de conteúdo para mídias sociais"
+      "Arquivo de fotos e anotações antigas",
+      "Reutilização de conteúdo para redes sociais"
     ]
   },
   "successStories": {
-    "heading": "Histórias Reais de Sucesso",
+    "heading": "Histórias de Sucesso Reais",
     "description": "Veja como as empresas otimizam seus fluxos de trabalho com IA",
     "items": [
       {
@@ -134,7 +134,7 @@
         },
         "value": "96%",
         "key": "Tempo Economizado",
-        "description": "Transformamos nossas listagens extraindo texto em massa. Economiza dias toda semana."
+        "description": "Transformamos nossas listagens extraindo texto em massa. Nos poupa dias a cada semana."
       },
       {
         "tag": "Educação",
@@ -148,8 +148,8 @@
           "text": "Extração automatizada"
         },
         "value": "90%",
-        "key": "Aumento de Eficiência",
-        "description": "Possibilitou acesso mais rápido aos dados, permitindo que as equipes de pesquisa se concentrassem na análise."
+        "key": "Ganho de Eficiência",
+        "description": "Possibilitou acesso mais rápido aos dados, permitindo que as equipes de pesquisa se concentrem na análise."
       }
     ]
   },
@@ -157,9 +157,9 @@
     "heading": "Comparação de Modelos de IA",
     "description": "Escolha o modelo de extração certo para suas necessidades",
     "items": [
-      "Extração Padrão: Conversão de texto rápida com boa precisão",
+      "Extração Padrão: Conversão rápida de texto com boa precisão",
       "Extração de Alta Precisão: Precisão aprimorada para fontes manuscritas e complexas",
-      "Processamento em Lote: Extraia texto de várias imagens de uma só vez",
+      "Processamento em Lote: Extraia texto de várias imagens de uma vez",
       "Suporte a Múltiplas Línguas: Detecção automática do idioma do texto",
       "Processamento em Tempo Real: Resultados instantâneos à medida que as imagens são enviadas",
       "Direitos de uso comercial incluídos"
@@ -167,7 +167,7 @@
   },
   "relatedAITools": {
     "heading": "Ferramentas de IA Relacionadas",
-    "description": "Explore mais ferramentas de IA poderosas para soluções empresariais"
+    "description": "Explore ferramentas de IA mais poderosas para soluções empresariais"
   },
   "faq": {
     "heading": "Perguntas Frequentes",
@@ -178,52 +178,52 @@
         "answer": "Suportamos vários formatos, incluindo JPG, PNG e PDF. Para resultados ótimos, as imagens devem ser claras e de alta resolução."
       },
       {
-        "question": "Qual é a precisão do processo de extração de texto?",
-        "answer": "Nossa tecnologia de IA é projetada para alta precisão, normalmente alcançando mais de 95% de extração de texto correta em condições ideais."
+        "question": "Qual a precisão do processo de extração de texto?",
+        "answer": "Nossa tecnologia de IA é projetada para alta precisão, geralmente alcançando mais de 95% de extração de texto correta em condições ideais."
       },
       {
         "question": "O texto extraído é editável?",
         "answer": "Sim! O texto extraído pode ser baixado em formatos editáveis como TXT ou DOCX para fácil modificação."
       },
       {
-        "question": "A ferramenta consegue lidar com texto manuscrito?",
-        "answer": "Sim, nosso modelo de Extração de Alta Precisão é especificamente projetado para reconhecer e extrair texto manuscrito de forma eficaz."
+        "question": "A ferramenta pode lidar com texto manuscrito?",
+        "answer": "Sim, nosso modelo de Extração de Alta Precisão é especificamente projetado para reconhecer e extrair texto manuscrito com eficácia."
       },
       {
-        "question": "Como os dados dos usuários são tratados durante o processo de extração?",
-        "answer": "Priorizamos a segurança dos dados. Todas as imagens são processadas de forma segura, e os dados do usuário não são armazenados uma vez que a extração é concluída."
+        "question": "Como os dados do usuário são tratados durante o processo de extração?",
+        "answer": "Priorizamos a segurança dos dados. Todas as imagens são processadas de forma segura, e os dados do usuário não são armazenados após a conclusão da extração."
       },
       {
         "question": "Há um limite para quantas imagens posso processar de uma vez?",
-        "answer": "Sem limites! Você pode processar várias imagens simultaneamente, tornando-o eficiente para grandes projetos."
+        "answer": "Sem limite! Você pode processar várias imagens simultaneamente, tornando-o eficiente para grandes projetos."
       },
       {
         "question": "O que acontece se a extração falhar?",
-        "answer": "No improvável evento de falha, você receberá um relatório detalhado de erro com possíveis razões e recomendações para melhoria."
+        "answer": "No improvável caso de uma falha, você receberá um relatório de erro detalhado com possíveis razões e recomendações para melhorias."
       },
       {
         "question": "Posso usar o texto extraído para fins comerciais?",
-        "answer": "Absolutamente! Todo texto extraído vem com plenos direitos para uso comercial, sem taxas adicionais envolvidas."
+        "answer": "Absolutamente! Todo texto extraído vem com direitos completos para uso comercial, sem taxas adicionais envolvidas."
       },
       {
         "question": "Que tipo de suporte está disponível se eu precisar de ajuda?",
-        "answer": "Oferecemos suporte abrangente por meio de documentação, tutoriais e atendimento ao cliente via e-mail e chat."
+        "answer": "Oferecemos suporte abrangente por meio de documentação, tutoriais e atendimento ao cliente por e-mail e chat."
       },
       {
-        "question": "Existem taxas de assinatura ou custos ocultos?",
-        "answer": "Não, a WaveSpeed opera com um modelo de pagamento por uso com preços claros baseados no volume de texto extraído."
+        "question": "Há taxas de assinatura ou custos ocultos?",
+        "answer": "Não, o WaveSpeed opera em um modelo de pagamento por uso com preços claros com base no volume de texto extraído."
       }
     ]
   },
   "cta": {
     "heading": "Pronto para Extrair Texto de Suas Imagens?",
-    "description": "Comece com créditos gratuitos e veja os resultados por si mesmo",
+    "description": "Comece com créditos grátis e veja os resultados por si mesmo",
     "contactUsText": "Entre em Contato",
     "tryText": "Experimente Agora →"
   },
   "footer": {
     "heading": "Pronto para Extrair Seu Texto?",
-    "description": "Experimente a WaveSpeed AI agora e vivencie a extração de texto sem esforço. Sem necessidade de cadastro.",
+    "description": "Experimente o WaveSpeed AI agora e vivencie uma extração de texto sem esforço. Não é necessário registro.",
     "ctaText": "Extraia Texto Agora",
     "text": "© 2025 WaveSpeed AI. Todos os direitos reservados."
   }

@@ -1,9 +1,9 @@
 {
   "language": "pt",
-  "title": "WaveSpeed AI - Efeito Bumerangue de IA",
+  "title": "WaveSpeed AI - Efeito Boomerang de IA",
   "meta": {
-    "description": "Aproveite o poder da IA para criar loops de vídeo envolventes e dinâmicos que cativam seu público. O recurso Efeito Bumerangue transforma instantaneamente suas imagens em trechos de vídeo vibrantes e chamativos, perfeitos para redes sociais e campanhas de marketing. Revolucione sua criação de conteúdo com WaveSpeed AI!",
-    "keywords": "Efeito Bumerangue de IA, gerador de loops de vídeo, conteúdo de vídeo envolvente, ferramenta de vídeo para redes sociais, criação de vídeo dinâmica, ferramenta de vídeo para marketing, Wavespeed, solução de vídeo para e-commerce, trechos de vídeo, criador de vídeo em loop, marketing de conteúdo, engajamento nas redes sociais"
+    "description": "Aproveite o poder da IA para criar loops de vídeo envolventes e dinâmicos que cativam seu público. O recurso Efeito Boomerang transforma instantaneamente suas imagens em clipes de vídeo vibrantes e atraentes, perfeitos para mídias sociais e campanhas de marketing. Revolucione sua criação de conteúdo com o WaveSpeed AI!",
+    "keywords": "Efeito Boomerang de IA, gerador de loops de vídeo, conteúdo de vídeo envolvente, ferramenta de vídeo para mídias sociais, criação de vídeo dinâmico, ferramenta de vídeo para marketing, Wavespeed, solução de vídeo para e-commerce, clipes de vídeo, criador de vídeo em loop, marketing de conteúdo, engajamento em mídias sociais"
   },
   "header": {
     "nav": [
@@ -40,18 +40,18 @@
   "hero": {
     "heading": "Loops de Vídeo Dinâmicos",
     "subHeading": "Transforme Imagens em Repetições de Vídeo Cativantes",
-    "description": "Dê vida às suas imagens com o Efeito Bumerangue de IA, criando loops de vídeo hipnotizantes que mantêm seu público engajado. É rápido e sem esforço, projetado para criadores de conteúdo e profissionais de marketing nas redes sociais. Comece agora!",
+    "description": "Dê vida às suas imagens com o Efeito Boomerang de IA, criando loops de vídeo hipnotizantes que mantêm seu público envolvido. É simples e rápido, projetado para criadores de mídias sociais e profissionais de marketing. Comece agora!",
     "tryText": "Experimente Agora",
     "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
   },
   "compare": {
-    "heading": "Solução Efeito Bumerangue de IA WaveSpeed AI",
+    "heading": "Solução Efeito Boomerang de IA WaveSpeed AI",
     "left": {
       "heading": "Desafios Tradicionais",
       "items": [
         "Criar loops de vídeo envolventes é demorado",
         "Altos custos associados à produção de vídeo",
-        "Ferramentas limitadas para efeitos de loop suaves",
+        "Ferramentas limitadas para efeitos de looping sem emendas",
         "Difícil de alcançar qualidade profissional facilmente",
         "Opções inflexíveis para criadores de pequeno porte"
       ]
@@ -59,9 +59,9 @@
     "right": {
       "heading": "Solução WaveSpeedAI",
       "items": [
-        "Crie instantaneamente loops de vídeo a partir de suas imagens",
-        "Acessível e fácil - Basta fazer o upload e pronto",
-        "Integração sem esforço com redes sociais",
+        "Crie loops de vídeo instantaneamente a partir de suas imagens",
+        "Acessível e fácil - Basta fazer upload e começar",
+        "Integração sem esforço com mídias sociais",
         "Iterações e estilos criativos ilimitados",
         "Uso flexível sem custos ocultos"
       ],
@@ -70,11 +70,11 @@
   },
   "howItWorks": {
     "heading": "Como Funciona",
-    "description": "Crie loops de vídeo impressionantes em apenas 4 etapas",
+    "description": "Crie loops de vídeo deslumbrantes em apenas 4 etapas",
     "steps": [
       {
         "number": "1",
-        "title": "Carregar Imagem",
+        "title": "Fazer Upload da Imagem",
         "text": "Escolha a imagem que você deseja animar",
         "color": "#3b82f6",
         "icon": "BlueStar"
@@ -82,7 +82,7 @@
       {
         "number": "2",
         "title": "Selecionar Estilo de Loop",
-        "text": "Escolha o estilo de loop, como quicar ou repetir",
+        "text": "Escolha o estilo de loop, como bounce ou repeat",
         "color": "#a855f7",
         "icon": "PurpleCircle"
       },
@@ -96,7 +96,7 @@
       {
         "number": "4",
         "title": "Baixar Loop",
-        "text": "Receba seu loop de vídeo impressionante em instantes",
+        "text": "Receba seu loop de vídeo deslumbrante em instantes",
         "color": "#fb923c",
         "icon": "OrangeHex"
       }
@@ -107,18 +107,18 @@
     "heading": "Possibilidades Infinitas",
     "description": "Ideal para várias aplicações e indústrias",
     "items": [
-      "Postagens em redes sociais que se destacam",
-      "Loops de marketing para apresentações de produtos",
-      "Promoções e anúncios de eventos",
-      "Transformações antes/depois para produtos",
-      "Conteúdos de histórias animados de forma criativa",
-      "Tours virtuais imobiliários com estilo",
+      "Postagens em mídias sociais que se destacam",
+      "Loops de marketing para exibições de produtos",
+      "Promoções de eventos e anúncios",
+      "Transformações de antes/depois para produtos",
+      "Conteúdo de histórias animadas criativamente",
+      "Tours virtuais de imóveis com estilo",
       "Moda e lookbooks em movimento dinâmico",
       "Anúncios em vídeo curtos que cativam e envolvem"
     ]
   },
   "successStories": {
-    "heading": "Histórias Reais de Sucesso",
+    "heading": "Histórias de Sucesso Reais",
     "description": "Descubra como as marcas estão aprimorando sua visibilidade com IA",
     "items": [
       {
@@ -134,10 +134,10 @@
         },
         "value": "75%",
         "key": "Aumento de Engajamento",
-        "description": "Ao implementar loops de vídeo para destaques de produtos, nossas taxas de clique dispararam nas plataformas sociais."
+        "description": "Ao implementar loops de vídeo para destaques de produtos, nossas taxas de cliques dispararam nas plataformas sociais."
       },
       {
-        "tag": "Decoração de Interiores",
+        "tag": "Decoração para Casa",
         "heading": "Campanha de Vídeo Promocional",
         "before": {
           "label": "Antes",
@@ -149,7 +149,7 @@
         },
         "value": "98%",
         "key": "Tempo Economizado",
-        "description": "Podemos criar belos loops de vídeo em poucos minutos, maximizando nossa eficiência de marketing."
+        "description": "Podemos criar loops de vídeo bonitos em poucos minutos, maximizando nossa eficiência de marketing."
       }
     ]
   },
@@ -157,10 +157,10 @@
     "heading": "Comparação de Modelos de IA",
     "description": "Selecione o melhor estilo de loop para seu conteúdo",
     "items": [
-      "Loop de Quicar: Cria movimento eficaz e chamativo",
-      "Loop de Repetição: Transições suaves em ciclos infinitos",
+      "Loop Bounce: Cria movimento eficaz e chamativo",
+      "Loop Repeat: Transições sem emendas em ciclos infinitos",
       "Física natural para animações realistas",
-      "Efeitos de movimento fluidos e visuais cativantes",
+      "Efeitos de movimento fluido e visuais cativantes",
       "Tempo de geração rápido para entrega ágil",
       "Direitos comerciais para todos os loops gerados"
     ]
@@ -171,15 +171,15 @@
   },
   "faq": {
     "heading": "Perguntas Frequentes",
-    "description": "Tudo que você precisa saber",
+    "description": "Tudo o que você precisa saber",
     "items": [
       {
-        "question": "Quais tipos de imagens funcionam melhor para o Efeito Bumerangue de IA?",
-        "answer": "Imagens de alta qualidade com assuntos claros produzem os melhores loops. Certifique-se de que estão bem iluminadas, com pelo menos 512x512 pixels de tamanho, e que contrastam bem com o fundo para resultados otimizados."
+        "question": "Quais tipos de imagens funcionam melhor para o Efeito Boomerang de IA?",
+        "answer": "Imagens de alta qualidade com sujeitos claros produzem os melhores loops. Certifique-se de que estejam bem iluminadas, com pelo menos 512x512 pixels de tamanho, e que contrastem bem com o fundo para resultados ideais."
       },
       {
         "question": "Posso personalizar os efeitos de looping?",
-        "answer": "Com certeza! Você pode escolher entre diferentes estilos como quicar ou repetir, permitindo que você crie animações únicas que se ajustem à identidade da sua marca."
+        "answer": "Absolutamente! Você pode escolher entre diferentes estilos como bounce ou repeat, permitindo criar animações únicas que se encaixam na identidade da sua marca."
       },
       {
         "question": "Quanto tempo leva para gerar um loop de vídeo?",
@@ -187,43 +187,43 @@
       },
       {
         "question": "Existem direitos comerciais para os loops criados?",
-        "answer": "Sim, todos os loops de vídeo gerados incluem direitos comerciais totais, permitindo que você os utilize livremente para fins de marketing ou promocionais."
+        "answer": "Sim, todos os loops de vídeo gerados incluem direitos comerciais completos, permitindo que você os use livremente para marketing ou fins promocionais."
       },
       {
-        "question": "Em quais plataformas o Efeito Bumerangue é compatível?",
-        "answer": "Os loops de vídeo são projetados para fácil compartilhamento em todas as principais plataformas de redes sociais, incluindo Instagram, TikTok e Facebook, maximizando seu alcance."
+        "question": "Quais plataformas são compatíveis com o Efeito Boomerang?",
+        "answer": "Os loops de vídeo são projetados para fácil compartilhamento em todas as principais plataformas de mídias sociais, incluindo Instagram, TikTok e Facebook, maximizando seu alcance."
       },
       {
-        "question": "Há suporte disponível para solução de problemas?",
-        "answer": "Sim! Fornecemos documentação extensa, tutoriais e canais de suporte responsivos para ajudá-lo com quaisquer questões técnicas que possam surgir."
+        "question": "Há suporte disponível para resolução de problemas?",
+        "answer": "Sim! Fornecemos documentação extensa, tutoriais e canais de suporte responsivos para auxiliá-lo com quaisquer problemas técnicos que possam surgir."
       },
       {
         "question": "Posso gerar vários loops de vídeo ao mesmo tempo?",
-        "answer": "Sim, você pode facilmente criar vários loops simultaneamente, tornando simples experimentar diferentes estilos e animações."
+        "answer": "Sim, você pode facilmente criar vários loops simultaneamente, tornando simples a experimentação com diferentes estilos e animações."
       },
       {
-        "question": "Qual é a estrutura de custo para usar o recurso Efeito Bumerangue?",
-        "answer": "Utilizamos um modelo simples de pagamento conforme o uso, onde você paga apenas pelos loops que cria, com preços variando com base nos estilos selecionados."
+        "question": "Qual é a estrutura de custos para usar o recurso Efeito Boomerang?",
+        "answer": "Utilizamos um modelo de pagamento por uso, onde você só paga pelos loops que cria, com preços variando de acordo com os estilos selecionados."
       },
       {
         "question": "Preciso de habilidades de design para usar esse recurso?",
-        "answer": "Nenhuma habilidade de design é necessária! O Efeito Bumerangue de IA é fácil de usar e requer apenas uploads básicos para criar animações impressionantes de forma eficiente."
+        "answer": "Nenhuma habilidade de design é necessária! O Efeito Boomerang de IA é amigável e requer apenas uploads básicos para criar animações deslumbrantes de maneira eficiente."
       },
       {
-        "question": "Que tipo de resultados posso esperar ao usar o Efeito Bumerangue de IA?",
-        "answer": "Espere loops de vídeo envolventes e de alta qualidade que aumentam a interação do espectador e melhoram muito sua presença nas redes sociais."
+        "question": "Que tipo de resultados posso esperar ao usar o Efeito Boomerang de IA?",
+        "answer": "Espere loops de vídeo envolventes e de alta qualidade que aprimoram a interação dos espectadores e melhoram enormemente sua presença nas mídias sociais."
       }
     ]
   },
   "cta": {
     "heading": "Pronto para Criar Seu Primeiro Loop Dinâmico?",
     "description": "Comece com créditos gratuitos - Experimente a transformação hoje!",
-    "contactUsText": "Entre em Contato",
+    "contactUsText": "Entre em Contato Conosco",
     "tryText": "Experimente Agora →"
   },
   "footer": {
     "heading": "Pronto para Energizar Seu Conteúdo?",
-    "description": "Explore o Efeito Bumerangue de IA agora e crie vídeos cativantes. Nenhum cadastro necessário.",
+    "description": "Explore o Efeito Boomerang de IA agora e crie vídeos cativantes. Nenhum cadastro necessário.",
     "ctaText": "Crie Seu Loop Agora",
     "text": "© 2025 WaveSpeed AI. Todos os direitos reservados."
   }

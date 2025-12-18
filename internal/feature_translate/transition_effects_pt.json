@@ -1,9 +1,9 @@
 {
   "language": "pt",
-  "title": "WaveSpeed AI - Gerador de Vídeo a Partir de Imagens com IA",
+  "title": "WaveSpeed AI - Gerador de Imagens para Vídeo com IA",
   "meta": {
-    "description": "Melhore seus vídeos com efeitos de transição deslumbrantes alimentados por tecnologia de IA de ponta. Aumente o engajamento e cative seu público sem esforço. Perfeito para todos os tipos de conteúdo em vídeo. Experimente transições suaves agora!",
-    "keywords": "efeitos de transição, IA para aprimoramento de vídeo, transições suaves, ferramenta de produção de vídeo, ferramentas de vídeo para e-commerce, edição de vídeo profissional, narrativa visual, conteúdo de vídeo envolvente, WaveSpeed AI, transições de vídeo para redes sociais, efeitos cinematográficos"
+    "description": "Melhore seus vídeos com efeitos de transição impressionantes impulsionados pela tecnologia de IA de ponta. Aumente o engajamento e cative sua audiência sem esforços. Perfeito para todos os tipos de conteúdos de vídeo. Experimente transições sem costura agora!",
+    "keywords": "efeitos de transição, aprimoramento de vídeo com IA, transições suaves, ferramenta de produção de vídeo, ferramentas de vídeo para e-commerce, edição de vídeo profissional, contação de histórias visuais, conteúdo de vídeo envolvente, WaveSpeed AI, transições de vídeo para redes sociais, efeitos cinematográficos"
   },
   "header": {
     "nav": [
@@ -26,10 +26,10 @@
         ]
       },
       {
-        "label": "Exibição",
+        "label": "Demonstração",
         "items": [
           [
-            "Exibição",
+            "Demonstração",
             "https://wavespeed.ai/studio/ecommerce/showcase"
           ]
         ]
@@ -39,8 +39,8 @@
   },
   "hero": {
     "heading": "Transforme Seus Vídeos",
-    "subHeading": "Efeitos de Transição Suaves e Envolventes",
-    "description": "Eleve seu conteúdo em vídeo com efeitos de transição deslumbrantes que mantêm os espectadores envolvidos e melhoram a narrativa. Experimente a mágica de transições sem esforço alimentadas por tecnologia de IA sofisticada. Perfeito para e-commerce, marketing e redes sociais.",
+    "subHeading": "Efeitos de Transição Sem Costura e Envolventes",
+    "description": "Eleve seu conteúdo de vídeo com efeitos de transição impressionantes que mantêm os espectadores engajados e aprimoram a contação de histórias. Experimente a mágica de transições sem esforço impulsionadas pela tecnologia de IA sofisticada. Perfeito para e-commerce, marketing e redes sociais.",
     "tryText": "Experimente Agora",
     "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
   },
@@ -49,17 +49,17 @@
     "left": {
       "heading": "Desafios da Edição de Vídeo Tradicional",
       "items": [
-        "Software de edição complexo necessário para transições",
+        "Software de edição complexo é necessário para transições",
         "Ajustes manuais que consomem tempo",
-        "Opções de design e criatividade limitadas",
-        "Altos custos para contratação de profissionais",
+        "Opções de design limitadas e criatividade",
+        "Altos custos para contratar profissionais",
         "Qualidade inconsistente na saída"
       ]
     },
     "right": {
       "heading": "Solução WaveSpeed AI",
       "items": [
-        "Aplique instantaneamente transições deslumbrantes com IA",
+        "Aplique instantaneamente transições impressionantes com IA",
         "Sem habilidades técnicas necessárias - Basta enviar as filmagens",
         "Efeitos personalizáveis para combinar com seu estilo",
         "Variações ilimitadas para criatividade",
@@ -70,49 +70,49 @@
   },
   "howItWorks": {
     "heading": "Como Funciona",
-    "description": "Melhore seus vídeos com efeitos de transição em apenas 4 etapas",
+    "description": "Aprimore seus vídeos com efeitos de transição em apenas 4 etapas",
     "steps": [
       {
         "number": "1",
-        "title": "Carregar Vídeo",
-        "text": "Carregue suas filmagens brutas ou clipes que requerem transições",
+        "title": "Faça o Upload do Vídeo",
+        "text": "Carregue suas filmagens brutas ou clipes que precisam de transições",
         "color": "#3b82f6",
         "icon": "BlueStar"
       },
       {
         "number": "2",
-        "title": "Escolher Estilo de Transição",
+        "title": "Escolha o Estilo de Transição",
         "text": "Selecione entre uma variedade de efeitos de transição pré-definidos",
         "color": "#a855f7",
         "icon": "PurpleCircle"
       },
       {
         "number": "3",
-        "title": "Ajustar Configurações",
+        "title": "Ajuste as Configurações",
         "text": "Personalize a duração e o estilo de suas transições conforme necessário",
         "color": "#14b8a6",
         "icon": "GreenSquares"
       },
       {
         "number": "4",
-        "title": "Baixar Vídeo Aprimorado",
-        "text": "Obtenha seu vídeo aprimorado com transições suaves em minutos",
+        "title": "Baixe o Vídeo Aprimorado",
+        "text": "Obtenha seu vídeo polido com transições sem costura em minutos",
         "color": "#fb923c",
         "icon": "OrangeHex"
       }
     ],
-    "generateText": "Crie Seu Vídeo Deslumbrante Agora →"
+    "generateText": "Crie Seu Vídeo Impressionante Agora →"
   },
   "endlessPossibilities": {
     "heading": "Oportunidades Criativas Sem Fim",
-    "description": "Perfeito para diversos projetos de vídeo",
+    "description": "Perfeito para vários projetos de vídeo",
     "items": [
       "Tutoriais no YouTube com transições suaves",
-      "Apresentações de produtos para e-commerce",
-      "Conteúdo para redes sociais no Instagram e TikTok",
+      "Demonstrações de produtos para e-commerce",
+      "Conteúdo para redes sociais para Instagram e TikTok",
       "Promoções de eventos que se destacam",
       "Vídeos educacionais que envolvem e informam",
-      "Visitas virtuais de imóveis com estilo profissional",
+      "Tours imobiliários com um toque profissional",
       "Apresentações corporativas com transições polidas",
       "Vlogs de viagem que cativam"
     ]
@@ -126,15 +126,15 @@
         "heading": "Vídeo de Lançamento de Produto",
         "before": {
           "label": "Antes",
-          "text": "Cortes estáticos para as cenas"
+          "text": "Cortes estáticos para cenas"
         },
         "after": {
           "label": "Depois",
-          "text": "Transições fluidas durante todo o vídeo"
+          "text": "Transições fluidas ao longo"
         },
         "value": "80%",
         "key": "Aumento de Engajamento",
-        "description": "Usando efeitos de transição, nossos vídeos de produtos tiveram um aumento de 80% no engajamento dos espectadores, mantendo-os mais envolvidos."
+        "description": "Usando efeitos de transição, nossos vídeos de produto tiveram um aumento de 80% no engajamento dos espectadores, mantendo-os interessados por mais tempo."
       },
       {
         "tag": "Promoções de Eventos",
@@ -149,7 +149,7 @@
         },
         "value": "75%",
         "key": "Feedback Positivo",
-        "description": "As transições suaves elevaram nosso vídeo de destaques de casamento, resultando em 75% de feedback positivo dos espectadores."
+        "description": "As transições sem costura elevaram nosso vídeo de destaque de casamento, resultando em 75% de feedback positivo dos espectadores."
       }
     ]
   },
@@ -157,13 +157,13 @@
     "heading": "Comparação de Efeitos de Transição",
     "description": "Escolha os efeitos de transição certos para seu projeto",
     "items": [
-      "Fade: Transições suaves simples, mas elegantes",
+      "Desvanecer: Transições suaves simples, mas elegantes",
       "Zoom: Dinâmico e envolvente, perfeito para ênfase",
-      "Slide: Cria movimento e fluidez entre os clipes",
-      "Fade to Color: Um estilo de intro/outro único",
-      "Cut: Transições rápidas e diretas para conteúdo acelerado",
-      "Ripple: Adiciona um toque criativo a transições padrão",
-      "Transições Personalizadas: Sob medida para sua visão única"
+      "Deslizar: Cria movimento e fluidez entre clipes",
+      "Desvanecer para Cor: Um estilo único de intro/outro",
+      "Corte: Transições rápidas e diretas para conteúdo dinâmico",
+      "Ripple: Adiciona um toque criativo às transições padrão",
+      "Transições Personalizadas: Adaptadas à sua visão única"
     ]
   },
   "relatedAITools": {
@@ -172,39 +172,39 @@
   },
   "faq": {
     "heading": "Perguntas Frequentes",
-    "description": "Tudo o que você precisa saber",
+    "description": "Tudo que você precisa saber",
     "items": [
       {
-        "question": "Que tipos de transições estão disponíveis?",
-        "answer": "Oferecemos uma variedade de transições, incluindo fades, slides, zooms e efeitos personalizados para se adequar a qualquer estilo de vídeo."
+        "question": "Quais tipos de transições estão disponíveis?",
+        "answer": "Oferecemos uma variedade de transições, incluindo desvanecimentos, deslizamentos, zooms e efeitos personalizados para se adequar a qualquer estilo de vídeo."
       },
       {
-        "question": "Posso personalizar a duração da transição?",
-        "answer": "Sim! Você pode ajustar facilmente a duração de cada transição para se adequar ao ritmo do seu vídeo."
+        "question": "Posso personalizar a duração das transições?",
+        "answer": "Sim! Você pode facilmente ajustar a duração de cada transição para se adequar ao ritmo do seu vídeo."
       },
       {
-        "question": "Quais formatos de vídeo posso carregar?",
-        "answer": "Nossa plataforma suporta formatos de vídeo populares como MP4, MOV e AVI para integração perfeita."
+        "question": "Quais formatos de vídeo posso enviar?",
+        "answer": "Nossa plataforma suporta formatos de vídeo populares como MP4, MOV e AVI para integração sem costura."
       },
       {
         "question": "Há um limite para o número de vídeos que posso aprimorar?",
-        "answer": "Não há limites! Você pode aprimorar quantos vídeos quiser sem restrições."
+        "answer": "Não há limites! Você pode aprimorar quantos vídeos quiser, sem restrições."
       },
       {
-        "question": "Qual é o prazo para o processamento dos vídeos?",
-        "answer": "Normalmente, o aprimoramento de vídeo é rápido, com transições aplicadas em questão de minutos."
+        "question": "Qual é o tempo de processamento para vídeos?",
+        "answer": "Normalmente, a melhoria de vídeo é rápida, com transições aplicadas em questão de minutos."
       },
       {
-        "question": "Preciso ter experiência anterior em edição de vídeo?",
-        "answer": "Nenhuma experiência anterior é necessária. Nossa ferramenta é projetada para usuários de todos os níveis de habilidade."
+        "question": "Preciso ter experiência prévia em edição de vídeo?",
+        "answer": "Nenhuma experiência prévia é necessária. Nossa ferramenta é projetada para usuários de todos os níveis de habilidade."
       },
       {
-        "question": "Existem direitos comerciais nos vídeos aprimorados?",
+        "question": "Há direitos comerciais sobre os vídeos aprimorados?",
         "answer": "Absolutamente! Você possui todos os direitos dos seus vídeos aprimorados e pode usá-los para fins comerciais."
       },
       {
         "question": "Quais recursos de suporte estão disponíveis?",
-        "answer": "Fornecemos suporte extensivo, incluindo tutoriais, perguntas frequentes e suporte direto para quaisquer problemas."
+        "answer": "Oferecemos suporte extenso, incluindo tutoriais, perguntas frequentes e suporte direto para quaisquer problemas."
       },
       {
         "question": "Posso visualizar as transições antes de finalizar meu vídeo?",
@@ -212,19 +212,19 @@
       },
       {
         "question": "Quais planos de preços estão disponíveis?",
-        "answer": "Oferecemos um modelo flexível de pagamento conforme o uso, onde você paga apenas pelas transições que utiliza."
+        "answer": "Oferecemos um modelo flexível de pagamento conforme o uso, onde você paga apenas pelas transições que utilizar."
       }
     ]
   },
   "cta": {
     "heading": "Pronto para Aprimorar Seus Vídeos?",
-    "description": "Comece com créditos gratuitos - Experimente transições suaves hoje",
+    "description": "Comece com créditos gratuitos - Experimente transições sem costura hoje",
     "contactUsText": "Entre em Contato",
     "tryText": "Experimente Agora →"
   },
   "footer": {
     "heading": "Transforme Sua Experiência de Edição de Vídeo",
-    "description": "Experimente o WaveSpeed AI agora e veja o impacto das transições deslumbrantes por si mesmo. Sem necessidade de cadastro.",
+    "description": "Experimente o WaveSpeed AI agora e veja o impacto de transições impressionantes por si mesmo. Não é necessário registro.",
     "ctaText": "Explore Efeitos de Transição Agora",
     "text": "© 2025 WaveSpeed AI. Todos os direitos reservados."
   }

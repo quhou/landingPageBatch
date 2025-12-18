@@ -1,9 +1,9 @@
 {
   "language": "pt",
-  "title": "WaveSpeed AI - Gerador de Imagem para Vídeo com IA",
+  "title": "WaveSpeed AI - Gerador de Imagens para Vídeo com IA",
   "meta": {
-    "description": "Adicione facilmente rastreamento de movimento dinâmico aos seus vídeos, melhorando apresentações de produtos e envolvendo públicos. Ideal para plataformas de e-commerce e narrativas de marca. Experimente o futuro da criação de conteúdo visual com o WaveSpeed AI!",
-    "keywords": "IA de rastreamento de movimento, aprimoramento de vídeo de produto, animação de vídeo com IA, ferramenta de vídeo para e-commerce, Google Veo, texto para vídeo, movimento dinâmico de vídeo, criador de vídeo de marketing, vídeo Shopify, vídeo de listagem na Amazon, gerador de vídeo para redes sociais"
+    "description": "Adicione facilmente rastreamento de movimento dinâmico aos seus vídeos, aprimorando apresentações de produtos e engajando públicos. Ideal para plataformas de e-commerce e narrativa de marca. Experimente o futuro da criação de conteúdo visual com o WaveSpeed AI!",
+    "keywords": "IA de rastreamento de movimento, aprimoramento de vídeo de produto, animação de vídeo com IA, ferramenta de vídeo para e-commerce, Google Veo, texto para vídeo, movimento de vídeo dinâmico, criador de vídeo de marketing, vídeo para Shopify, vídeo de listagem na Amazon, gerador de vídeo para redes sociais"
   },
   "header": {
     "nav": [
@@ -40,7 +40,7 @@
   "hero": {
     "heading": "Rastreamento de Movimento Dinâmico",
     "subHeading": "Dê Vida aos Seus Produtos com Movimento",
-    "description": "Habilite um rastreamento de movimento cativante nos seus vídeos, fazendo seus produtos se destacarem. Eleve seu conteúdo digital em minutos—sem necessidade de configuração complicada. Dê seu primeiro passo em direção a um marketing em vídeo mais envolvente hoje!",
+    "description": "Ative o rastreamento de movimento cativante em seus vídeos, fazendo com que seus produtos se destaquem. Eleve seu conteúdo digital em minutos—sem necessidade de configuração complicada. Dê seu primeiro passo para um marketing em vídeo mais envolvente hoje!",
     "tryText": "Experimente Agora",
     "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
   },
@@ -50,31 +50,31 @@
       "heading": "Desafios Tradicionais",
       "items": [
         "Técnicas de filmagem complexas para movimento",
-        "Requer equipe profissional para integração de movimento",
+        "Requer uma equipe profissional para a integração de movimento",
         "Altos custos de produção e prazos longos",
-        "Capacidades de ajuste limitadas pós-produção",
-        "Métodos ultrapassados que carecem de flexibilidade"
+        "Capacidades limitadas de ajuste pós-produção",
+        "Métodos obsoletos que carecem de flexibilidade"
       ]
     },
     "right": {
-      "heading": "Solução WaveSpeed AI",
+      "heading": "Solução WaveSpeedAI",
       "items": [
-        "Implemente rastreamento de movimento instantaneamente com seus vídeos",
-        "Sem necessidade de filmagem—basta enviar suas imagens",
+        "Implemente o rastreamento de movimento instantaneamente com seus vídeos",
+        "Sem necessidade de filmagem—basta fazer upload de suas imagens",
         "Transformação rápida com movimento assistido por IA",
         "Opções ilimitadas para rastreamento e ajustes",
         "Uso econômico adaptado às suas necessidades"
       ],
-      "tryText": "Experimente"
+      "tryText": "Tente"
     }
   },
   "howItWorks": {
     "heading": "Como Funciona",
-    "description": "Atinga um rastreamento de movimento cativante em 4 passos fáceis",
+    "description": "Alcance um rastreamento de movimento cativante em 4 etapas fáceis",
     "steps": [
       {
         "number": "1",
-        "title": "Envie sua Mídia",
+        "title": "Envie Seu Mídia",
         "text": "Comece enviando uma imagem estática ou clipe de vídeo",
         "color": "#3b82f6",
         "icon": "BlueStar"
@@ -89,7 +89,7 @@
       {
         "number": "3",
         "title": "Selecione o Estilo de Rastreamento",
-        "text": "Escolha entre vários estilos de rastreamento para se adequar à sua campanha",
+        "text": "Escolha entre vários estilos de rastreamento para adequar à sua campanha",
         "color": "#14b8a6",
         "icon": "GreenSquares"
       },
@@ -107,23 +107,23 @@
     "heading": "Possibilidades Infinitas",
     "description": "Transforme seu conteúdo em várias plataformas",
     "items": [
-      "Destacar produtos para Amazon e Shopify",
-      "Criar postagens atraentes para redes sociais",
+      "Destaque produtos para Amazon e Shopify",
+      "Crie postagens cativantes para redes sociais",
       "Anúncios de marketing impactantes com movimento",
-      "Narrativas visuais e engajamento da marca",
+      "Narrativa visual e engajamento de marca",
       "Tutoriais educacionais com elementos dinâmicos",
-      "Apresentações imobiliárias com elementos em movimento",
+      "Demonstrações imobiliárias com elementos em movimento",
       "Vídeos culinários com apresentações animadas",
-      "Demonstrações de moda com rastreamento elegante"
+      "Exibições de moda com elegância de rastreamento"
     ]
   },
   "successStories": {
-    "heading": "Histórias de Sucesso Real",
-    "description": "Descubra como as marcas estão prosperando com rastreamento de movimento",
+    "heading": "Histórias de Sucesso Reais",
+    "description": "Descubra como marcas estão prosperando com rastreamento de movimento",
     "items": [
       {
         "tag": "E-commerce de Eletrônicos",
-        "heading": "Aprimoramento de Produtos na Amazon",
+        "heading": "Aprimoramento de Produto na Amazon",
         "before": {
           "label": "Antes",
           "text": "Apresentações estáticas"
@@ -134,14 +134,14 @@
         },
         "value": "85%",
         "key": "Aumento de Engajamento",
-        "description": "Incorporado rastreamento de movimento em 30 listagens. O engajamento disparou em 50% à medida que os visuais ganharam vida."
+        "description": "Incorporou rastreamento de movimento em 30 listagens. O engajamento disparou em 50% à medida que os visuais ganharam vida."
       },
       {
         "tag": "Varejo de Moda",
         "heading": "Conteúdo de Vídeo Comprável",
         "before": {
           "label": "Antes",
-          "text": "Previews de estilo comuns"
+          "text": "Visualizações de estilo comuns"
         },
         "after": {
           "label": "Depois",
@@ -157,10 +157,10 @@
     "heading": "Comparação de Modelos de IA",
     "description": "Selecione a melhor opção de rastreamento para suas necessidades",
     "items": [
-      "Rastreamento Padrão: Seguimento básico de movimento com ajustes limitados",
-      "Rastreamento Avançado: Precisão aprimorada e ajustes flexíveis para integração sem costura",
+      "Rastreamento Padrão: Rastreio básico de movimento com ajustes limitados",
+      "Rastreamento Avançado: Precisão aprimorada e ajustes flexíveis para integrações suaves",
       "Controle de Movimento Direcionado: Rastreamento focado em objetos específicos para marketing",
-      "Parâmetros Personalizáveis: Configurações de movimento adaptadas para diferentes estilos visuais",
+      "Parâmetros Personalizáveis: Configurações de movimento adaptadas a diferentes estilos visuais",
       "1-2 minutos para gerar um vídeo totalmente rastreado",
       "Direitos comerciais incluídos para todo o conteúdo gerado"
     ]
@@ -183,36 +183,36 @@
       },
       {
         "question": "Quais são as melhores práticas para preparação de mídia?",
-        "answer": "Use imagens ou vídeos claros e de alta resolução para garantir os melhores resultados de rastreamento. Quanto mais limpas forem suas questões e mais focados seus sujeitos, melhor será o desempenho do rastreamento de movimento."
+        "answer": "Use imagens ou vídeos claros e de alta resolução para garantir os melhores resultados de rastreamento. Quanto mais limpos forem seus fundos e mais focados forem seus assuntos, melhor será o desempenho do rastreamento de movimento."
       },
       {
         "question": "Como o rastreamento de movimento melhora meus vídeos?",
-        "answer": "O rastreamento de movimento cria uma interação dinâmica que chama a atenção dos espectadores. Ele pode enfatizar produtos e criar uma experiência visual atraente, melhorando o engajamento do usuário."
+        "answer": "O rastreamento de movimento cria uma interação dinâmica que chama a atenção dos espectadores. Ele pode enfatizar produtos e criar uma experiência visual atraente, aumentando o engajamento do usuário."
       },
       {
-        "question": "Posso adicionar múltiplos pontos de rastreamento a um único vídeo?",
-        "answer": "Sim! Você pode designar múltiplos pontos para rastreamento de movimento, levando a saídas de vídeo mais complexas e envolventes que capturam o interesse do espectador."
+        "question": "Posso adicionar múltiplos pontos de rastreamento em um único vídeo?",
+        "answer": "Sim! Você pode designar múltiplos pontos para rastreamento de movimento, resultando em saídas de vídeo mais complexas e envolventes que capturam o interesse do espectador."
       },
       {
-        "question": "Há limites na velocidade de geração de vídeo?",
-        "answer": "Normalmente, a geração de vídeo ocorre em 1-2 minutos, permitindo que você utilize e compartilhe rapidamente conteúdo de alta qualidade sem demora."
+        "question": "Existem limites na velocidade de geração de vídeo?",
+        "answer": "Normalmente, a geração de vídeo ocorre dentro de 1-2 minutos, permitindo que você utilize e compartilhe conteúdo de alta qualidade rapidamente, sem atrasos."
       },
       {
-        "question": "Quais direitos de licenciamento vêm com os vídeos gerados?",
+        "question": "Quais direitos de licenciamento acompanham os vídeos gerados?",
         "answer": "Todos os vídeos gerados através da nossa plataforma incluem direitos comerciais, permitindo uso irrestrito em várias plataformas e aplicações sem taxas adicionais."
       },
       {
-        "question": "Como as atualizações ou mudanças afetam os vídeos gerados?",
+        "question": "Como atualizações ou mudanças afetam os vídeos gerados?",
         "answer": "Qualquer ajuste pode ser facilmente aplicado, permitindo que você refine o rastreamento de movimento para se adequar a diferentes campanhas ou materiais de marketing."
       },
       {
-        "question": "Há suporte técnico disponível para os usuários?",
-        "answer": "Sim! Oferecemos total suporte com recursos, tutoriais e uma equipe de ajuda dedicada para garantir que você aproveite ao máximo nosso recurso de rastreamento de movimento."
+        "question": "O suporte técnico está disponível para os usuários?",
+        "answer": "Sim! Oferecemos suporte completo com recursos, tutoriais e uma equipe de ajuda dedicada para garantir que você aproveite ao máximo nosso recurso de rastreamento de movimento."
       }
     ]
   },
   "cta": {
-    "heading": "Animado para Dar Vida aos Seus Vídeos?",
+    "heading": "Empolgado para Dar Vida aos Seus Vídeos?",
     "description": "Comece com créditos gratuitos - Experimente a mágica do movimento você mesmo",
     "contactUsText": "Entre em Contato",
     "tryText": "Experimente Agora →"

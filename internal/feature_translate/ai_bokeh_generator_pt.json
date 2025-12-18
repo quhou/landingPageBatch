@@ -1,9 +1,9 @@
 {
   "language": "pt",
-  "title": "WaveSpeed AI - Gerador de Bokeh com IA",
+  "title": "WaveSpeed AI - Gerador de Bokeh AI",
   "meta": {
-    "description": "Aprimore suas imagens com efeitos de desfoque de fundo deslumbrantes usando nosso Gerador de Bokeh com IA. Perfeito para fotografia de produtos, retratos e mídias sociais. Eleve seu conteúdo visual sem esforço!",
-    "keywords": "Gerador de Bokeh com IA, desfoque de fundo IA, aprimoramento de fotografia de produtos, ferramenta de efeitos de imagem, ferramenta de imagem para e-commerce, desfoque de fundo de retratos, edição de fotos para Instagram, processamento de imagem de alta qualidade, otimizador de conteúdo visual, ferramentas de fotografia"
+    "description": "Melhore suas imagens com desfoque de fundo impressionante usando nosso Gerador de Bokeh AI. Perfeito para fotografia de produtos, retratos e redes sociais. Eleve seu conteúdo visual sem esforço!",
+    "keywords": "Gerador de Bokeh AI, desfoque de fundo AI, melhoria de fotografia de produtos, ferramenta de efeitos de imagem, ferramenta de imagem para e-commerce, desfoque de fundo de retrato, edição de fotos no Instagram, processamento de imagem de alta qualidade, otimizador de conteúdo visual, ferramentas de fotografia"
   },
   "header": {
     "nav": [
@@ -17,19 +17,19 @@
         ]
       },
       {
-        "label": "Ferramentas de IA",
+        "label": "Ferramentas AI",
         "items": [
           [
-            "Ferramentas de IA",
+            "Ferramentas AI",
             "#ai_tools"
           ]
         ]
       },
       {
-        "label": "Galeria",
+        "label": "Mostrário",
         "items": [
           [
-            "Galeria",
+            "Mostrário",
             "https://wavespeed.ai/studio/ecommerce/showcase"
           ]
         ]
@@ -39,29 +39,29 @@
   },
   "hero": {
     "heading": "Transforme Suas Imagens",
-    "subHeading": "Adicione Efeitos de Bokeh Deslumbrantes Imediatamente",
-    "description": "Eleve sua fotografia com nosso Gerador de Bokeh com IA. Transforme imagens ordinárias em visuais cativantes com belos efeitos de desfoque de fundo. É simples—basta enviar sua foto e assistir à mágica acontecer!",
+    "subHeading": "Adicione Efeitos de Bokeh Impressionantes Instantaneamente",
+    "description": "Eleve sua fotografia com nosso Gerador de Bokeh AI. Transforme imagens comuns em visuais cativantes com belos efeitos de desfoque de fundo. É simples—basta enviar sua foto e assistir à mágica acontecer!",
     "tryText": "Comece Agora",
     "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
   },
   "compare": {
-    "heading": "Solução de Gerador de Bokeh com IA da WaveSpeed AI",
+    "heading": "Solução de Gerador de Bokeh AI WaveSpeed AI",
     "left": {
       "heading": "Desafios Tradicionais",
       "items": [
-        "Edição manual é demorada e trabalhosa",
+        "A edição manual consome tempo e é trabalhosa",
         "Requer conhecimento avançado de software e ferramentas caras",
         "Difícil de alcançar resultados com aparência profissional",
-        "Opções de personalização limitadas para efeitos de fundo",
+        "Opções limitadas de personalização para efeitos de fundo",
         "Curva de aprendizado frustrante para amadores"
       ]
     },
     "right": {
       "heading": "Solução WaveSpeed AI",
       "items": [
-        "Aplique efeitos de bokeh deslumbrantes em segundos",
-        "Nenhum download de software ou ferramentas complexas necessárias—basta enviar!",
-        "Alcance resultados profissionais sem esforço com IA",
+        "Aplique efeitos de bokeh impressionantes em segundos",
+        "Não são necessários downloads de software ou ferramentas complexas—basta enviar!",
+        "Alcance resultados profissionais sem esforço com AI",
         "Personalize a intensidade do desfoque e as áreas de foco",
         "Preços acessíveis com opções de pagamento conforme o uso"
       ],
@@ -70,12 +70,12 @@
   },
   "howItWorks": {
     "heading": "Como Funciona",
-    "description": "Crie bokeh bonito em 4 passos fáceis",
+    "description": "Crie bokeh bonito em 4 etapas fáceis",
     "steps": [
       {
         "number": "1",
         "title": "Envie Sua Imagem",
-        "text": "Arraste e solte sua foto ou selecione-a do seu dispositivo",
+        "text": "Arraste e solte sua foto ou selecione-a de seu dispositivo",
         "color": "#3b82f6",
         "icon": "BlueStar"
       },
@@ -96,12 +96,12 @@
       {
         "number": "4",
         "title": "Baixe Sua Imagem",
-        "text": "Obtenha sua foto aprimorada com bokeh em segundos",
+        "text": "Receba sua foto com bokeh aprimorada em segundos",
         "color": "#fb923c",
         "icon": "OrangeHex"
       }
     ],
-    "generateText": "Gere Sua Foto Deslumbrante →"
+    "generateText": "Gere Sua Foto Impressionante →"
   },
   "endlessPossibilities": {
     "heading": "Possibilidades Infinitas",
@@ -109,8 +109,8 @@
     "items": [
       "Melhore imagens de produtos para e-commerce",
       "Crie retratos bonitos para uso pessoal",
-      "Eleve suas postagens em mídias sociais",
-      "Desenvolva materiais de marketing chamativos",
+      "Eleve suas postagens nas redes sociais",
+      "Desenvolva materiais de marketing atraentes",
       "Crie convites e gráficos memoráveis",
       "Desenvolva conteúdo para blogs e sites",
       "Produza obras de arte visuais deslumbrantes",
@@ -119,26 +119,26 @@
   },
   "successStories": {
     "heading": "Histórias de Sucesso Reais",
-    "description": "Descubra o impacto da IA no aprimoramento de imagens",
+    "description": "Descubra o impacto da AI na melhoria de imagens",
     "items": [
       {
         "tag": "Entusiastas de Fotografia",
-        "heading": "Imagens de Produtos para E-commerce",
+        "heading": "Imagens de Produtos de E-commerce",
         "before": {
           "label": "Antes",
-          "text": "Plano e sem vida"
+          "text": "Planas e sem vida"
         },
         "after": {
           "label": "Depois",
-          "text": "Visual impressionante"
+          "text": "Visualmente impressionantes"
         },
         "value": "94.7%",
-        "key": "Aumento da Atratividade Visual",
-        "description": "Nossas imagens de produtos transformaram as vendas—o engajamento do cliente aumentou em 50% após o aprimoramento com efeitos de bokeh."
+        "key": "Aumento da Atração Visual",
+        "description": "Nossas imagens de produtos transformaram as vendas—o engajamento dos clientes aumentou em 50% após o aprimoramento com efeitos de bokeh."
       },
       {
         "tag": "Fotógrafo Profissional",
-        "heading": "Campanha em Mídias Sociais",
+        "heading": "Campanha em Redes Sociais",
         "before": {
           "label": "Antes",
           "text": "Imagens padrão"
@@ -149,78 +149,78 @@
         },
         "value": "88%",
         "key": "Aumento de Engajamento",
-        "description": "Usando o Gerador de Bokeh, aumentei os likes nas postagens em mídias sociais em 88%! Meus seguidores adoram o novo visual."
+        "description": "Usando o Gerador de Bokeh, aumentei os likes nas postagens em redes sociais em 88%! Meus seguidores adoram o novo visual."
       }
     ]
   },
   "modelComparison": {
-    "heading": "Opções de Efeitos de Bokeh",
+    "heading": "Opções de Efeito Bokeh",
     "description": "Selecione o efeito certo para sua visão",
     "items": [
       "Bokeh Padrão: Desfoque suave para imagens gerais, ideal para retratos e paisagens",
       "Bokeh Criativo: Formas e cores artísticas, perfeito para fotos mais estilizadas",
       "Foco Personalizado: Especifique sua própria área de foco para composições únicas",
       "Bokeh Dinâmico: Ajusta-se dependendo do contexto da imagem, proporcionando um efeito personalizado",
-      "Recurso de visualização instantânea para ver mudanças ao vivo",
+      "Recurso de visualização instantânea para ver as alterações ao vivo",
       "Direitos comerciais incluídos para todas as imagens geradas"
     ]
   },
   "relatedAITools": {
-    "heading": "Ferramentas de IA Relacionadas",
-    "description": "Descubra mais ferramentas incríveis de IA para suas fotos"
+    "heading": "Ferramentas AI Relacionadas",
+    "description": "Descubra mais ferramentas AI incríveis para suas fotos"
   },
   "faq": {
     "heading": "Perguntas Frequentes",
-    "description": "Tudo que você precisa saber",
+    "description": "Tudo o que você precisa saber",
     "items": [
       {
         "question": "Quais formatos de imagem são compatíveis?",
-        "answer": "Suportamos formatos JPG, PNG e WebP. Certifique-se de que suas imagens tenham alta resolução para os melhores resultados."
+        "answer": "Suportamos formatos JPG, PNG e WebP. Certifique-se de que suas imagens sejam de alta resolução para os melhores resultados."
       },
       {
         "question": "Posso controlar a intensidade do desfoque?",
-        "answer": "Sim! Você pode facilmente ajustar a intensidade do desfoque para alcançar o efeito de fundo desejado."
+        "answer": "Sim! Você pode ajustar facilmente a intensidade do desfoque para alcançar o efeito de fundo desejado."
       },
       {
-        "question": "Como a IA sabe quais áreas focar?",
-        "answer": "Você seleciona os pontos de foco manualmente, permitindo que a IA desfoque suavemente o restante da imagem."
+        "question": "Como a AI sabe quais áreas focar?",
+        "answer": "Você seleciona os pontos de foco manualmente, permitindo que a AI desfoque perfeitamente o restante da imagem."
       },
       {
-        "question": "Há um limite para quantas imagens posso aprimorar?",
-        "answer": "Não! Você pode aprimorar várias imagens sem restrições; basta enviar e gerar quantas precisar."
+        "question": "Há um limite de quantas imagens eu posso melhorar?",
+        "answer": "Não! Você pode melhorar várias imagens sem restrições; basta enviar e gerar quantas precisar."
       },
       {
         "question": "Preciso de algum software especial para usar esta ferramenta?",
-        "answer": "Nenhum software ou download especial é necessário; tudo é feito através da nossa plataforma online."
+        "answer": "Nenhum software especial ou downloads são necessários; tudo é feito por meio de nossa plataforma online."
       },
       {
-        "question": "Qual modelo de preços vocês usam para o Gerador de Bokeh?",
-        "answer": "Oferecemos um modelo de pagamento conforme o uso, garantindo que você pague apenas pelos efeitos que aplicar—sem assinaturas."
+        "question": "Qual modelo de preço vocês usam para o Gerador de Bokeh?",
+        "answer": "Oferecemos um modelo de pagamento conforme o uso, garantindo que você pague apenas pelos efeitos que aplica—sem assinaturas."
       },
       {
-        "question": "Quão rapidamente posso baixar minhas imagens aprimoradas?",
-        "answer": "O tempo de geração é normalmente de 1 a 2 minutos, permitindo uma entrega rápida das suas imagens aprimoradas com bokeh."
+        "question": "Com que rapidez posso baixar minhas imagens aprimoradas?",
+        "answer": "O tempo de geração é tipicamente de 1 a 2 minutos, permitindo uma entrega rápida de suas imagens aprimoradas com bokeh."
       },
       {
-        "question": "Eu retenho os direitos das imagens que aprimoro?",
-        "answer": "Sim! Você possui plenos direitos comerciais sobre todas as imagens processadas através da nossa plataforma."
+        "question": "Eu mantenho os direitos das imagens que melhoro?",
+        "answer": "Sim! Você possui todos os direitos comerciais sobre todas as imagens processadas por nossa plataforma."
       },
       {
         "question": "Que suporte vocês oferecem se algo der errado?",
-        "answer": "Fornecemos suporte abrangente através de documentação, tutoriais e atendimento ao cliente."
+        "answer": "Oferecemos suporte abrangente através de documentação, tutoriais e atendimento ao cliente."
       }
     ]
   },
   "cta": {
-    "heading": "Pronto para Aprimorar Suas Fotos?",
-    "description": "Comece com nosso Gerador de Bokeh com IA hoje e veja a transformação instantaneamente!",
-    "contactUsText": "Entre em Contato Conosco",
+    "heading": "Pronto para Melhorar Suas Fotos?",
+    "description": "Comece com nosso Gerador de Bokeh AI hoje e veja a transformação instantaneamente!",
+    "contactUsText": "Fale Conosco",
     "tryText": "Experimente Agora →"
   },
   "footer": {
     "heading": "Transforme Suas Fotos Hoje!",
-    "description": "Experimente os efeitos incríveis do nosso Gerador de Bokeh com IA. Não é necessário cadastro, experimente agora.",
-    "ctaText": "Aprimore Suas Imagens Agora",
+    "description": "Experimente os efeitos incríveis do nosso Gerador de Bokeh AI. Sem necessidade de cadastro, experimente agora.",
+    "ctaText": "Melhore Suas Imagens Agora",
     "text": "© 2025 WaveSpeed AI. Todos os direitos reservados."
   }
 }

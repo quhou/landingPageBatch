@@ -1,9 +1,9 @@
 {
   "language": "pt",
-  "title": "WaveSpeed AI - Efeito HDR de IA",
+  "title": "WaveSpeed AI - Efeito HDR AI",
   "meta": {
     "description": "Melhore suas imagens com deslumbrantes efeitos HDR usando nossa tecnologia de IA. Perfeito para fotos de produtos, campanhas de marketing e redes sociais. Transforme seus visuais sem esforço!",
-    "keywords": "efeito HDR de IA, alta faixa dinâmica, melhoria de imagem, fotografia de produtos, visuais de marketing, imagens de redes sociais, ferramenta de edição de fotos, comércio eletrônico, narrativa visual, WaveSpeed AI"
+    "keywords": "efeito HDR de IA, alto alcance dinâmico, aprimoramento de imagens, fotografia de produtos, visuais de marketing, imagens para redes sociais, ferramenta de edição de fotos, e-commerce, narrativa visual, WaveSpeed AI"
   },
   "header": {
     "nav": [
@@ -26,10 +26,10 @@
         ]
       },
       {
-        "label": "Demonstração",
+        "label": "Mostra",
         "items": [
           [
-            "Demonstração",
+            "Mostra",
             "https://wavespeed.ai/studio/ecommerce/showcase"
           ]
         ]
@@ -38,16 +38,16 @@
     "tryText": "Experimente agora"
   },
   "hero": {
-    "heading": "Transforme Suas Imagens com Efeito HDR de IA",
+    "heading": "Transforme Suas Imagens com o Efeito HDR AI",
     "subHeading": "Dê Vida às Suas Fotos com Detalhes Vibrantes",
     "description": "Eleve suas imagens de produtos com efeitos HDR de tirar o fôlego que destacam cada detalhe e cor. Perfeito para materiais de marketing cativantes e conteúdo de redes sociais. Experimente a diferença hoje!",
     "tryText": "Experimente Agora",
     "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
   },
   "compare": {
-    "heading": "Solução de Efeito HDR de IA WaveSpeed AI",
+    "heading": "Solução de Efeito HDR AI WaveSpeed AI",
     "left": {
-      "heading": "Desafios da Edição de Imagem Tradicional",
+      "heading": "Desafios da Edição de Imagens Tradicional",
       "items": [
         "Ajustes manuais que consomem tempo",
         "Requer habilidades avançadas de edição",
@@ -62,7 +62,7 @@
         "Melhore imagens em segundos com precisão de IA",
         "Nenhuma habilidade de edição necessária - Basta fazer o upload",
         "Resultados instantâneos com deslumbrante aprimoramento HDR",
-        "Qualidade consistente a cada vez",
+        "Qualidade consistente toda vez",
         "Modelo de pagamento por uso acessível para todos os usuários"
       ],
       "tryText": "Experimente"
@@ -89,7 +89,7 @@
       {
         "number": "3",
         "title": "Ajustar Parâmetros",
-        "text": "Refine brilho, contraste e saturação, se necessário",
+        "text": "Ajuste o brilho, contraste e saturação se necessário",
         "color": "#14b8a6",
         "icon": "GreenSquares"
       },
@@ -101,7 +101,7 @@
         "icon": "OrangeHex"
       }
     ],
-    "generateText": "Gere Sua Imagem Impressionante →"
+    "generateText": "Gere Sua Impressionante Imagem →"
   },
   "endlessPossibilities": {
     "heading": "Possibilidades Infinitas",
@@ -110,10 +110,10 @@
       "Fotos de produtos para plataformas de e-commerce",
       "Imagens deslumbrantes para redes sociais",
       "Materiais de marketing como banners e anúncios",
-      "Aprimoramentos de fotografia imobiliária",
+      "Aprimoramentos em fotografia imobiliária",
       "Fotografia de alimentos para restaurantes",
-      "Ensaios fotográficos de moda e catálogos",
-      "Retouches de fotografia de eventos",
+      "Sessões de fotos de moda e lookbooks",
+      "Retouch de fotografia de eventos",
       "Projetos criativos de design gráfico"
     ]
   },
@@ -123,7 +123,7 @@
     "items": [
       {
         "tag": "E-commerce",
-        "heading": "Listagens de Produtos Aumentadas",
+        "heading": "Lista de Produtos Aumentada",
         "before": {
           "label": "Antes",
           "text": "Imagens sem vida"
@@ -133,8 +133,8 @@
           "text": "Imagens HDR vibrantes"
         },
         "value": "45%",
-        "key": "Aumento na Taxa de Conversão",
-        "description": "Transformar nossas imagens de produtos com HDR resultou em um aumento significativo nas vendas. Os clientes agora estão mais envolvidos!"
+        "key": "Aumento da Taxa de Conversão",
+        "description": "Transformar nossas imagens de produtos com HDR levou a um aumento significativo nas vendas. Os clientes estão agora mais engajados!"
       },
       {
         "tag": "Imobiliário",
@@ -157,8 +157,8 @@
     "heading": "Comparação de Modelos de IA",
     "description": "Selecione a opção HDR ideal para suas necessidades",
     "items": [
-      "HDR Padrão: Melhoria equilibrada com 2-3x de clareza",
-      "HDR Premium: Máxima detalhamento e impacto para visuais de alta qualidade",
+      "HDR Padrão: Aprimoramento equilibrado com 2-3x de clareza",
+      "HDR Premium: Máximo detalhe e destaque para visuais de alto padrão",
       "Tempo de processamento rápido de 1-2 minutos",
       "Suporta vários formatos de imagem, incluindo JPG e PNG",
       "Direitos de uso comercial incluídos para todos os aprimoramentos"
@@ -178,35 +178,35 @@
       },
       {
         "question": "Posso personalizar o efeito HDR aplicado à minha imagem?",
-        "answer": "Sim! Você pode escolher entre vários estilos de HDR e fazer ajustes específicos de brilho, contraste e saturação de cor para alcançar o visual desejado."
+        "answer": "Sim! Você pode escolher entre vários estilos de HDR e fazer ajustes específicos no brilho, contraste e saturação de cores para alcançar o visual desejado."
       },
       {
         "question": "Com que rapidez posso obter minhas imagens aprimoradas?",
-        "answer": "O processo é bastante rápido, geralmente levando apenas 1-2 minutos para receber sua imagem HDR aprimorada, facilitando o gerenciamento do seu fluxo de trabalho."
+        "answer": "O processo é notavelmente rápido, geralmente levando apenas 1-2 minutos para receber sua imagem HDR aprimorada, facilitando a gestão do seu fluxo de trabalho."
       },
       {
-        "question": "Existem limitações quanto ao número de imagens que posso aprimorar?",
+        "question": "Existem limitações no número de imagens que posso aprimorar?",
         "answer": "Não há limites! Você pode aprimorar quantas imagens quiser, e nossa plataforma permite processamento em lote para maximizar sua eficiência."
       },
       {
-        "question": "Eu possuo os direitos sobre as imagens após o aprimoramento?",
-        "answer": "Absolutamente! Todas as imagens aprimoradas usando nosso efeito HDR de IA incluem direitos comerciais completos sem taxas adicionais ou royalties, permitindo que você as use livremente para qualquer finalidade."
+        "question": "Eu possuo os direitos das imagens após o aprimoramento?",
+        "answer": "Absolutamente! Todas as imagens aprimoradas usando nosso efeito HDR de IA incluem direitos comerciais totais sem taxas ou royalties adicionais, permitindo que você as use livremente para qualquer propósito."
       },
       {
-        "question": "Qual é a estrutura de custos para usar a ferramenta de aprimoramento HDR?",
-        "answer": "Oferecemos um modelo de preços flexível de pagamento conforme o uso, sem assinaturas mensais. Você paga apenas pelas imagens que aprimorar, garantindo acessibilidade para todos os usuários."
+        "question": "Qual é a estrutura de custo para usar a ferramenta de aprimoramento HDR?",
+        "answer": "Oferecemos um modelo de preços flexível de pagamento por uso, sem assinaturas mensais. Você paga apenas pelas imagens que aprimora, garantindo acessibilidade para todos os usuários."
       },
       {
         "question": "As imagens aprimoradas podem ser usadas para fins comerciais?",
-        "answer": "Sim, todas as imagens aprimoradas vêm com direitos comerciais completos, permitindo que você as utilize em listagens de produtos, campanhas de marketing e mais, sem restrições."
+        "answer": "Sim, todas as imagens aprimoradas vêm com direitos comerciais totais, permitindo que você as use em listagens de produtos, campanhas de marketing e mais, sem restrições."
       },
       {
         "question": "Que suporte está disponível se eu tiver problemas ou perguntas?",
-        "answer": "Fornecemos suporte abrangente, incluindo documentação detalhada e tutoriais. Nossa equipe de suporte está disponível por e-mail e chat para assistência imediata."
+        "answer": "Oferecemos suporte abrangente, incluindo documentação e tutoriais detalhados. Nossa equipe de suporte está disponível por e-mail e chat para assistência imediata."
       },
       {
-        "question": "Há uma maneira de reverter as alterações feitas pelo aprimoramento HDR?",
-        "answer": "Embora as imagens aprimoradas sejam finais, reter seus arquivos originais garante que você sempre possa revertê-los, se necessário. É melhor manter backups de suas imagens originais."
+        "question": "Há uma forma de reverter as mudanças feitas pelo aprimoramento HDR?",
+        "answer": "Embora as imagens aprimoradas sejam finais, reter seus arquivos originais garante que você sempre possa voltar a eles se necessário. É melhor manter backups de suas imagens originais."
       },
       {
         "question": "Vários usuários podem acessar a ferramenta simultaneamente?",
@@ -215,14 +215,14 @@
     ]
   },
   "cta": {
-    "heading": "Pronto para Aprimorar Suas Imagens com o Efeito HDR de IA?",
+    "heading": "Pronto para Aprimorar Suas Imagens com o Efeito HDR AI?",
     "description": "Comece com créditos gratuitos - Veja visuais deslumbrantes agora",
-    "contactUsText": "Entre em Contato",
+    "contactUsText": "Entre em Contato Conosco",
     "tryText": "Experimente Agora →"
   },
   "footer": {
     "heading": "Transforme Seus Visuais Hoje!",
-    "description": "Experimente o poder do Efeito HDR de IA agora, sem necessidade de inscrição.",
+    "description": "Experimente o poder do Efeito HDR AI agora, sem necessidade de cadastro.",
     "ctaText": "Aprimore Suas Fotos Agora",
     "text": "© 2025 WaveSpeed AI. Todos os direitos reservados."
   }

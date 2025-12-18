@@ -1,9 +1,9 @@
 {
-  "language": "pt",
+  "language": "pt-BR",
   "title": "WaveSpeed AI - Gerador de Imagens a partir de Esboços com IA",
   "meta": {
-    "description": "Transforme seus esboços em imagens impressionantes em instantes. Perfeito para artistas, designers e criativos. Liberte sua imaginação com geração powered by IA. Explore possibilidades artísticas infinitas!",
-    "keywords": "esboço para imagem IA, gerador de arte, criador de imagem IA, ferramenta de design criativo, transformação de arte, arte digital, narrativa visual, imagens para e-commerce, design de produto, visuais para mídias sociais"
+    "description": "Transforme seus esboços em imagens impressionantes em instantes. Perfeito para artistas, designers e criativos. Libere sua imaginação com a geração impulsionada por IA. Explore possibilidades artísticas infinitas!",
+    "keywords": "esboço para imagem IA, gerador de obras de arte, criador de imagens com IA, ferramenta de design criativo, transformação artística, arte digital, narrativa visual, imagens para e-commerce, design de produtos, visuais para redes sociais"
   },
   "header": {
     "nav": [
@@ -26,10 +26,10 @@
         ]
       },
       {
-        "label": "Demonstração",
+        "label": "Galeria",
         "items": [
           [
-            "Demonstração",
+            "Galeria",
             "https://wavespeed.ai/studio/ecommerce/showcase"
           ]
         ]
@@ -39,43 +39,43 @@
   },
   "hero": {
     "heading": "Esboço para Imagem",
-    "subHeading": "Transforme Suas Ideias em Obras-primas Visuais",
-    "description": "Transforme seus esboços feitos à mão em imagens digitais de tirar o fôlego em minutos. Nenhuma habilidade artística necessária. Impulsionado pela tecnologia de IA de ponta, desbloqueie seu potencial criativo.",
+    "subHeading": "Transforme Suas Ideias em Obras-Primas Visuais",
+    "description": "Transforme seus esboços feitos à mão em imagens digitais de tirar o fôlego em minutos. Nenhuma habilidade artística necessária. Com tecnologia de IA de ponta, desbloqueie seu potencial criativo.",
     "tryText": "Comece a Criar Agora",
     "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
   },
   "compare": {
-    "heading": "Solução de Esboço para Imagem WaveSpeed AI",
+    "heading": "Solução de Esboço para Imagem com WaveSpeed AI",
     "left": {
       "heading": "Desafios Tradicionais",
       "items": [
-        "A criação de arte frequentemente requer habilidades avançadas",
-        "Ferramentas e softwares caros são necessários",
+        "A criação de obras de arte muitas vezes exige habilidades avançadas",
+        "Ferramentas e softwares caros necessários",
         "Processo demorado (dias a semanas)",
-        "Personalização e ajustes limitados",
-        "Alto custo de entrada para artistas aspirantes"
+        "Customização e ajustes limitados",
+        "Alta barreira de entrada para artistas aspirantes"
       ]
     },
     "right": {
       "heading": "Solução WaveSpeedAI",
       "items": [
         "Gere imagens impressionantes a partir de esboços em segundos",
-        "Nenhuma experiência artística necessária - Basta enviar esboços",
-        "Resultados instantâneos com criação impulsionada por IA",
-        "Variações ilimitadas da sua obra",
-        "Preços acessíveis pay-as-you-go para todos os usuários"
+        "Nenhuma experiência artística necessária - Basta fazer o upload dos esboços",
+        "Resultados instantâneos com a criação impulsionada por IA",
+        "Variações ilimitadas da sua obra de arte",
+        "Preço acessível com pagamento por uso para todos os usuários"
       ],
       "tryText": "Experimente"
     }
   },
   "howItWorks": {
     "heading": "Como Funciona",
-    "description": "Crie imagens lindas a partir de esboços em 4 passos simples",
+    "description": "Crie imagens bonitas a partir de esboços em 4 passos simples",
     "steps": [
       {
         "number": "1",
-        "title": "Enviar Esboço",
-        "text": "Envie sua obra de arte à mão ou esboço digital",
+        "title": "Carregar Esboço",
+        "text": "Envie sua obra de arte feita à mão ou esboço digital",
         "color": "#3b82f6",
         "icon": "BlueStar"
       },
@@ -89,7 +89,7 @@
       {
         "number": "3",
         "title": "Selecionar Estilo",
-        "text": "Escolha o estilo artístico que deseja aplicar",
+        "text": "Escolha o estilo de arte que você deseja aplicar",
         "color": "#14b8a6",
         "icon": "GreenSquares"
       },
@@ -109,12 +109,12 @@
     "items": [
       "Ilustrações para livros infantis",
       "Arte conceitual para jogos e filmes",
-      "Gráficos e postagens para mídias sociais",
-      "Arte digital para mercadorias",
+      "Gráficos e postagens para redes sociais",
+      "Obras de arte digitais para mercadorias",
       "Designs personalizados para branding",
-      "Impressões artísticas para decoração de casa",
+      "Impressões artísticas para decoração de interiores",
       "Conteúdo visual para apresentações",
-      "Designs de produtos únicos para e-commerce"
+      "Designs de produtos exclusivos para e-commerce"
     ]
   },
   "successStories": {
@@ -123,7 +123,7 @@
     "items": [
       {
         "tag": "Moda & Design",
-        "heading": "Linha de Roupas Personalizada",
+        "heading": "Linha de Roupas Personalizadas",
         "before": {
           "label": "Antes",
           "text": "Intensivo em Tempo"
@@ -134,11 +134,11 @@
         },
         "value": "95%",
         "key": "Tempo Economizado",
-        "description": "Transformamos nosso processo de design, permitindo prototipagem rápida de esboços de moda em visuais finalizados, aumentando nossa produção."
+        "description": "Transformamos nosso processo de design, permitindo a prototipagem rápida de esboços de moda em visuais finalizados, aumentando nossa produção."
       },
       {
         "tag": "Jogos",
-        "heading": "Desenvolvimento de Arte para Jogos Independentes",
+        "heading": "Desenvolvimento de Arte de Jogos Independentes",
         "before": {
           "label": "Antes",
           "text": "Semanas de Iteração"
@@ -157,12 +157,12 @@
     "heading": "Comparação de Modelos de IA",
     "description": "Selecione o modelo perfeito para suas necessidades artísticas",
     "items": [
-      "Criador Vívido: Alta resolução, saída artística detalhada, ideal para impressões",
-      "Artista Rápido: Qualidade padrão, geração mais rápida, perfeita para rascunhos",
-      "Selecionador de Estilo: Escolha estilos para várias estéticas artísticas",
+      "Criador Vivid: Alta resolução, saída artística detalhada, ideal para impressões",
+      "Artista Rápido: Qualidade padrão, geração mais rápida, perfeito para rascunhos",
+      "Selector de Estilo: Escolha estilos para várias estéticas artísticas",
       "Efeitos de movimento de arte integrados para imagens dinâmicas",
       "Tempo de geração de 1-2 minutos para resultados rápidos",
-      "Direitos de uso completo para aplicações comerciais"
+      "Direitos de uso total para aplicações comerciais"
     ]
   },
   "relatedAITools": {
@@ -171,56 +171,56 @@
   },
   "faq": {
     "heading": "Perguntas Frequentes",
-    "description": "Tudo que você precisa saber",
+    "description": "Tudo o que você precisa saber",
     "items": [
       {
         "question": "Qual qualidade de imagem posso esperar da conversão de esboço?",
-        "answer": "Nossa IA gera imagens de alta qualidade com base em seus esboços, possibilitando resultados em nível profissional que podem ser usados para várias aplicações, de mídias sociais a impressões."
+        "answer": "Nossa IA gera imagens de alta qualidade com base em seus esboços, permitindo resultados de nível profissional que podem ser usados para várias aplicações, desde redes sociais até impressões."
       },
       {
         "question": "Posso modificar as imagens geradas?",
-        "answer": "Absolutamente! Uma vez que sua imagem é gerada, você terá a opção de fazer novas modificações ou melhorias usando nossas ferramentas de edição intuitivas."
+        "answer": "Absolutamente! Uma vez que sua imagem é gerada, você terá a opção de fazer mais modificações ou melhorias usando nossas ferramentas de edição intuitivas."
       },
       {
         "question": "Quais tipos de esboços funcionam melhor para a conversão?",
-        "answer": "Esboços feitos à mão ou desenhos digitais limpos funcionam melhor. Certifique-se de que seus esboços sejam claros e detalhados para resultados ótimos."
+        "answer": "Esboços feitos à mão ou desenhos digitais limpos funcionam melhor. Certifique-se de que seus esboços sejam claros e detalhados para resultados ideais."
       },
       {
-        "question": "Como isso difere da criação de arte digital tradicional?",
-        "answer": "Esta tecnologia automatiza e simplifica o processo artístico, permitindo que você gere imagens rapidamente a partir de esboços simples sem extenso treinamento artístico."
+        "question": "Como isso difere da criação tradicional de arte digital?",
+        "answer": "Esta tecnologia automatiza e agiliza o processo artístico, permitindo que você gere rapidamente imagens a partir de esboços simples sem um treinamento artístico extenso."
       },
       {
-        "question": "Há limitações nos tipos de imagens que posso criar?",
-        "answer": "Não, você pode criar uma ampla gama de imagens em vários estilos, temas e assuntos; o único limite é sua imaginação."
+        "question": "Há limitações sobre os tipos de imagens que posso criar?",
+        "answer": "Não, você pode criar uma ampla gama de imagens em vários estilos, temas e assuntos; o único limite é a sua imaginação."
       },
       {
-        "question": "Qual modelo de preços você usa para a geração de esboço para imagem?",
-        "answer": "Operamos em um modelo pay-as-you-go, permitindo que você pague apenas pelas imagens que gera, sem taxas ocultas ou assinaturas."
+        "question": "Qual modelo de preços vocês usam para geração de esboço para imagem?",
+        "answer": "Operamos em um modelo de pagamento por uso, permitindo que você pague apenas pelas imagens que gera, sem taxas ocultas ou assinaturas."
       },
       {
-        "question": "Quão rapidamente posso gerar imagens usando esta ferramenta?",
-        "answer": "A maioria das imagens é gerada em 1-2 minutos, garantindo que você possa rapidamente passar da ideia à execução."
+        "question": "Quão rápido posso gerar imagens usando esta ferramenta?",
+        "answer": "A maioria das imagens é gerada em 1-2 minutos, garantindo que você possa passar rapidamente da ideia à execução."
       },
       {
         "question": "Tenho direitos sobre as imagens que gero?",
-        "answer": "Sim! Todas as imagens criadas através de nossa plataforma vêm com plenos direitos de uso comercial, dando-lhe a liberdade de usar sua arte como desejar."
+        "answer": "Sim! Todas as imagens criadas através da nossa plataforma vêm com direitos de uso comercial totais, dando a você a liberdade de usar sua obra de arte como quiser."
       },
       {
         "question": "Quais recursos estão disponíveis para suporte?",
-        "answer": "Oferecemos suporte abrangente, incluindo tutoriais, documentação extensa e atendimento ao cliente para auxiliar com quaisquer problemas que você encontrar."
+        "answer": "Oferecemos suporte abrangente, incluindo tutoriais, documentação extensa e atendimento ao cliente para ajudar com quaisquer problemas que você encontrar."
       }
     ]
   },
   "cta": {
     "heading": "Pronto para Transformar Seus Esboços em Imagens Impressionantes?",
-    "description": "Comece com créditos gratuitos - Viva a criatividade por si mesmo",
-    "contactUsText": "Entre em Contato",
+    "description": "Comece com créditos gratuitos - Experimente a criatividade você mesmo",
+    "contactUsText": "Entre em Contato Conosco",
     "tryText": "Comece Agora →"
   },
   "footer": {
     "heading": "Pronto para Transformar Suas Ideias?",
-    "description": "Experimente o WaveSpeed AI agora e veja a mágica por si mesmo. Nenhum cadastro necessário.",
-    "ctaText": "Crie Imagens Agora",
+    "description": "Experimente WaveSpeed AI agora e veja a mágica por si mesmo. Nenhum cadastro necessário.",
+    "ctaText": "Criar Imagens Agora",
     "text": "© 2025 WaveSpeed AI. Todos os direitos reservados."
   }
 }

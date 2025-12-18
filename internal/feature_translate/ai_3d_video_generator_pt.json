@@ -2,8 +2,8 @@
   "language": "pt",
   "title": "WaveSpeed AI - Gerador de Vídeo 3D com IA",
   "meta": {
-    "description": "Converta imagens estáticas em vídeos 3D cativantes de forma simples com a tecnologia de IA da WaveSpeed. Perfeito para e-commerce e marketing, permitindo a criação rápida de vídeos de alta qualidade sem nenhuma complicação de filmagem ou edição. Experimente os benefícios revolucionários da geração de vídeos impulsionada por IA hoje!",
-    "keywords": "gerador de vídeo 3D, criação de vídeos com IA, animação de produtos com IA, criador de vídeos para e-commerce, WaveSpeed IA, tecnologia de geração de vídeos, ferramenta de vídeo online, produção de vídeo rápida, conteúdo de vídeo dinâmico, solução de vídeo para marketing, geração de vídeo automatizada, ferramentas de vídeo para Shopify"
+    "description": "Converta facilmente imagens estáticas em vídeos 3D cativantes com a tecnologia de IA da WaveSpeed. Perfeito para e-commerce e marketing, possibilitando a criação rápida de vídeos de alta qualidade sem complicações de filmagem ou edição. Experimente os benefícios revolucionários da geração de vídeo com IA hoje!",
+    "keywords": "gerador de vídeo 3D, criação de vídeo com IA, animação de produtos com IA, criador de vídeos para e-commerce, WaveSpeed AI, tecnologia de geração de vídeo, ferramenta de vídeo online, produção de vídeo rápida, conteúdo de vídeo dinâmico, solução de vídeo para marketing, geração de vídeo automatizada, ferramentas de vídeo para Shopify"
   },
   "header": {
     "nav": [
@@ -40,19 +40,19 @@
   "hero": {
     "heading": "Geração de Vídeo 3D",
     "subHeading": "Dê Vida às Suas Imagens com Vídeos 3D Impressionantes",
-    "description": "Transforme suas imagens de produtos em vídeos 3D impressionantes com apenas alguns cliques. Economize tempo e recursos enquanto cativa seu público com conteúdo de vídeo envolvente criado por tecnologia avançada de IA. Aja agora e veja os resultados!",
+    "description": "Transforme suas imagens de produtos em vídeos 3D impressionantes com apenas alguns cliques. Economize tempo e recursos enquanto cativa seu público com conteúdo de vídeo envolvente criado por tecnologia de IA avançada. Aja agora e veja os resultados!",
     "tryText": "Comece a Criar Agora",
     "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
   },
   "compare": {
-    "heading": "Solução de Gerador de Vídeo 3D com IA da WaveSpeed",
+    "heading": "Solução de Gerador de Vídeo 3D com IA da WaveSpeed AI",
     "left": {
       "heading": "Desafios da Produção de Vídeo Tradicional",
       "items": [
-        "Custos altos ($2000-5000 por projeto)",
+        "Altos custos ($2000-5000 por projeto)",
         "Equipe e equipamentos profissionais necessários",
-        "Processos de edição prolongados (2-7 dias)",
-        "Revisões limitadas e oportunidades de feedback",
+        "Processos de edição longos (2-7 dias)",
+        "Revisões e oportunidades de feedback limitadas",
         "Difícil para pequenas empresas arcarem"
       ]
     },
@@ -60,7 +60,7 @@
       "heading": "Solução WaveSpeed AI",
       "items": [
         "Crie vídeos 3D impressionantes em apenas 1-2 minutos",
-        "Sem filmagens ou equipe necessária - Basta fazer upload das suas imagens",
+        "Sem filmagem ou equipe necessária - simples upload das suas imagens",
         "Geração de vídeo rápida com IA",
         "Variações de vídeo ilimitadas com facilidade",
         "Preços flexíveis por vídeo adaptados a todos os orçamentos"
@@ -75,20 +75,20 @@
       {
         "number": "1",
         "title": "Envie Sua Imagem",
-        "text": "Basta enviar sua imagem estática ou foto do produto",
+        "text": "Simplesmente envie sua imagem estática ou foto do produto",
         "color": "#3b82f6",
         "icon": "BlueStar"
       },
       {
         "number": "2",
         "title": "Defina Preferências de Movimento",
-        "text": "Opcionalmente descreva como você imagina o movimento (ex: \"gire lentamente\")",
+        "text": "Opcionalmente descreva como você imagina o movimento (ex.: \"girar lentamente\")",
         "color": "#a855f7",
         "icon": "PurpleCircle"
       },
       {
         "number": "3",
-        "title": "Escolha Seu Estilo 3D",
+        "title": "Escolha seu Estilo 3D",
         "text": "Selecione o estilo que melhor se adapta à sua marca: Premium ou Rápido",
         "color": "#14b8a6",
         "icon": "GreenSquares"
@@ -105,25 +105,25 @@
   },
   "endlessPossibilities": {
     "heading": "Possibilidades Infinitas com Vídeos 3D",
-    "description": "Aplicações versáteis em diversas indústrias",
+    "description": "Aplicações versáteis em diversos setores",
     "items": [
       "Vídeos de produtos impressionantes para Amazon, Shopify",
       "Vídeos chamativos para redes sociais (Instagram, TikTok, Facebook)",
       "Anúncios de marketing envolventes",
-      "Demonstrações dinâmicas de antes/depois",
+      "Mostruários dinâmicos de antes/depois",
       "Vídeos informativos de tutoriais e demonstrações",
-      "Passeios imersivos de imóveis",
-      "Conteúdo tentador de comida e receitas",
+      "Passeios imersivos pelo imóvel",
+      "Conteúdo tentador de alimentos e receitas",
       "Vídeos de mostruário de moda"
     ]
   },
   "successStories": {
     "heading": "Histórias de Sucesso Transformadoras",
-    "description": "Descubra como as empresas utilizam IA para elevar seu conteúdo em vídeo",
+    "description": "Descubra como as empresas utilizam a IA para elevar seu conteúdo em vídeo",
     "items": [
       {
-        "tag": "Gadgets de Tecnologia",
-        "heading": "Aprimoramento da Listagem de Eletrônicos da Amazon",
+        "tag": "Gadgets Tecnológicos",
+        "heading": "Aprimoramento de Listagem de Eletrônicos na Amazon",
         "before": {
           "label": "Antes",
           "text": "Proibitivamente caro"
@@ -134,11 +134,11 @@
         },
         "value": "95%",
         "key": "Eficiência de Custo",
-        "description": "Gerou vídeos 3D para mais de 30 listagens em um dia, aumentando as conversões em 50%!"
+        "description": "Gerou vídeos 3D para mais de 30 listagens em um dia, aumentando as conversões em 50!"
       },
       {
         "tag": "Design de Interiores",
-        "heading": "Atualizações de Decoração para o Lar no Shopify",
+        "heading": "Atualizações de Decoração de Casa na Shopify",
         "before": {
           "label": "Antes",
           "text": "5 dias"
@@ -149,7 +149,7 @@
         },
         "value": "98%",
         "key": "Eficiência de Tempo",
-        "description": "Nossa equipe de marketing agora pode experimentar vários estilos de vídeo instantaneamente, aumentando muito o engajamento do cliente."
+        "description": "Nossa equipe de marketing agora pode experimentar vários estilos de vídeo instantaneamente, aumentando consideravelmente o engajamento dos clientes."
       }
     ]
   },
@@ -157,9 +157,9 @@
     "heading": "Comparação de Modelos de Vídeo 3D",
     "description": "Selecione o modelo ideal para suas necessidades",
     "items": [
-      "Modelo 3D Premium: qualidade de alta definição, durações mais longas, resultados fotorrealistas",
-      "Modelo Rápido: qualidade padrão, durações mais curtas, eficiente e econômico",
-      "Controles de movimento natural através de texto descritivo",
+      "Modelo 3D Premium: qualidade em alta definição, durações mais longas, resultados fotorrealistas",
+      "Modelo Rápido: qualidade padrão, durações mais curtas, eficiente e amigável ao orçamento",
+      "Controles de movimento naturais através de texto descritivo",
       "Transições e movimentos de câmera mais suaves",
       "Tempo de criação de vídeo rápido de 1-2 minutos",
       "Direitos de uso comercial incluídos em todos os pacotes"
@@ -167,51 +167,51 @@
   },
   "relatedAITools": {
     "heading": "Ferramentas de IA Relacionadas",
-    "description": "Explore ferramentas adicionais de IA para experiências de e-commerce aprimoradas"
+    "description": "Explore ferramentas de IA adicionais para experiências aprimoradas de e-commerce"
   },
   "faq": {
     "heading": "Perguntas Frequentes",
-    "description": "Tudo que você precisa saber",
+    "description": "Tudo o que você precisa saber",
     "items": [
       {
-        "question": "Qual o nível de qualidade e duração de vídeo posso esperar?",
-        "answer": "O modelo Premium produz vídeos 3D deslumbrantes em alta definição, enquanto o modelo Rápido oferece qualidade padrão, otimizando para velocidade. Ambos entregam resultados de qualidade profissional ideais para e-commerce e marketing."
+        "question": "Qual nível de qualidade e duração de vídeo posso antecipar?",
+        "answer": "O modelo Premium produz vídeos 3D impressionantes em alta definição, enquanto o modelo Rápido fornece qualidade padrão, otimizando para velocidade. Ambos oferecem resultados de qualidade profissional ideais para e-commerce e marketing."
       },
       {
         "question": "Posso ajustar o movimento e os efeitos do vídeo?",
-        "answer": "Com certeza! Você tem controle total sobre o movimento através de comandos naturais, permitindo definir qualquer movimento ou ação da câmera e permitindo que a IA aplique dinâmicas realistas."
+        "answer": "Absolutamente! Você tem controle total sobre o movimento por meio de prompts naturais, permitindo definir qualquer movimento ou ação da câmera e permitindo que a IA aplique dinâmicas realistas."
       },
       {
         "question": "Quais formatos de imagem funcionam melhor para gerar vídeos 3D?",
-        "answer": "Imagens de produtos claras em fundos simples rendem os melhores resultados, com formatos JPG, PNG e WebP todos suportados. Certifique-se de que as imagens sejam de alta resolução e bem iluminadas para um resultado ideal."
+        "answer": "Imagens de produto claras em fundos simples produzem os melhores resultados, com os formatos JPG, PNG e WebP todos suportados. Certifique-se de que as imagens sejam de alta resolução e bem iluminadas para um resultado ideal."
       },
       {
-        "question": "Como isso é diferente de ferramentas de animação simples?",
-        "answer": "Nossa tecnologia de IA introduz movimento 3D genuíno que simula ações e transições físicas realistas, diferenciando-se de animações básicas de slides com imagens estáticas."
+        "question": "Como isso se difere de ferramentas de animação simples?",
+        "answer": "Nossa tecnologia de IA introduz um movimento 3D genuíno que simula ações e transições físicas realistas, diferenciando-se da animação básica com imagens estáticas."
       },
       {
         "question": "Posso melhorar a qualidade do vídeo após a criação?",
-        "answer": "Sim, utilize nossas ferramentas de aprimoramento para otimizar vídeos gerados pela IA, melhorando a resolução e clareza sem custo adicional. Isso é especialmente eficaz ao combinar modelos."
+        "answer": "Sim, utilize nossas ferramentas de upscaling para aprimorar vídeos gerados por IA, melhorando a resolução e a clareza sem custo adicional. Isso é especialmente eficaz ao combinar modelos."
       },
       {
-        "question": "Qual é a estrutura de preços para a geração de vídeos?",
-        "answer": "A WaveSpeed segue um modelo de pagamento por uso, sem taxas ocultas. Você paga apenas pelos vídeos realmente criados, sem compromissos de compras mínimas."
+        "question": "Qual é a estrutura de preços para geração de vídeo?",
+        "answer": "A WaveSpeed adota um modelo de pagamento sob demanda, sem taxas ocultas. Você paga apenas pelos vídeos realmente criados, sem compromissos de compras mínimas."
       },
       {
-        "question": "Qual é o tempo típico de geração de vídeo e posso produzir múltiplos ao mesmo tempo?",
-        "answer": "A geração de vídeo é rápida, tipicamente alcançada em 1-2 minutos, com processamento em lote disponível para criação simultânea de vários vídeos."
+        "question": "Qual é o tempo típico de geração de vídeo e posso produzir múltiplos de uma só vez?",
+        "answer": "A geração de vídeo é rápida, geralmente concluída em 1-2 minutos, com processamento em lote disponível para criação simultânea de múltiplos vídeos."
       },
       {
         "question": "Quais são os casos de uso ideais para a tecnologia de vídeo 3D?",
         "answer": "Essa tecnologia se destaca em mostras de produtos para varejo online, conteúdo dinâmico para redes sociais, vídeos de marketing envolventes e qualquer área que necessite de material visualmente atraente."
       },
       {
-        "question": "Eu terei os direitos comerciais dos meus vídeos?",
+        "question": "Eu terei os direitos comerciais sobre meus vídeos?",
         "answer": "Sim, todos os vídeos produzidos concedem direitos comerciais completos, permitindo uso ilimitado em diversas plataformas sem taxas ou royalties adicionais."
       },
       {
         "question": "Quais recursos de suporte estão disponíveis para os usuários?",
-        "answer": "A WaveSpeed oferece suporte extenso por meio de documentação, tutoriais e atendimento ao cliente para assistência técnica, garantindo uma experiência de usuário tranquila."
+        "answer": "A WaveSpeed oferece amplo suporte por meio de documentação, tutoriais e atendimento ao cliente para assistência técnica, garantindo uma experiência de usuário sem complicações."
       }
     ]
   },
@@ -223,7 +223,7 @@
   },
   "footer": {
     "heading": "Ansioso para Transformar Suas Imagens em Vídeos 3D?",
-    "description": "Experimente a WaveSpeed IA e a diferença que ela faz - sem necessidade de inscrição.",
+    "description": "Experimente a WaveSpeed AI e a diferença que ela faz - sem necessidade de cadastro.",
     "ctaText": "Comece a Criar Vídeos 3D Agora",
     "text": "© 2025 WaveSpeed AI. Todos os direitos reservados."
   }

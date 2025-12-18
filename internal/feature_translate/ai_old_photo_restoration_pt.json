@@ -2,8 +2,8 @@
   "language": "pt",
   "title": "WaveSpeed AI - Restauração de Fotos Antigas com IA",
   "meta": {
-    "description": "Reviva suas memórias queridas com a restauração de fotos antigas com a tecnologia de IA. Melhore, colorize e repare imagens sem esforço. Perfeito para arquivos pessoais e restaurações profissionais. Experimente a transformação hoje!",
-    "keywords": "Restauração de fotos antigas com IA, IA para melhoria de fotos, tecnologia de reparo de imagens, colorização de fotos vintage, preservação de memória, restauração digital de fotos, melhoria de fotos históricas, restauração de imagens retro, ferramentas de fotografia, arquivamento pessoal"
+    "description": "Reviva suas memórias queridas com a restauração de fotos antigas alimentada por IA. Melhore, colorize e repare imagens sem esforço. Perfeito para arquivos pessoais e restaurações profissionais. Experimente a transformação hoje!",
+    "keywords": "restauração de fotos antigas com IA, aprimoramento de fotos com IA, tecnologia de reparo de imagens, coloração de fotos vintage, preservação de memórias, restauração digital de fotos, aprimoramento de fotos históricas, restauração de imagens retro, ferramentas de fotografia, arquivamento pessoal"
   },
   "header": {
     "nav": [
@@ -26,10 +26,10 @@
         ]
       },
       {
-        "label": "Demonstração",
+        "label": "Mostrário",
         "items": [
           [
-            "Demonstração",
+            "Mostrário",
             "https://wavespeed.ai/studio/ecommerce/showcase"
           ]
         ]
@@ -45,15 +45,15 @@
     "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
   },
   "compare": {
-    "heading": "Solução de Restauração de Fotos Antigas com IA da WaveSpeed AI",
+    "heading": "Solução de Restauração de Fotos Antigas da WaveSpeed AI",
     "left": {
       "heading": "Desafios da Restauração Tradicional",
       "items": [
         "A restauração manual é trabalhosa e lenta",
-        "Alto custo por serviços profissionais (R$1500-5000 por foto)",
+        "Altos custos para serviços profissionais ($300-1000 por foto)",
         "Habilidades limitadas para restauradores amadores",
-        "Dificuldades em colorir ou melhorar imagens gravemente danificadas",
-        "Resultados insatisfatórios com ferramentas de software básicas"
+        "Dificuldades em colorir ou aprimorar imagens profundamente danificadas",
+        "Resultados insatisfatórios usando ferramentas de software básicas"
       ]
     },
     "right": {
@@ -62,7 +62,7 @@
         "Restauração instantânea de fotos antigas em minutos",
         "Modelo acessível de pagamento conforme o uso",
         "Interface amigável que não requer experiência",
-        "Colorização avançada e melhoria de detalhes",
+        "Colorização avançada e aprimoramento de detalhes",
         "Resultados de alta qualidade adequados para impressão"
       ],
       "tryText": "Restaure Agora"
@@ -74,22 +74,22 @@
     "steps": [
       {
         "number": "1",
-        "title": "Carregar Foto",
-        "text": "Selecione a foto antiga que você deseja restaurar",
+        "title": "Enviar Foto",
+        "text": "Selecione a foto antiga que deseja restaurar",
         "color": "#3b82f6",
         "icon": "BlueStar"
       },
       {
         "number": "2",
         "title": "Escolher Opções de Restauração",
-        "text": "Selecione recursos de melhoria como colorização e nitidez de detalhes",
+        "text": "Selecione recursos de aprimoramento como coloração e nitidez de detalhes",
         "color": "#a855f7",
         "icon": "PurpleCircle"
       },
       {
         "number": "3",
         "title": "Visualizar Alterações",
-        "text": "Veja pré-visualizações instantâneas da sua imagem restaurada",
+        "text": "Veja prévias instantâneas da sua imagem restaurada",
         "color": "#14b8a6",
         "icon": "GreenSquares"
       },
@@ -104,13 +104,13 @@
     "generateText": "Restaure Sua Primeira Foto →"
   },
   "endlessPossibilities": {
-    "heading": "Possibilidades de Restauração Sem Fim",
+    "heading": "Possibilidades de Restauração Sem Limites",
     "description": "Perfeito para qualquer memória ou projeto querido",
     "items": [
-      "Heranças familiares e arquivos",
+      "Relíquias e arquivos de família",
       "Fotografias históricas para museus",
       "Memórias de casamentos e eventos",
-      "Restauração para álbuns e scrapbook",
+      "Restauração de álbuns e scrapbook",
       "Projetos artísticos que requerem estética vintage",
       "Retratos aprimorados para exibição pessoal",
       "Ideias de presente com fotos de família restauradas",
@@ -134,22 +134,22 @@
         },
         "value": "95%",
         "key": "Taxa de Satisfação",
-        "description": "Transformou uma foto de casamento preciosa que estava quase irreconhecível em uma bela lembrança."
+        "description": "Transformou uma querida foto de casamento que estava quase irreconhecível em um lindo souvenir."
       },
       {
         "tag": "Registro Histórico",
-        "heading": "Restauração de Arquivo de Museu",
+        "heading": "Restauração de Arquivo do Museu",
         "before": {
           "label": "Antes",
-          "text": "Gasta e Illegível"
+          "text": "Gastão e Inlegível"
         },
         "after": {
           "label": "Depois",
-          "text": "Restaurada e Clara"
+          "text": "Restaurado e Claro"
         },
         "value": "98%",
-        "key": "Melhoria na Qualidade",
-        "description": "Restaurou com sucesso documentos cruciais, garantindo que registros históricos permaneçam acessíveis para gerações futuras."
+        "key": "Melhoria de Qualidade",
+        "description": "Restaurou com sucesso documentos cruciais, garantindo que registros históricos permaneçam acessíveis para futuras gerações."
       }
     ]
   },
@@ -157,36 +157,36 @@
     "heading": "Comparação de Métodos de Restauração",
     "description": "Selecione o melhor método de restauração para suas necessidades",
     "items": [
-      "Colorização com IA: Aplicação automática de cor vintage para aparência realista",
+      "Colorização com IA: Aplicação automática de cor vintage para um visual realista",
       "Restauração de Detalhes: Algoritmos avançados restauram detalhes intrincados",
-      "Melhoria Padrão: Correções rápidas para reparos básicos",
+      "Aprimoramento Padrão: Correções rápidas para reparos básicos",
       "Saída em Alta Resolução: Qualidade adequada para impressões grandes",
       "Controles Amigáveis: Fácil para todos os níveis de habilidade"
     ]
   },
   "relatedAITools": {
     "heading": "Ferramentas de IA Relacionadas",
-    "description": "Explore mais ferramentas de IA poderosas para melhoria de fotos"
+    "description": "Explore mais ferramentas de IA poderosas para aprimoramento de fotos"
   },
   "faq": {
     "heading": "Perguntas Frequentes",
     "description": "Tudo o que você precisa saber",
     "items": [
       {
-        "question": "Que qualidade posso esperar das fotos restauradas?",
-        "answer": "Espere uma qualidade excelente com melhorias que aumentam a precisão das cores e a preservação dos detalhes. Nossa solução de IA se destaca em reparar e revitalizar imagens antigas, fornecendo um acabamento profissional que captura a essência de suas memórias."
+        "question": "Qual qualidade posso esperar das fotos restauradas?",
+        "answer": "Espere qualidade excelente, com aprimoramentos que melhoram tanto a precisão das cores quanto a preservação de detalhes. Nossa solução de IA se destaca em reparar e revitalizar imagens antigas, proporcionando um acabamento profissional que captura a essência de suas memórias."
       },
       {
         "question": "Posso restaurar fotos severamente danificadas?",
         "answer": "Sim! Nossa tecnologia de IA é projetada para lidar com uma variedade de danos, desde desgaste leve até deterioração significativa. Ela prevê cores de forma inteligente e restaura detalhes, garantindo os melhores resultados possíveis."
       },
       {
-        "question": "Quais formatos posso usar para restauração de fotos?",
-        "answer": "Suportamos vários formatos de imagem, incluindo JPG, PNG e TIFF. Certifique-se de que sua imagem tenha uma resolução adequada para resultados ideais de restauração."
+        "question": "Quais formatos posso usar para a restauração de fotos?",
+        "answer": "Suportamos vários formatos de imagem, incluindo JPG, PNG e TIFF. Certifique-se de que sua imagem tenha uma resolução adequada para resultados de restauração ideais."
       },
       {
         "question": "O processo de restauração é reversível?",
-        "answer": "Uma vez que você baixa a imagem restaurada, é uma saída final. Recomendamos manter seus arquivos originais seguros para garantir que você sempre possa voltar a eles, se necessário."
+        "answer": "Uma vez que você baixa a imagem restaurada, é uma saída final. Recomendamos manter seus arquivos originais seguros para garantir que você sempre possa retornar a eles, se necessário."
       },
       {
         "question": "Quanto tempo leva a restauração?",
@@ -194,25 +194,25 @@
       },
       {
         "question": "Quais são as opções de preços para a restauração de fotos?",
-        "answer": "Nossos preços são flexíveis, com um modelo de pagamento conforme o uso. Você só paga pelas imagens que restaurar, e os custos podem variar com base nos recursos de restauração selecionados."
+        "answer": "Nossos preços são flexíveis com um modelo de pagamento conforme o uso. Você paga apenas pelas imagens que restaura, e os custos podem variar com base nas opções de restauração selecionadas."
       },
       {
         "question": "Posso restaurar várias fotos ao mesmo tempo?",
-        "answer": "Sim! Você pode carregar e restaurar várias imagens simultaneamente para um processamento eficiente."
+        "answer": "Sim! Você pode carregar em lote e restaurar várias imagens simultaneamente para um processamento eficiente."
       },
       {
-        "question": "Conservo os direitos sobre as imagens restauradas?",
-        "answer": "Absolutamente! Todas as imagens restauradas vêm com direitos completos de uso comercial, permitindo que você as utilize para fins pessoais ou profissionais sem taxas adicionais."
+        "question": "Eu retenho os direitos das imagens restauradas?",
+        "answer": "Absolutamente! Todas as imagens restauradas vêm com direitos de uso comercial total, permitindo que você as utilize para fins pessoais ou profissionais sem taxas adicionais."
       },
       {
         "question": "Que suporte está disponível se eu tiver problemas?",
-        "answer": "Oferecemos suporte abrangente, incluindo FAQs detalhadas, tutoriais em vídeo e atendimento ao cliente para ajudar com quaisquer dúvidas ou problemas técnicos."
+        "answer": "Oferecemos suporte abrangente, incluindo perguntas frequentes detalhadas, tutoriais em vídeo, e atendimento ao cliente para ajudar com quaisquer dúvidas ou problemas técnicos."
       }
     ]
   },
   "cta": {
     "heading": "Pronto para Restaurar Suas Fotos Antigas?",
-    "description": "Comece agora com créditos gratuitos e veja a mágica de perto!",
+    "description": "Comece agora com créditos gratuitos e veja a mágica em primeira mão!",
     "contactUsText": "Entre em Contato",
     "tryText": "Restaure Agora →"
   },

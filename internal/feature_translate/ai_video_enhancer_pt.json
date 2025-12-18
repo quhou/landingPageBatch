@@ -1,9 +1,9 @@
 {
   "language": "pt",
-  "title": "WaveSpeed AI - Aprimorador de Vídeos com IA",
+  "title": "WaveSpeed AI - Melhorador de Vídeo com IA",
   "meta": {
-    "description": "Aprimore a qualidade do vídeo sem esforço com o WaveSpeed AI. Usando algoritmos de ponta, transforme suas filmagens médias em obras-primas cinematográficas. Ideal para empresas e criadores de conteúdo. Descontos de Black Friday disponíveis!",
-    "keywords": "aprimorador de vídeo com IA, melhoria da qualidade do vídeo, IA de aumento de vídeo, ferramenta de vídeo cinematográfica, WaveSpeed, aprimoramento de vídeo, ferramentas de vídeo de Black Friday, ferramenta para criadores de conteúdo, aprimoramento de vídeo de marketing, ferramenta de vídeo para e-commerce"
+    "description": "Melhore a qualidade do vídeo sem esforço com o WaveSpeed AI. Usando algoritmos de ponta, transforme suas filmagens medianas em obras-primas cinematográficas. Ideal para empresas e criadores de conteúdo. Descontos de Black Friday disponíveis!",
+    "keywords": "melhorador de vídeo com IA, melhoria da qualidade do vídeo, IA para ampliação de vídeo, ferramenta de vídeo cinematográfico, WaveSpeed, aprimoramento de vídeo, ferramentas de vídeo de Black Friday, ferramenta para criadores de conteúdo, aprimoramento de vídeo de marketing, ferramenta de vídeo para e-commerce"
   },
   "header": {
     "nav": [
@@ -26,10 +26,10 @@
         ]
       },
       {
-        "label": "Demonstração",
+        "label": "Galeria",
         "items": [
           [
-            "Demonstração",
+            "Galeria",
             "https://wavespeed.ai/studio/ecommerce/showcase"
           ]
         ]
@@ -40,18 +40,18 @@
   "hero": {
     "heading": "Aprimoramento de Vídeo Facilmente",
     "subHeading": "Transforme Suas Filmagens em Visuais Impressionantes",
-    "description": "Leve seus vídeos para o próximo nível com o Aprimorador de Vídeos com IA da WaveSpeed. Aprimore qualidade, clareza e profundidade em apenas alguns cliques. Perfeito para criadores de conteúdo em redes sociais, profissionais de marketing e qualquer pessoa que deseja criar conteúdo impressionante.",
+    "description": "Eleve seus vídeos para o próximo nível com o Melhorador de Vídeo com IA do WaveSpeed. Melhore a qualidade, clareza e profundidade em apenas alguns cliques. Perfeito para criadores de conteúdo de mídia social, profissionais de marketing e qualquer pessoa que queira criar conteúdos impressionantes.",
     "tryText": "Comece Agora",
     "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
   },
   "compare": {
-    "heading": "Solução de Aprimorador de Vídeos com IA WaveSpeed AI",
+    "heading": "Solução de Melhorador de Vídeo com IA WaveSpeed",
     "left": {
-      "heading": "Desafios Tradicionais de Aprimoramento de Vídeo",
+      "heading": "Desafios do Aprimoramento de Vídeo Tradicional",
       "items": [
-        "Altos custos para edição profissional de vídeo ($1000-3000 por projeto)",
-        "Requer softwares e plugins caros",
-        "Fluxos de trabalho demorados (1-3 semanas)",
+        "Altos custos para edição de vídeo profissional ($1000-3000 por projeto)",
+        "Requer software e plugins caros",
+        "Fluxos de trabalho que consomem tempo (1-3 semanas)",
         "Capacidades de processamento limitadas",
         "Inacessível para criadores de conteúdo menores"
       ]
@@ -59,23 +59,23 @@
     "right": {
       "heading": "Solução WaveSpeed AI",
       "items": [
-        "Aprimore vídeos instantaneamente com tecnologia de IA",
-        "Nenhum software de alto nível necessário - Basta enviar seu vídeo",
-        "Melhorias na qualidade em minutos com apenas um clique",
-        "Aumento e ajustes ilimitados",
-        "Modelo de pagamento flexível que se adapta a todos os orçamentos"
+        "Aprimore instantaneamente vídeos com tecnologia de IA",
+        "Nenhum software sofisticado necessário - Basta enviar seu vídeo",
+        "Melhorias de qualidade em minutos com apenas um clique",
+        "Ampliação e ajustes ilimitados",
+        "Modelo flexível de pagamento conforme o uso que se adapta a todos os orçamentos"
       ],
       "tryText": "Aprimorar Vídeo"
     }
   },
   "howItWorks": {
     "heading": "Como Funciona",
-    "description": "Aprimore seus vídeos em 4 passos simples",
+    "description": "Eleve seus vídeos em 4 etapas simples",
     "steps": [
       {
         "number": "1",
-        "title": "Enviar Vídeo",
-        "text": "Selecione o vídeo que deseja aprimorar para qualidade",
+        "title": "Carregar Vídeo",
+        "text": "Selecione o vídeo que você deseja aprimorar para qualidade",
         "color": "#3b82f6",
         "icon": "BlueStar"
       },
@@ -89,7 +89,7 @@
       {
         "number": "3",
         "title": "Visualizar Alterações",
-        "text": "Obtenha uma rápida visualização antes de finalizar o aprimoramento",
+        "text": "Obtenha uma visualização rápida antes de finaliza o aprimoramento",
         "color": "#14b8a6",
         "icon": "GreenSquares"
       },
@@ -104,17 +104,17 @@
     "generateText": "Aprimore Seu Primeiro Vídeo →"
   },
   "endlessPossibilities": {
-    "heading": "Aplicações Infinitas",
-    "description": "Aprimore vídeos para todos os propósitos",
+    "heading": "Aplicações sem Fim",
+    "description": "Aprimore vídeos para cada propósito",
     "items": [
       "Vídeos de marketing para produtos",
-      "Impulso para postagens em redes sociais",
+      "Impulso para postagens em mídias sociais",
       "Vídeos de treinamento corporativo",
       "Gravações de eventos",
-      "Tours virtuais de imóveis",
+      "Tour virtual de imóveis",
       "Trailers e teasers de filmes",
       "Aprimoramentos para criadores de conteúdo",
-      "Melhoria de vídeos de e-learning"
+      "Melhoria de vídeos para e-learning"
     ]
   },
   "successStories": {
@@ -134,7 +134,7 @@
         },
         "value": "85%",
         "key": "Aumento de Qualidade",
-        "description": "Melhoramos nossa qualidade de vídeo usando o aprimorador de IA. As taxas de retenção de espectadores dispararam em 50%."
+        "description": "Melhoramos a qualidade dos nossos vídeos usando o aprimorador de IA. As taxas de retenção de espectadores dispararam em 50%."
       },
       {
         "tag": "E-commerce",
@@ -148,8 +148,8 @@
           "text": "Qualidade em alta definição"
         },
         "value": "90%",
-        "key": "Aumento de Engajamento",
-        "description": "Nossos vídeos cativaram os clientes, levando a um aumento de 30% nas taxas de conversão de conteúdo promocional."
+        "key": "Aumento deEngajamento",
+        "description": "Nossos vídeos cativaram os clientes, levando a um aumento de 30% nas taxas de conversão a partir do conteúdo promocional."
       }
     ]
   },
@@ -157,9 +157,9 @@
     "heading": "Comparação de Opções de Aprimoramento",
     "description": "Selecione o melhor modo de aprimoramento para suas necessidades",
     "items": [
-      "Padrão: Aprimoramento de qualidade básica, bom para uso casual",
+      "Padrão: Aprimoramento básico de qualidade, bom para uso casual",
       "Premium: Atualizações em alta definição para projetos profissionais",
-      "Cinemática: Qualidade cinematográfica avançada para trailers de filmes",
+      "Cinemático: Qualidade cinematográfica avançada para trailers de filmes",
       "Saídas de múltiplas resoluções disponíveis",
       "Tempo de processamento rápido para eficiência",
       "Garantia de satisfação nas melhorias de qualidade"
@@ -167,7 +167,7 @@
   },
   "relatedAITools": {
     "heading": "Explore Ferramentas de IA Relacionadas",
-    "description": "Descubra mais recursos poderosos de IA para suas necessidades de vídeo"
+    "description": "Descubra mais recursos de IA poderosos para suas necessidades de vídeo"
   },
   "faq": {
     "heading": "Perguntas Frequentes",
@@ -175,7 +175,7 @@
     "items": [
       {
         "question": "Quais formatos de vídeo são suportados para aprimoramento?",
-        "answer": "Suportamos todos os principais formatos de vídeo, incluindo MP4, AVI e MOV. Certifique-se de que seu vídeo esteja em boa qualidade antes do aprimoramento para os melhores resultados."
+        "answer": "Nós suportamos todos os principais formatos de vídeo, incluindo MP4, AVI e MOV. Certifique-se de que seu vídeo esteja em boa qualidade antes de aprimorá-lo para melhores resultados."
       },
       {
         "question": "Posso aprimorar vários vídeos ao mesmo tempo?",
@@ -187,27 +187,27 @@
       },
       {
         "question": "Há um limite de quantas vezes posso usar o serviço?",
-        "answer": "Sem limites! Você pode aprimorar quantos vídeos precisar, quando desejar, com preços baseados apenas no uso."
+        "answer": "Nenhum limite! Você pode aprimorar quantos vídeos precisar a seu critério, com preços baseados apenas no uso."
       },
       {
         "question": "Os vídeos aprimorados incluem licenciamento comercial?",
-        "answer": "Sim! Todos os vídeos aprimorados vêm com direitos comerciais completos para uso em marketing e projetos pessoais."
+        "answer": "Sim! Todos os vídeos aprimorados vêm com plenos direitos comerciais para uso em marketing e projetos pessoais."
       },
       {
-        "question": "Que suporte está disponível se eu encontrar problemas?",
-        "answer": "Oferecemos documentação completa, perguntas frequentes e uma equipe de suporte acessível via chat ao vivo e email para qualquer desafio técnico."
+        "question": "Que suporte está disponível caso eu encontre problemas?",
+        "answer": "Nós fornecemos documentação completa, perguntas frequentes e uma equipe de suporte acessível via chat ao vivo e e-mail para quaisquer desafios técnicos."
       },
       {
-        "question": "Como funciona a precificação para aprimoramentos de vídeo?",
-        "answer": "Nossa precificação é pay-as-you-go, então você paga apenas pelos aprimoramentos que realiza. Não há assinaturas ou taxas ocultas envolvidas."
+        "question": "Como funcionam os preços para aprimoramentos de vídeo?",
+        "answer": "Nossos preços são pay-as-you-go, então você paga apenas pelos aprimoramentos que realiza. Não há assinaturas ou taxas escondidas envolvidas."
       },
       {
-        "question": "Posso esperar uma pré-visualização antes de finalizar os aprimoramentos?",
-        "answer": "Absolutamente! Você verá uma pré-visualização dos aprimoramentos antes de baixar o vídeo final, garantindo satisfação com o resultado."
+        "question": "Posso esperar uma prévia antes de finalizar os aprimoramentos?",
+        "answer": "Absolutamente! Você verá uma prévia dos aprimoramentos antes de baixar o vídeo final, garantindo satisfação com o resultado."
       },
       {
-        "question": "Quais são os melhores casos de uso para o Aprimorador de Vídeos com IA?",
-        "answer": "Esta ferramenta é ideal para empresas que criam conteúdo promocional, influenciadores que melhoram vídeos para redes sociais e educadores que atualizam materiais de curso online."
+        "question": "Quais são os melhores casos de uso para o Melhorador de Vídeo com IA?",
+        "answer": "Esta ferramenta é ideal para empresas que criam conteúdo promocional, influenciadores que aprimoram vídeos para mídias sociais e educadores que atualizam materiais de cursos online."
       },
       {
         "question": "O serviço manterá meus vídeos privados?",
@@ -218,12 +218,12 @@
   "cta": {
     "heading": "Pronto para Aprimorar Seus Vídeos?",
     "description": "Comece com créditos gratuitos hoje - Experimente a transformação você mesmo",
-    "contactUsText": "Entre em Contato",
+    "contactUsText": "Entre em Contato Conosco",
     "tryText": "Comece a Aprimorar Agora →"
   },
   "footer": {
-    "heading": "Transforme a Qualidade do Seu Vídeo Hoje!",
-    "description": "Experimente a ferramenta de aprimoramento da WaveSpeed AI e veja os resultados de perto. Sem necessidade de inscrição.",
+    "heading": "Transforme a Qualidade dos Seus Vídeos Hoje!",
+    "description": "Experimente a ferramenta de aprimoramento da WaveSpeed AI e veja os resultados de perto. Não é necessário se inscrever.",
     "ctaText": "Aprimorar Agora",
     "text": "© 2025 WaveSpeed AI. Todos os direitos reservados."
   }

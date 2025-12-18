@@ -2,8 +2,8 @@
   "language": "pt",
   "title": "WaveSpeed AI - Gerador de Anime com IA",
   "meta": {
-    "description": "Crie visuais impressionantes no estilo anime com IA. Perfeito para criadores de conteúdo, desenvolvedores de jogos e estúdios de animação. Experimente o futuro da animação com WaveSpeed AI.",
-    "keywords": "gerador de anime com IA, criador de arte anime, ferramenta de animação com IA, geração de arte digital, design de personagens de anime, criação de conteúdo, ativos de jogos, software de animação, criador de vídeo anime, ilustração de mangá, WaveSpeed AI"
+    "description": "Crie visuais impressionantes em estilo anime com IA. Perfeito para criadores de conteúdo, desenvolvedores de jogos e estúdios de animação. Experimente o futuro da animação com WaveSpeed AI.",
+    "keywords": "gerador de anime com IA, criador de arte anime, ferramenta de animação com IA, geração de arte digital, design de personagens anime, criação de conteúdo, ativos de jogos, software de animação, criador de vídeos anime, ilustração de mangá, WaveSpeed AI"
   },
   "header": {
     "nav": [
@@ -26,10 +26,10 @@
         ]
       },
       {
-        "label": "Mostra",
+        "label": "Mostruário",
         "items": [
           [
-            "Mostra",
+            "Mostruário",
             "https://wavespeed.ai/studio/ecommerce/showcase"
           ]
         ]
@@ -39,13 +39,13 @@
   },
   "hero": {
     "heading": "Geração de Arte Anime",
-    "subHeading": "Dê Vida à Sua Imaginação com Criações Impressionantes de Anime",
-    "description": "Liberte sua criatividade e transforme ideias em visuais cativantes de anime em minutos. Perfeito para artistas, desenvolvedores de jogos e criadores de conteúdo. Experimente hoje e veja quão rápido você pode criar sua primeira obra-prima de anime!",
+    "subHeading": "Dê Vida à Sua Imaginação com Criações Anime Impressionantes",
+    "description": "Libere sua criatividade e transforme ideias em visuais cativantes de anime em minutos. Perfeito para artistas, desenvolvedores de jogos e criadores de conteúdo. Experimente hoje e veja quão rápido você pode criar sua primeira obra-prima anime!",
     "tryText": "Experimente Agora",
     "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
   },
   "compare": {
-    "heading": "Solução de Gerador de Anime com IA WaveSpeed AI",
+    "heading": "Solução de Gerador de Anime com IA do WaveSpeed AI",
     "left": {
       "heading": "Desafios da Animação Tradicional",
       "items": [
@@ -59,10 +59,10 @@
     "right": {
       "heading": "Solução WaveSpeed AI",
       "items": [
-        "Crie arte anime em minutos a partir de esboços ou prompts",
-        "Nenhuma habilidade artística necessária - Apenas descreva sua visão",
-        "Instantaneamente gerado com criatividade aprimorada por IA",
-        "Estilos e variações sem fim ao seu alcance",
+        "Crie arte anime em minutos a partir de esboços ou sugestões",
+        "Nenhuma habilidade artística necessária - Basta descrever sua visão",
+        "Gerado instantaneamente com criatividade aprimorada pela IA",
+        "Estilos e variações infinitas ao seu alcance",
         "Preços acessíveis adaptados para todos os artistas"
       ],
       "tryText": "Experimente"
@@ -75,7 +75,7 @@
       {
         "number": "1",
         "title": "Forneça um Conceito",
-        "text": "Conte-nos sua ideia, personagem ou cena em palavras simples",
+        "text": "Diga-nos sua ideia, personagem ou cena em palavras simples",
         "color": "#3b82f6",
         "icon": "BlueStar"
       },
@@ -89,7 +89,7 @@
       {
         "number": "3",
         "title": "Personalize Recursos",
-        "text": "Ajuste características de personagens, cores e fundos",
+        "text": "Ajuste traços de personagens, cores e fundos",
         "color": "#14b8a6",
         "icon": "GreenSquares"
       },
@@ -104,21 +104,21 @@
     "generateText": "Gere Sua Primeira Arte Anime →"
   },
   "endlessPossibilities": {
-    "heading": "Criações Artísticas Sem Fim",
+    "heading": "Criações Artísticas Infinitas",
     "description": "Perfeito para qualquer projeto ou tema",
     "items": [
       "Design de personagens para jogos e quadrinhos",
-      "Ilustrações personalizadas no estilo anime",
+      "Ilustrações personalizadas em estilo anime",
       "Arte promocional para conteúdo digital",
       "Visuais únicos para redes sociais",
-      "Arte de fãs e designs de personagens originais",
-      "Cenas animadas para conteúdo educacional",
+      "Arte de fã e designs de personagens originais",
+      "Cenas animadas para conteúdo educativo",
       "Arte de capa para romances e histórias",
       "Roteirização para animações"
     ]
   },
   "successStories": {
-    "heading": "Histórias de Sucesso Reais",
+    "heading": "Histórias de Sucesso Real",
     "description": "Veja como criadores estão revolucionando sua arte com IA",
     "items": [
       {
@@ -134,11 +134,11 @@
         },
         "value": "95%",
         "key": "Tempo Economizado",
-        "description": "Reduzimos drasticamente nosso tempo de design de personagens, permitindo que nossa equipe se concentre na jogabilidade."
+        "description": "Reduzimos dramaticamente nosso tempo de design de personagem, permitindo que nossa equipe se concentrasse na jogabilidade."
       },
       {
         "tag": "Artista Freelancer",
-        "heading": "Ilustrações de Anime Comissionadas",
+        "heading": "Ilustrações Anime Contratadas",
         "before": {
           "label": "Antes",
           "text": "Altos custos"
@@ -158,64 +158,64 @@
     "description": "Escolha o modelo certo para suas necessidades artísticas",
     "items": [
       "Estilo Anime 1: Personagens detalhados, alta qualidade artística, excelente para designs de heróis",
-      "Estilo Anime 2: Criação mais rápida, adequada para elementos de fundo e cena, econômica",
+      "Estilo Anime 2: Criação mais rápida, adequada para elementos de fundo e cena, amigável para o orçamento",
       "Opções de personalização para cabelo, roupas e ambiente",
-      "Suporta prompts criativos para poses e expressões dinâmicas",
+      "Suporta sugestões criativas para poses e expressões dinâmicas",
       "Resultados instantâneos com geração de 1-5 minutos",
-      "Direitos comerciais incluídos para toda arte gerada"
+      "Direitos comerciais incluídos para toda a arte gerada"
     ]
   },
   "relatedAITools": {
     "heading": "Ferramentas de IA Relacionadas",
-    "description": "Explore mais ferramentas poderosas de IA para artistas"
+    "description": "Explore mais poderosas ferramentas de IA para artistas"
   },
   "faq": {
     "heading": "Perguntas Frequentes",
-    "description": "Tudo o que você precisa saber",
+    "description": "Tudo que você precisa saber",
     "items": [
       {
         "question": "Quais estilos de arte posso gerar?",
         "answer": "Você pode criar uma variedade de estilos de anime, incluindo Shonen e Shojo, além de personalizar recursos de acordo com sua preferência."
       },
       {
-        "question": "Preciso de habilidades artísticas para usar?",
-        "answer": "De forma alguma! Você só precisa descrever seu conceito, e nossa IA cuidará do resto, criando belas artes anime."
+        "question": "Preciso de habilidades artísticas para usá-lo?",
+        "answer": "De forma alguma! Você só precisa descrever seu conceito, e nossa IA cuidará do resto, criando belas artes de anime."
       },
       {
         "question": "Quais formatos de arquivo estão disponíveis para a saída?",
-        "answer": "A arte gerada está disponível em formatos PNG e JPG de alta resolução, adequados para exibição digital e impressão."
+        "answer": "A arte gerada está disponível em formatos PNG e JPG de alta resolução, adequados tanto para exibição digital quanto para impressão."
       },
       {
         "question": "Como a IA se compara a artistas tradicionais?",
-        "answer": "A arte gerada por IA fornece resultados rápidos e flexibilidade criativa, mas é uma ferramenta para auxiliar artistas, não um substituto para seu talento único."
+        "answer": "A arte gerada por IA oferece resultados rápidos e flexibilidade criativa, mas é uma ferramenta para ajudar os artistas, não um substituto para seu talento único."
       },
       {
         "question": "Posso comercializar a arte gerada?",
-        "answer": "Sim! Todas as obras de arte criadas através do WaveSpeed AI incluem direitos comerciais completos, permitindo que você venda ou use como desejar."
+        "answer": "Sim! Toda a arte criada através do WaveSpeed AI inclui direitos comerciais completos, permitindo que você venda ou use como desejar."
       },
       {
         "question": "Quanto tempo leva para gerar a arte?",
         "answer": "A maioria das criações é concluída em 1-5 minutos, permitindo iterações e mudanças rápidas."
       },
       {
-        "question": "Há um limite no número de criações que posso fazer?",
-        "answer": "Não, você pode gerar quantas artes precisar, com cada uma levando apenas alguns minutos."
+        "question": "Há um limite para o número de criações que posso fazer?",
+        "answer": "Não, você pode gerar quantas obras de arte precisar, cada uma levando apenas alguns minutos."
       },
       {
         "question": "Que suporte está disponível para usar a ferramenta?",
-        "answer": "Oferecemos guias do usuário abrangentes, tutoriais em vídeo e uma equipe de suporte dedicada para eventuais problemas ou perguntas que você possa ter."
+        "answer": "Oferecemos guias de usuário abrangentes, tutoriais em vídeo e uma equipe de suporte dedicada para quaisquer problemas ou perguntas que você possa ter."
       }
     ]
   },
   "cta": {
     "heading": "Pronto para Criar Sua Primeira Arte Anime?",
     "description": "Comece com créditos gratuitos - Liberte sua criatividade",
-    "contactUsText": "Entre em Contato Conosco",
+    "contactUsText": "Contate-Nos",
     "tryText": "Experimente Agora →"
   },
   "footer": {
     "heading": "Pronto para Criar Animes Cativantes?",
-    "description": "Experimente o WaveSpeed AI agora e traga suas ideias à vida. Não é necessário cadastro.",
+    "description": "Experimente o WaveSpeed AI agora e traga suas ideias à vida. Não é necessário se inscrever.",
     "ctaText": "Crie Arte Anime Agora",
     "text": "© 2025 WaveSpeed AI. Todos os direitos reservados."
   }

@@ -1,9 +1,9 @@
 {
   "language": "pt",
-  "title": "WaveSpeed AI - Transferência de Poses com IA",
+  "title": "WaveSpeed AI - Transferência de Pose de IA",
   "meta": {
-    "description": "Revolucione a animação de personagens com Transferência de Poses com IA. Aplique instantaneamente poses dinâmicas a imagens estáticas para aprimorar a narrativa em jogos, publicidade e arte. Experimente a transformação de movimento sem costura alimentada por tecnologia avançada de IA. Transforme imagens estáticas em sequências animadas cativantes sem esforço!",
-    "keywords": "Transferência de Poses com IA, animação de personagens, poses estáticas a dinâmicas, ferramenta de animação com IA, animação de jogos, visuais publicitários, animação artística, aplicação instantânea de poses, software de animação"
+    "description": "Revolucione a animação de personagens com a Transferência de Pose de IA. Aplique instantaneamente poses dinâmicas em imagens estáticas para contar histórias aprimoradas em jogos, publicidade e arte. Experimente a transformação de movimento sem costura impulsionada pela avançada tecnologia de IA. Transforme imagens estáticas em sequências animadas cativantes sem esforço!",
+    "keywords": "Transferência de Pose de IA, animação de personagens, poses estáticas para dinâmicas, ferramenta de animação de IA, animação de jogos, visuais publicitários, animação artística, aplicação instantânea de poses, software de animação"
   },
   "header": {
     "nav": [
@@ -40,12 +40,12 @@
   "hero": {
     "heading": "Transforme Poses Instantaneamente",
     "subHeading": "Dê Vida a Imagens Estáticas",
-    "description": "Aplique poses realistas às suas imagens com facilidade. Assista enquanto a IA transforma seus visuais estáticos em expressões animadas com apenas alguns cliques. Perfeito para aprimorar a narrativa e o engajamento em seus projetos. Experimente agora e desbloqueie infinitas possibilidades criativas!",
+    "description": "Aplique poses realistas às suas imagens sem esforço. Veja a IA transformar seus visuais estáticos em expressões animadas com apenas alguns cliques. Perfeito para aprimorar narrativas e engajamento em seus projetos. Experimente agora e desbloqueie infinitas possibilidades criativas!",
     "tryText": "Experimente Agora",
     "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
   },
   "compare": {
-    "heading": "Solução de Transferência de Poses com IA da WaveSpeed",
+    "heading": "Solução de Transferência de Pose de IA WaveSpeed",
     "left": {
       "heading": "Desafios da Animação Tradicional",
       "items": [
@@ -57,13 +57,13 @@
       ]
     },
     "right": {
-      "heading": "Solução da WaveSpeed IA",
+      "heading": "Solução WaveSpeed AI",
       "items": [
         "Aplicação instantânea de poses em segundos a partir de imagens estáticas",
-        "Sem necessidade de expertise em animação - Basta carregar imagens",
+        "Nenhuma expertise em animação necessária - Basta enviar as imagens",
         "Resultados em tempo real com transferências de poses impulsionadas por IA",
         "Ajustes ilimitados com comandos simples",
-        "Modelo acessível, pague conforme o uso, adequado para todos"
+        "Modelo acessível, pay-as-you-go, adequado para todos"
       ],
       "tryText": "Experimente"
     }
@@ -75,7 +75,7 @@
       {
         "number": "1",
         "title": "Carregar Imagem",
-        "text": "Carregue sua imagem estática do personagem ou sujeito",
+        "text": "Envie sua imagem estática do personagem ou sujeito",
         "color": "#3b82f6",
         "icon": "BlueStar"
       },
@@ -89,7 +89,7 @@
       {
         "number": "3",
         "title": "Ajustar Parâmetros",
-        "text": "Ajuste os efeitos de pose e movimento conforme sua preferência",
+        "text": "Ajuste a pose e os efeitos de movimento ao seu gosto",
         "color": "#14b8a6",
         "icon": "GreenSquares"
       },
@@ -104,21 +104,21 @@
     "generateText": "Gere Sua Primeira Animação →"
   },
   "endlessPossibilities": {
-    "heading": "Aplicações Criativas Ilimitadas",
+    "heading": "Aplicações Criativas Infinitas",
     "description": "Ideal para múltiplas indústrias e usos",
     "items": [
       "Animações de personagens para videogames",
       "Visuais publicitários dinâmicos",
-      "Animações artísticas para materiais promocionais",
+      "Animações artísticas para material promocional",
       "Narrativas interativas para aplicativos",
       "Conteúdo de mídia social com animações envolventes",
-      "Animação para material educacional",
-      "Cartões de felicitações personalizados",
+      "Animações para material educacional",
+      "Cartões de felicitações personalizadas",
       "Animações personalizadas para eventos e apresentações"
     ]
   },
   "successStories": {
-    "heading": "Sucesso Comprovado com Transferência de Poses com IA",
+    "heading": "Sucesso Comprovado com a Transferência de Pose de IA",
     "description": "Descubra como os clientes estão aprimorando seus projetos com IA",
     "items": [
       {
@@ -134,7 +134,7 @@
         },
         "value": "95%",
         "key": "Eficiência de Tempo",
-        "description": "Nossa equipe de design de jogos acelerou a produção ao aplicar poses instantaneamente, reduzindo significativamente nosso ciclo de animação."
+        "description": "Nossa equipe de design de jogos acelerou a produção aplicando poses instantaneamente, reduzindo significativamente nosso ciclo de animação."
       },
       {
         "tag": "Agência de Marketing",
@@ -149,41 +149,41 @@
         },
         "value": "80%",
         "key": "Aumento de Engajamento",
-        "description": "Recebemos feedback excepcional sobre nossos novos anúncios animados, dobrando o engajamento da nossa audiência em todas as plataformas."
+        "description": "Recebemos feedback excepcional sobre nossos novos anúncios animados, dobrando nosso engajamento do público em várias plataformas."
       }
     ]
   },
   "modelComparison": {
-    "heading": "Comparação de Técnicas de Transferência de Poses",
+    "heading": "Comparação de Técnicas de Transferência de Pose",
     "description": "Escolha a abordagem certa para suas necessidades de animação",
     "items": [
-      "Transformação Rápida de Poses: Ajustes rápidos para aplicações instantâneas",
-      "Mesclagem Suave de Movimento: Transições naturais entre poses",
+      "Transformação de Pose Rápida: Ajustes rápidos para aplicações instantâneas",
+      "Mistura de Movimento Suave: Transições naturais entre poses",
       "Interface Amigável: Simples para usuários de todos os níveis de habilidade",
       "Movimento Realista de Personagens: Representação precisa do movimento humano",
-      "Tempos de Processamento Rápidos: Prepara animações mais rápido que métodos tradicionais",
+      "Tempos de Processamento Rápidos: Prepara animações mais rápido do que métodos tradicionais",
       "Adequado para Todos os Meios: Funciona em várias plataformas digitais"
     ]
   },
   "relatedAITools": {
     "heading": "Ferramentas de IA Relacionadas",
-    "description": "Explore mais ferramentas avançadas de IA para profissionais criativos"
+    "description": "Explore mais ferramentas de IA avançadas para profissionais criativos"
   },
   "faq": {
     "heading": "Perguntas Frequentes",
-    "description": "Tudo que você precisa saber",
+    "description": "Tudo o que você precisa saber",
     "items": [
       {
-        "question": "Quais tipos de imagens funcionam melhor para transferência de poses?",
-        "answer": "Para resultados ideais, imagens de alta qualidade de personagens ou objetos com contornos claros e distrações de fundo mínimas são ideais. As imagens devem ser de alta resolução para permitir que a IA capture e aplique detalhes de forma eficaz."
+        "question": "Quais tipos de imagens funcionam melhor para a transferência de pose?",
+        "answer": "Para melhores resultados, imagens de alta qualidade de personagens ou objetos com contornos claros e distrações mínimas ao fundo são ideais. As imagens devem ser de alta resolução para permitir que a IA capture e aplique detalhes de forma eficaz."
       },
       {
         "question": "Posso usar minhas próprias poses?",
-        "answer": "Atualmente, você pode selecionar a partir de uma biblioteca de poses pré-definidas. Estamos continuamente atualizando nossa biblioteca de poses para incluir uma ampla gama de opções para diferentes estilos e aplicações."
+        "answer": "Atualmente, você pode selecionar a partir de uma biblioteca de poses pré-definidas. Estamos continuamente atualizando nossa biblioteca de poses para incluir uma ampla gama de opções para atender a diferentes estilos e aplicações."
       },
       {
         "question": "Quanto tempo leva para gerar a animação?",
-        "answer": "As transferências de poses normalmente são renderizadas em segundos. O tempo pode variar ligeiramente com base na complexidade da pose e na qualidade da imagem."
+        "answer": "As transferências de pose são tipicamente renderizadas em segundos. O tempo pode variar ligeiramente dependendo da complexidade da pose e da qualidade da imagem."
       },
       {
         "question": "Existem limitações de animação?",
@@ -191,31 +191,31 @@
       },
       {
         "question": "Quais direitos comerciais acompanham as animações?",
-        "answer": "Todas as animações geradas através de nossa plataforma vêm com direitos comerciais completos, permitindo que você as use em seus projetos sem taxas de licenciamento adicionais."
+        "answer": "Todas as animações geradas através da nossa plataforma vêm com direitos comerciais completos, permitindo que você as use em seus projetos sem taxas de licenciamento adicionais."
       },
       {
         "question": "Posso re-editar as poses após a geração?",
-        "answer": "Sim! Você pode modificar parâmetros e aplicar poses diferentes mesmo após a transformação inicial, permitindo flexibilidade em seu processo criativo."
+        "answer": "Sim! Você pode modificar parâmetros e aplicar poses diferentes mesmo após a transformação inicial, permitindo flexibilidade no seu processo criativo."
       },
       {
-        "question": "Quais softwares ou formatos vocês suportam?",
-        "answer": "Animações geradas podem ser exportadas em vários formatos compatíveis com softwares populares, garantindo integração perfeita em seus fluxos de trabalho existentes."
+        "question": "Que software ou formatos vocês suportam?",
+        "answer": "As animações geradas podem ser exportadas em vários formatos compatíveis com software popular, garantindo uma integração sem costura em seus fluxos de trabalho existentes."
       },
       {
-        "question": "O treinamento está disponível para novos usuários?",
-        "answer": "Absolutamente! Oferecemos recursos abrangentes, incluindo tutoriais em vídeo e webinars, para ajudar os usuários a começarem a usar nossas ferramentas."
+        "question": "Há treinamento disponível para novos usuários?",
+        "answer": "Absolutamente! Oferecemos recursos abrangentes, incluindo tutoriais em vídeo e webinars, para ajudar os usuários a começarem com nossas ferramentas."
       }
     ]
   },
   "cta": {
     "heading": "Pronto para Transformar Suas Imagens com IA?",
-    "description": "Comece a criar animações incríveis com créditos gratuitos hoje",
-    "contactUsText": "Entre em Contato",
+    "description": "Comece a criar animações impressionantes com créditos gratuitos hoje",
+    "contactUsText": "Entre em Contato Conosco",
     "tryText": "Experimente Agora →"
   },
   "footer": {
-    "heading": "Pronto para Animar Suas Ideias?",
-    "description": "Experimente o WaveSpeed AI agora e vivencie o futuro da animação. Nenhum registro necessário.",
+    "heading": "Pronto para Animação de Suas Ideias?",
+    "description": "Experimente o WaveSpeed AI agora e vivencie o futuro da animação. Nenhum cadastro necessário.",
     "ctaText": "Comece a Animar Agora",
     "text": "© 2025 WaveSpeed AI. Todos os direitos reservados."
   }

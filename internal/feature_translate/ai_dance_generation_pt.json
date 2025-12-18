@@ -2,8 +2,8 @@
   "language": "pt",
   "title": "WaveSpeed AI - Geração de Dança com IA",
   "meta": {
-    "description": "Desperte o engajamento com performances de dança dinâmicas geradas a partir de suas imagens usando tecnologia de IA de ponta. Perfeito para marketing, entretenimento e criação de conteúdo para redes sociais. Experimente gratuitamente hoje!",
-    "keywords": "geração de dança com IA, criação de movimento com IA, gerador de vídeo de dança, criador de performance com IA, ferramentas de engajamento, vídeo para redes sociais, criatividade em marketing, conteúdo interativo em vídeo, WaveSpeed AI, imagem para vídeo de dança, criador de vídeos de entretenimento"
+    "description": "Desperte o engajamento com performances de dança dinâmicas geradas a partir de suas imagens usando tecnologia AI de ponta. Perfeito para marketing, entretenimento e criação de conteúdo em redes sociais. Experimente GRATUITO hoje!",
+    "keywords": "geração de dança com IA, criação de movimentos com IA, gerador de vídeos de dança, criador de performances com IA, ferramentas de engajamento, vídeo para redes sociais, criatividade em marketing, conteúdo interativo em vídeo, WaveSpeed AI, imagem para vídeo de dança, criador de vídeo de entretenimento"
   },
   "header": {
     "nav": [
@@ -26,10 +26,10 @@
         ]
       },
       {
-        "label": "Mostruário",
+        "label": "Demonstração",
         "items": [
           [
-            "Mostruário",
+            "Demonstração",
             "https://wavespeed.ai/studio/ecommerce/showcase"
           ]
         ]
@@ -39,50 +39,50 @@
   },
   "hero": {
     "heading": "Geração de Vídeo de Dança",
-    "subHeading": "Transforme Imagens Estáticas em Performance de Dança Vibrante",
-    "description": "Transforme suas imagens em vídeos de dança cativantes em minutos. Sem necessidade de coreografia ou filmagens. Potencializado por tecnologias de IA líderes para criar performances visuais hipnotizantes.",
+    "subHeading": "Transforme Imagens Estáticas em Performances de Dança Vibrantes",
+    "description": "Transforme suas imagens em vídeos de dança cativantes em minutos. Sem coreografia ou filmagens necessárias. Alimentado por tecnologias de IA líderes para criar performances visuais hipnotizantes.",
     "tryText": "Experimente Agora",
     "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
   },
   "compare": {
-    "heading": "Solução de Geração de Dança com IA WaveSpeed AI",
+    "heading": "Solução de Geração de Dança com IA WaveSpeed",
     "left": {
       "heading": "Desafios da Produção de Dança Tradicional",
       "items": [
         "Custos de produção elevados (até $5000 por projeto)",
-        "Necessita de dançarinos e especialização em coreografia",
+        "Requer especialistas em dança e coreografia",
         "Planejamento e ensaio que consomem tempo (até 2 semanas)",
         "Criatividade e adaptabilidade limitadas nas performances",
-        "Alto custo de entrada para pequenos criadores"
+        "Alta barreira de entrada para criadores pequenos"
       ]
     },
     "right": {
       "heading": "Solução WaveSpeed AI",
       "items": [
         "Gere vídeos de dança em 1-2 minutos a partir de imagens estáticas",
-        "Nenhuma equipe de dança ou coreografia envolvida - Basta enviar imagens",
-        "Criação instantânea com movimento potente guiado por IA",
+        "Nenhuma equipe de dança ou coreografia envolvida - Basta fazer upload de imagens",
+        "Criação instantânea com movimento poderoso impulsionado por IA",
         "Estilos e variações ilimitadas para cada conceito",
-        "Modelo de precificação acessível adequado para todos os criadores"
+        "Modelo de preços acessível adequado para todos os criadores"
       ],
       "tryText": "Experimente"
     }
   },
   "howItWorks": {
     "heading": "Como Funciona",
-    "description": "De imagem estática a performance de dança em 4 etapas fáceis",
+    "description": "De imagem estática a performance de dança em 4 passos fáceis",
     "steps": [
       {
         "number": "1",
-        "title": "Carregar Imagem",
-        "text": "Envie uma imagem do assunto que você deseja apresentar dançando",
+        "title": "Enviar Imagem",
+        "text": "Envie uma imagem do sujeito que você deseja mostrar dançando",
         "color": "#3b82f6",
         "icon": "BlueStar"
       },
       {
         "number": "2",
         "title": "Descrever Movimento",
-        "text": "Opcional: Defina o estilo de dança ou movimentos (ex: \"movimentos de hip-hop\")",
+        "text": "Opcional: Defina o estilo de dança ou movimentos (por exemplo, \"movimentos de hip-hop\")",
         "color": "#a855f7",
         "icon": "PurpleCircle"
       },
@@ -96,7 +96,7 @@
       {
         "number": "4",
         "title": "Baixar Vídeo de Dança",
-        "text": "Receba o vídeo de performance de dança em HD em minutos",
+        "text": "Receba vídeo de performance de dança em HD em apenas minutos",
         "color": "#fb923c",
         "icon": "OrangeHex"
       }
@@ -107,13 +107,13 @@
     "heading": "Oportunidades Criativas Sem Fim",
     "description": "Perfeito para aprimorar várias indústrias e usos",
     "items": [
-      "Clipes de dança virais para redes sociais e desafios",
-      "Vídeos de dança de marketing e promoção",
-      "Conteúdo envolvente para faixas musicais",
+      "Clipes de dança virais em redes sociais e desafios",
+      "Vídeos de dança para marketing e promoção",
+      "Conteúdo envolvente para faixas de música",
       "Animações de dança para desenvolvimento de jogos",
       "Tutoriais de dança e conteúdo instrucional",
       "Visuais de performance ao vivo para eventos",
-      "Narrativas criativas através do movimento",
+      "Contação de histórias criativa através do movimento",
       "Animações personalizadas para marcas e produtos"
     ]
   },
@@ -122,11 +122,11 @@
     "description": "Descubra como criadores estão revolucionando seu conteúdo com IA",
     "items": [
       {
-        "tag": "Artes Performáticas",
+        "tag": "Artes Cênicas",
         "heading": "Desafio de Dança Viral",
         "before": {
           "label": "Antes",
-          "text": "Desafiador e demorado"
+          "text": "Desafiador e que consome tempo"
         },
         "after": {
           "label": "Depois",
@@ -134,7 +134,7 @@
         },
         "value": "95%",
         "key": "Redução de Tempo",
-        "description": "Nós transformamos nossa estratégia promocional gerando vídeos de dança impressionantes a partir das imagens de nossos artistas, aumentando o engajamento em 50% da noite para o dia."
+        "description": "Transformamos nossa estratégia de promoção gerando vídeos de dança impressionantes a partir das imagens dos nossos artistas, aumentando o engajamento em 50% da noite para o dia."
       },
       {
         "tag": "Indústria da Música",
@@ -149,7 +149,7 @@
         },
         "value": "99.5%",
         "key": "Ganho de Eficiência",
-        "description": "Revolucionamos os lançamentos de nossos videoclipes. Com esta ferramenta, podemos criar visuais de dança rápidos que ressoam com nosso público instantaneamente."
+        "description": "Revolucionamos nossos lançamentos de videoclipes. Com esta ferramenta, podemos criar visuais de dança rápidos que ressoam com nosso público instantaneamente."
       }
     ]
   },
@@ -158,10 +158,10 @@
     "description": "Selecione o modelo ideal para suas necessidades de vídeo de dança",
     "items": [
       "Modelo de Dança Padrão: Qualidade básica, 5-10 segundos, resultados rápidos e divertidos",
-      "Modelo de Dança Premium: Qualidade aprimorada, 10-15 segundos, detalhado e fotorealista",
-      "Opções de coreografia personalizadas com base em prompts do usuário",
-      "Estilos diversos, de balé a hip-hop disponíveis",
-      "Tempos de renderização rápidos para conteúdo ao vivo",
+      "Modelo de Dança Premium: Qualidade aprimorada, 10-15 segundos, detalhado e fotorrealista",
+      "Opções de coreografia personalizadas com base em comandos do usuário",
+      "Estilos diversos, de ballet a hip-hop disponíveis",
+      "Tempos de renderização rápidos para conteúdos ao vivo",
       "Direitos de uso comercial incluídos"
     ]
   },
@@ -174,20 +174,20 @@
     "description": "Tudo o que você precisa saber",
     "items": [
       {
-        "question": "Qual a qualidade e duração do vídeo que posso esperar?",
-        "answer": "O modelo padrão gera vídeos de qualidade em torno de 720p e 5-10 segundos de duração, enquanto o modelo premium oferece qualidade aprimorada em 1080p de até 15 segundos. Ambos garantem transições suaves e movimento para cativar seu público."
+        "question": "Qual qualidade e duração do vídeo posso esperar?",
+        "answer": "O modelo padrão gera vídeos de qualidade em torno de 720p e 5-10 segundos de duração, enquanto o modelo premium oferece qualidade aprimorada de 1080p de até 15 segundos. Ambos garantem transições suaves e movimento para cativar seu público."
       },
       {
         "question": "Posso controlar o estilo e os movimentos da dança?",
-        "answer": "Sim! Você pode especificar estilos de dança e movimentos usando prompts em texto natural. Descreva a coreografia que você gostaria, e a IA aplicará dinâmicas de movimento fluidas para criar uma performance impressionante."
+        "answer": "Sim! Você pode especificar estilos de dança e movimentos usando comandos de texto natural. Descreva a coreografia que você deseja, e a IA aplicará dinâmicas de movimento fluidas para criar uma performance impressionante."
       },
       {
-        "question": "Quais tipos de imagem funcionam melhor para geração de vídeo de dança?",
-        "answer": "Imagens claras que focam no assunto proporcionam os melhores resultados. As imagens devem ser bem iluminadas e, idealmente, capturar o corpo inteiro para uma geração de movimento mais rica. Formatos como JPG e PNG são recomendados."
+        "question": "Quais tipos de imagem funcionam melhor para a geração de vídeo de dança?",
+        "answer": "Imagens claras que focam no sujeito oferecem os melhores resultados. As imagens devem ser bem iluminadas e idealmente capturar o corpo inteiro para uma geração de movimento mais rica. Formatos como JPG e PNG são recomendados."
       },
       {
-        "question": "Como isso difere dos vídeos de dança tradicionais?",
-        "answer": "Vídeos de dança gerados por IA incorporam movimento dinâmico e coreografias envolventes derivadas de imagens estáticas. Diferente dos métodos tradicionais que exigem tempo e recursos extensivos, nossa solução é instantânea e não requer experiência prévia em dança."
+        "question": "Como isso difere de vídeos de dança tradicionais?",
+        "answer": "Vídeos de dança gerados por IA incorporam movimento dinâmico e coreografia envolvente derivada de imagens estáticas. Ao contrário dos métodos tradicionais que exigem tempo e recursos extensivos, nossa solução é instantânea e não requer expertise prévia em dança."
       },
       {
         "question": "Posso melhorar a qualidade do vídeo de dança gerado?",
@@ -195,35 +195,35 @@
       },
       {
         "question": "Qual é o modelo de preços para a geração de vídeo de dança?",
-        "answer": "Operamos em um modelo flexível de pagamento conforme uso, sem assinaturas. O pagamento é baseado no formato e na duração dos vídeos de dança gerados, garantindo acessibilidade. Créditos de teste gratuitos estão disponíveis para novos usuários."
+        "answer": "Operamos em um modelo flexível de pagamento conforme o uso, sem assinaturas. O pagamento é baseado no formato e na duração dos vídeos de dança gerados, garantindo acessibilidade. Créditos de teste gratuitos estão disponíveis para novos usuários."
       },
       {
-        "question": "Quanto tempo leva para gerar um vídeo de dança e posso criar vários de uma vez?",
-        "answer": "Normalmente, a geração de vídeo é concluída em 1-2 minutos. Os usuários podem criar vários vídeos de dança simultaneamente através do processamento em lote, permitindo fácil personalização de estilos e formatos."
+        "question": "Quanto tempo leva para gerar um vídeo de dança e posso criar múltiplos ao mesmo tempo?",
+        "answer": "Normalmente, a geração de vídeo é concluída em 1-2 minutos. Os usuários podem criar múltiplos vídeos de dança simultaneamente através do processamento em lote, permitindo fácil personalização de estilos e formatos."
       },
       {
-        "question": "Quais são os casos de uso populares para geração de dança com IA?",
-        "answer": "Esta tecnologia se destaca na criação de conteúdo envolvente para redes sociais, anúncios promocionais e videoclipes, proporcionando aos usuários a capacidade de gerar performances de dança rápidas e cativantes para várias finalidades."
+        "question": "Quais são os casos de uso populares para a geração de dança com IA?",
+        "answer": "Essa tecnologia se destaca na criação de conteúdo envolvente para redes sociais, anúncios promocionais e videoclipes, fornecendo aos usuários a capacidade de gerar performances de dança rápidas e cativantes para diversos propósitos."
       },
       {
         "question": "Eu possuo os direitos comerciais dos vídeos de dança?",
-        "answer": "Sim! Todos os vídeos gerados vêm com direitos comerciais completos, permitindo que você os utilize em várias plataformas para seus projetos sem taxas de licenciamento adicionais."
+        "answer": "Sim! Todos os vídeos gerados vêm com direitos comerciais completos, permitindo que você os utilize em diversas plataformas para seus projetos sem taxas adicionais de licenciamento."
       },
       {
-        "question": "Que suporte está disponível para resolução de problemas?",
-        "answer": "A WaveSpeed oferece recursos abrangentes, incluindo documentação, tutoriais e suporte ao cliente via e-mail e chat ao vivo, garantindo assistência disponível para quaisquer questões ou problemas técnicos."
+        "question": "Que suporte está disponível para solucionar problemas?",
+        "answer": "A WaveSpeed oferece recursos abrangentes, incluindo documentação, tutoriais e suporte ao cliente via e-mail e chat ao vivo, garantindo que assistência esteja disponível para quaisquer questões ou problemas técnicos."
       }
     ]
   },
   "cta": {
     "heading": "Pronto para Criar Seu Primeiro Vídeo de Dança?",
     "description": "Comece com créditos gratuitos - Experimente a emoção você mesmo",
-    "contactUsText": "Entre em Contato",
+    "contactUsText": "Entre em Contato Conosco",
     "tryText": "Experimente Agora →"
   },
   "footer": {
     "heading": "Pronto para Transformar Sua Visão?",
-    "description": "Experimente WaveSpeed AI agora e testemunhe a transformação. Não é necessário se inscrever.",
+    "description": "Experimente a WaveSpeed AI agora e testemunhe a transformação. Sem necessidade de cadastro.",
     "ctaText": "Criar Vídeo de Dança Agora",
     "text": "© 2025 WaveSpeed AI. Todos os direitos reservados."
   }

@@ -2,8 +2,8 @@
   "language": "pt",
   "title": "WaveSpeed AI - Gerador de Capítulos de Vídeo com IA",
   "meta": {
-    "description": "Crie capítulos de vídeo envolventes com IA de forma simples. Perfeito para cursos online, webinars e criadores de conteúdo. Melhore a experiência do espectador e aumente a retenção!",
-    "keywords": "gerador de capítulos de vídeo com IA, segmentação de vídeo, marcadores de conteúdo, criação de vídeo com IA, tecnologia de vídeo interativo, ferramentas para cursos online, aumento do engajamento, capítulos de vídeo de tutoriais, ferramentas de conteúdo educacional, ferramentas de vídeo para webinars, criação de conteúdo"
+    "description": "Crie capítulos de vídeo envolventes com IA sem esforço. Perfeito para cursos online, webinars e criadores de conteúdo. Melhore a experiência do espectador e aumente a retenção!",
+    "keywords": "gerador de capítulos de vídeo com IA, segmentação de vídeo, marcadores de conteúdo, criação de vídeo com IA, tecnologia de vídeo interativo, ferramentas para cursos online, aumento de engajamento, capítulos de vídeo de tutoriais, ferramentas de conteúdo educacional, ferramentas de vídeo de webinar, criação de conteúdo"
   },
   "header": {
     "nav": [
@@ -39,7 +39,7 @@
   },
   "hero": {
     "heading": "Capitalize Seus Vídeos",
-    "subHeading": "Crie Capítulos de Vídeo Envolventes Instantaneamente",
+    "subHeading": "Crie Instantaneamente Capítulos de Vídeo Envolventes",
     "description": "Transforme vídeos longos em experiências interativas com capítulos gerados por IA. Melhore o engajamento e a navegação para seu público em segundos. Experimente agora!",
     "tryText": "Experimente Agora",
     "videoUrl": "https://wavespeed.ai/studio/ecommerce/images/homePage/imageToVideo.mp4"
@@ -49,21 +49,21 @@
     "left": {
       "heading": "Desafios do Edição de Vídeo Tradicional",
       "items": [
-        "A criação manual de capítulos consome tempo",
+        "A criação manual de capítulos leva muito tempo",
         "Requer habilidades técnicas de edição",
-        "Difícil manter os espectadores engajados durante todo o vídeo",
+        "Difícil manter os espectadores engajados durante todo o tempo",
         "Personalização limitada para diferentes segmentos",
-        "Frequentemente resulta em abandono dos espectadores"
+        "Frequentemente leva à perda de espectadores"
       ]
     },
     "right": {
       "heading": "Solução WaveSpeed AI",
       "items": [
         "Geração automática de capítulos de vídeo em minutos",
-        "Nenhuma habilidade de edição necessária - Basta enviar seu vídeo",
+        "Nenhuma habilidade de edição necessária - Basta fazer o upload do seu vídeo",
         "Aumente o engajamento dos espectadores com navegação fácil",
         "Capítulos personalizáveis com base em temas de conteúdo",
-        "Modelo de preços acessível, pagamento por capítulo"
+        "Modelo de preços acessível, pagando por capítulo"
       ],
       "tryText": "Experimente"
     }
@@ -74,15 +74,15 @@
     "steps": [
       {
         "number": "1",
-        "title": "Envie Seu Vídeo",
-        "text": "Basta enviar seu conteúdo em vídeo longo",
+        "title": "Carregue Seu Vídeo",
+        "text": "Basta fazer o upload do seu conteúdo de vídeo longo",
         "color": "#3b82f6",
         "icon": "BlueStar"
       },
       {
         "number": "2",
-        "title": "Selecione Marcadores de Capítulo",
-        "text": "Escolha como deseja definir os capítulos (por exemplo, tópicos, intervalos de tempo)",
+        "title": "Selecione Marcadores de Capítulos",
+        "text": "Escolha como você deseja que os capítulos sejam definidos (por exemplo, tópicos, intervalos de tempo)",
         "color": "#a855f7",
         "icon": "PurpleCircle"
       },
@@ -95,17 +95,17 @@
       },
       {
         "number": "4",
-        "title": "Baixe Seu Vídeo Capitalizado",
+        "title": "Baixe Seu Vídeo Capitulado",
         "text": "Receba seu vídeo interativo com capítulos completos em instantes",
         "color": "#fb923c",
         "icon": "OrangeHex"
       }
     ],
-    "generateText": "Crie Seu Primeiro Vídeo Capitalizado →"
+    "generateText": "Crie Seu Primeiro Vídeo Capitulado →"
   },
   "endlessPossibilities": {
     "heading": "Usos Ilimitados",
-    "description": "Ideal para diversas aplicações e indústrias",
+    "description": "Ideal para várias aplicações e indústrias",
     "items": [
       "Segmentos de cursos online para navegação dos alunos",
       "Destaques de webinars para fácil referência",
@@ -113,20 +113,20 @@
       "Módulos de treinamento empresarial com tópicos claros",
       "Vídeos de demonstração de produtos com recursos segmentados",
       "Gravações de eventos com navegação amigável para o espectador",
-      "Tutoriais educacionais com pontos-chave destacados",
+      "Tutoriais educacionais com pontos-chave marcados",
       "Conteúdo de streaming para melhor engajamento do público"
     ]
   },
   "successStories": {
     "heading": "Histórias de Sucesso Reais",
-    "description": "Descubra como os usuários estão revolucionando sua entrega de conteúdo com IA",
+    "description": "Descubra como os usuários estão revolucionando a entrega de conteúdo com IA",
     "items": [
       {
         "tag": "E-Learning",
         "heading": "Criador de Cursos Online",
         "before": {
           "label": "Antes",
-          "text": "Capitação de capítulos trabalhosa"
+          "text": "Criação de capítulos trabalhosa"
         },
         "after": {
           "label": "Depois",
@@ -134,18 +134,18 @@
         },
         "value": "95%",
         "key": "Tempo Economizado",
-        "description": "Os capítulos ajudaram os alunos a navegar pelos cursos de forma eficaz. O feedback melhorou drasticamente!"
+        "description": "Os capítulos ajudaram os alunos a navegar nos cursos de forma eficaz. O feedback melhorou drasticamente!"
       },
       {
         "tag": "Treinamento Corporativo",
         "heading": "Vídeos de Treinamento da Empresa",
         "before": {
           "label": "Antes",
-          "text": "Vídeos longos e confusos"
+          "text": "Vídeos longos confusos"
         },
         "after": {
           "label": "Depois",
-          "text": "Estruturados com capítulos"
+          "text": "Estruturado com capítulos"
         },
         "value": "90%",
         "key": "Aumento de Engajamento",
@@ -155,14 +155,14 @@
   },
   "modelComparison": {
     "heading": "Comparação de Modelos de IA",
-    "description": "Selecione o melhor modelo para suas necessidades de capitação",
+    "description": "Selecione o melhor modelo para suas necessidades de capitulação",
     "items": [
-      "Capitação Padrão: Método rápido de criação de segmentos com IA básica",
-      "Capítulos Contextualizados Avançados: Entende o contexto do conteúdo do vídeo para sugestões de capítulos mais sutis",
-      "Carimbos de hora personalizáveis com preferências definidas pelo usuário",
+      "Capacitação Padrão: Método de criação de segmentos rápido com IA básica",
+      "Capítulos Contextuais Avançados: Compreende o contexto do conteúdo do vídeo para sugestões de capítulos refinadas",
+      "Timestamps personalizáveis com preferências definidas pelo usuário",
       "Atualizações em tempo real à medida que os vídeos são editados ou alterados",
       "Funciona perfeitamente com vários tipos e formatos de vídeo",
-      "Ferramentas de navegação de capítulos integradas para espectadores"
+      "Ferramentas integradas de navegação de capítulos para espectadores"
     ]
   },
   "relatedAITools": {
@@ -174,16 +174,16 @@
     "description": "Tudo que você precisa saber",
     "items": [
       {
-        "question": "Quais tipos de vídeos podem se beneficiar da capitação?",
-        "answer": "Qualquer conteúdo longo, como cursos online, webinars, conferências ou tutoriais pode aproveitar a capitação para melhorar a experiência e retenção dos espectadores."
+        "question": "Quais tipos de vídeos podem se beneficiar da capitulação?",
+        "answer": "Qualquer conteúdo longo, como cursos online, webinars, conferências ou tutoriais pode se beneficiar da capitulação para melhorar a experiência do espectador e a retenção."
       },
       {
-        "question": "Posso personalizar os títulos e descrições dos capítulos?",
-        "answer": "Sim! Você tem total controle para personalizar o título e a descrição de cada capítulo para garantir clareza e relevância para seu público."
+        "question": "Posso personalizar títulos e descrições dos capítulos?",
+        "answer": "Sim! Você tem controle total para personalizar o título e a descrição de cada capítulo para garantir clareza e relevância para seu público."
       },
       {
-        "question": "Com que rapidez posso gerar vídeos capitulados?",
-        "answer": "O processo de geração é rápido, geralmente concluído em minutos, dependendo do comprimento do vídeo."
+        "question": "Quão rápido posso gerar vídeos capitulados?",
+        "answer": "O processo de geração é rápido, normalmente concluído em minutos dependendo do comprimento do vídeo."
       },
       {
         "question": "Há um limite para quantos capítulos posso criar?",
@@ -191,40 +191,40 @@
       },
       {
         "question": "Quais formatos de vídeo são suportados para upload?",
-        "answer": "Aceitamos vários formatos, incluindo MP4, AVI e MOV para uma integração perfeita."
+        "answer": "Aceitamos vários formatos, incluindo MP4, AVI e MOV para integração sem problemas."
       },
       {
-        "question": "Como funciona a precificação para a geração de capítulos?",
-        "answer": "Nossa precificação é baseada em um modelo de pagamento por capítulo, permitindo que você gerencie os custos de forma eficiente de acordo com suas necessidades."
+        "question": "Como funciona a precificação para geração de capítulos?",
+        "answer": "Nossa precificação é baseada em um modelo de pagamento por capítulo, permitindo que você gerencie os custos de forma eficiente com base em suas necessidades."
       },
       {
-        "question": "Posso usar marcadores de capítulo para transmissões ao vivo?",
-        "answer": "Sim! Você pode criar capítulos para transmissões ao vivo gravadas, tornando-as mais acessíveis para os espectadores após a transmissão."
+        "question": "Posso usar marcadores de capítulos para transmissões ao vivo?",
+        "answer": "Sim! Você pode criar capítulos para transmissões gravadas, tornando-as mais acessíveis para os espectadores após a transmissão."
       },
       {
         "question": "Existem direitos comerciais associados aos vídeos gerados?",
-        "answer": "Todos os vídeos processados por nossa plataforma vêm com direitos comerciais completos para uso irrestrito em todos os meios."
+        "answer": "Todos os vídeos processados por nossa plataforma vêm com direitos comerciais completos para uso irrestrito em todas as mídias."
       },
       {
-        "question": "Quais recursos de suporte estão disponíveis para resolução de problemas?",
-        "answer": "Oferecemos suporte extenso, incluindo documentação, tutoriais em vídeo e uma equipe de suporte dedicada para ajudar com quaisquer problemas."
+        "question": "Quais recursos de suporte estão disponíveis para solução de problemas?",
+        "answer": "Oferecemos suporte extensivo, incluindo documentação, tutoriais em vídeo e uma equipe de suporte dedicada para ajudar com quaisquer problemas."
       },
       {
         "question": "Há uma opção para processamento em lote de vários vídeos?",
-        "answer": "Sim, você pode processar vários vídeos em lote para agilizar seu fluxo de trabalho de criação de conteúdo."
+        "answer": "Sim, você pode processar em lote vários vídeos para agilizar seu fluxo de trabalho de criação de conteúdo."
       }
     ]
   },
   "cta": {
     "heading": "Pronto para Criar Capítulos de Vídeo Envolventes?",
     "description": "Comece com créditos gratuitos para experimentar por si mesmo",
-    "contactUsText": "Entre em Contato Conosco",
+    "contactUsText": "Entre em contato",
     "tryText": "Experimente Agora →"
   },
   "footer": {
     "heading": "Transforme Seu Conteúdo de Vídeo Hoje!",
-    "description": "Experimente o WaveSpeed AI e eleve seus capítulos de vídeo. Não é necessário se inscrever.",
-    "ctaText": "Comece a Capitalizar Agora",
+    "description": "Experimente o WaveSpeed AI e eleve seus capítulos de vídeo. Sem necessidade de cadastro.",
+    "ctaText": "Comece a Capitular Agora",
     "text": "© 2025 WaveSpeed AI. Todos os direitos reservados."
   }
 }
